@@ -1,0 +1,375 @@
+Case ID;Activity;Resource;Complete Timestamp;Variant;Variant index;concept:name;impact;lifecycle:transition;org:group;org:role;organization country;organization involved;product;resource country;Duration
+1-182640781;Queued-Awaiting Assignment;Niklas;2010/08/25 11:13:01.000;Variant 37;37;Queued;Medium;Awaiting Assignment;Org line A2;A2_2;se;G167 2nd;PROD681;Sweden;22970909.0
+1-236817141;Queued-Awaiting Assignment;Tomas;2010/08/25 11:06:45.000;Variant 37;37;Queued;Medium;Awaiting Assignment;Org line A2;A2_2;cn;G167 2nd;PROD681;Sweden;22970531.0
+1-342442140;Accepted-In Progress;Lena;2010/01/05 16:42:20.000;Variant 1;1;Accepted;Medium;In Progress;Org line A2;A2_3;se;G354 3rd;PROD708;Sweden;0.0
+1-345255471;Accepted-In Progress;Mats;2010/01/14 15:02:21.000;Variant 31;31;Accepted;Medium;In Progress;Org line C;E_4;gb;G88 2nd;PROD793;Sweden;0.0
+1-345255471;Queued-Awaiting Assignment;Mats;2010/01/15 15:10:22.000;Variant 31;31;Queued;Medium;Awaiting Assignment;Org line C;E_4;gb;G88 2nd;PROD793;Sweden;86881.0
+1-347461373;Accepted-In Progress;Daniel;2010/01/21 16:42:26.000;Variant 4;4;Accepted;Major;In Progress;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;0.0
+1-347923966;Accepted-In Progress;Roger;2010/01/25 09:19:08.000;Variant 71;71;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD46;Sweden;0.0
+1-347923966;Accepted-Assigned;Roger;2010/02/08 11:41:12.000;Variant 71;71;Accepted;Medium;Assigned;Org line A2;A2_2;se;G357 2nd;PROD46;Sweden;1218124.0
+1-347923966;Accepted-In Progress;Roger;2010/03/03 15:54:09.000;Variant 71;71;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD46;Sweden;2002377.0
+1-347923966;Accepted-Assigned;Barbara;2010/03/03 15:54:25.000;Variant 71;71;Accepted;Medium;Assigned;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;16.0
+1-347924629;Accepted-In Progress;Ann;2010/01/25 07:44:36.000;Variant 14;14;Accepted;Low;In Progress;Org line A2;A2_3;se;G349 3rd;PROD40;Sweden;0.0
+1-349857482;Accepted-In Progress;Anders;2010/01/27 13:58:09.000;Variant 1;1;Accepted;Medium;In Progress;Org line A2;A2_2;se;G341 3rd;PROD246;Sweden;0.0
+1-351187625;Accepted-In Progress;Daniel;2010/02/02 15:50:20.000;Variant 4;4;Accepted;Major;In Progress;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;0.0
+1-351314317;Accepted-In Progress;Ewa;2010/02/03 09:34:32.000;Variant 2;2;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;POLAND;0.0
+1-351314317;Queued-Awaiting Assignment;Ewa;2010/02/03 09:45:18.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line A2;A2_2;us;G21 2nd;PROD98;POLAND;646.0
+1-351314317;Accepted-In Progress;Ewa;2010/02/03 10:40:51.000;Variant 2;2;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;POLAND;3333.0
+1-351314317;Accepted-Assigned;Ewa;2010/02/03 10:40:58.000;Variant 2;2;Accepted;Medium;Assigned;Org line A2;A2_2;us;G21 2nd;PROD98;POLAND;7.0
+1-351869391;Accepted-In Progress;Carrie;2010/02/05 10:00:12.000;Variant 4;4;Accepted;Medium;In Progress;Org line A2;A2_2;cn;G4 2nd;PROD753;China;0.0
+1-353818791;Queued-Awaiting Assignment;Martin;2010/02/12 14:00:54.000;Variant 22;22;Queued;Low;Awaiting Assignment;Org line C;C_3;se;G292 3rd;PROD815;Sweden;0.0
+1-353818791;Accepted-In Progress;Martin;2010/02/12 14:01:08.000;Variant 22;22;Accepted;Low;In Progress;Org line C;C_3;se;G292 3rd;PROD815;Sweden;14.0
+1-353818791;Queued-Awaiting Assignment;Martin;2010/10/28 19:15:39.000;Variant 22;22;Queued;Low;Awaiting Assignment;Org line C;C_3;se;G292 3rd;PROD815;Sweden;22310071.0
+1-353818791;Accepted-In Progress;Björn;2010/10/29 17:11:03.000;Variant 22;22;Accepted;Low;In Progress;Org line C;C_3;se;G292 3rd;PROD815;Sweden;78924.0
+1-354039443;Accepted-In Progress;Carolyn;2010/02/15 07:41:51.000;Variant 20;20;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-354039443;Accepted-In Progress;Carolyn;2010/02/15 07:48:52.000;Variant 20;20;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;421.0
+1-354039443;Accepted-Assigned;Carolyn;2010/02/15 12:10:30.000;Variant 20;20;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;15698.0
+1-354350908;Accepted-Wait;Tomas;2010/02/16 11:03:41.000;Variant 74;74;Accepted;Medium;Wait;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;0.0
+1-354376900;Accepted-Wait;Tomas;2010/02/16 11:04:37.000;Variant 74;74;Accepted;Medium;Wait;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;0.0
+1-357087417;Accepted-In Progress;Carolyn;2010/03/01 06:54:12.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-357087417;Queued-Awaiting Assignment;Carolyn;2010/03/01 07:04:33.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;621.0
+1-357087417;Accepted-In Progress;Naga;2010/03/01 11:53:51.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;17358.0
+1-357087417;Accepted-Assigned;Carolyn;2010/03/01 12:00:54.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;423.0
+1-357610411;Accepted-In Progress;Reine;2010/03/02 11:41:18.000;Variant 3;3;Accepted;Low;In Progress;Org line G4;;se;S28 2nd;PROD633;Sweden;0.0
+1-357610411;Accepted-Wait;Reine;2010/09/19 09:21:17.000;Variant 3;3;Accepted;Low;Wait;Org line G4;;se;S28 2nd;PROD633;Sweden;17357999.0
+1-358776870;Accepted-In Progress;Katarzyna;2010/03/08 09:17:56.000;Variant 3;3;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD740;POLAND;0.0
+1-358776870;Accepted-Wait;Katarzyna;2010/03/08 09:19:32.000;Variant 3;3;Accepted;Medium;Wait;Org line A2;A2_2;se;G357 2nd;PROD740;POLAND;96.0
+1-359215498;Accepted-In Progress;Damian;2010/03/09 11:28:51.000;Variant 45;45;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD47;POLAND;0.0
+1-359781492;Accepted-In Progress;Eva;2010/03/11 10:02:02.000;Variant 1;1;Accepted;Medium;In Progress;Org line V2;;se;T2 2nd;PROD451;Sweden;0.0
+1-360464815;Accepted-In Progress;Panigrahy;2010/03/15 14:40:16.000;Variant 7;7;Accepted;Medium;In Progress;Org line A2;D_1;in;L50 3rd;PROD611;Sweden;0.0
+1-360464815;Accepted-Wait;Panigrahy;2010/04/15 16:32:45.000;Variant 7;7;Accepted;Medium;Wait;Org line A2;D_1;in;L50 3rd;PROD611;Sweden;2685149.0
+1-360667704;Accepted-In Progress;Barbara;2010/03/16 08:44:27.000;Variant 3;3;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD740;POLAND;0.0
+1-360667704;Accepted-Wait;Barbara;2010/06/15 09:42:52.000;Variant 3;3;Accepted;Medium;Wait;Org line A2;A2_2;se;G357 2nd;PROD740;POLAND;7865905.0
+1-361368011;Accepted-In Progress;Didier;2010/03/18 11:44:05.000;Variant 4;4;Accepted;Medium;In Progress;Org line C;E_3;us;G67 2nd;PROD151;France;0.0
+1-363041157;Accepted-In Progress;Lena;2010/03/26 08:24:05.000;Variant 1;1;Accepted;Medium;In Progress;Org line A2;A2_3;se;G354 3rd;PROD708;Sweden;0.0
+1-363549934;Accepted-In Progress;Carolyn;2010/03/29 11:38:31.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-363549934;Queued-Awaiting Assignment;Carolyn;2010/03/29 11:41:32.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;181.0
+1-363549934;Accepted-In Progress;Kannan;2010/03/29 13:30:54.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;6562.0
+1-363549934;Accepted-Assigned;Carolyn;2010/03/29 13:30:58.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;4.0
+1-364458525;Accepted-In Progress;Ann;2010/04/01 09:13:49.000;Variant 16;16;Accepted;Medium;In Progress;Org line A2;A2_3;se;G349 3rd;PROD40;Sweden;0.0
+1-364528467;Accepted-In Progress;Y;2010/04/01 14:48:30.000;Variant 36;36;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;0.0
+1-364528467;Accepted-In Progress;Y;2010/04/01 14:49:59.000;Variant 36;36;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;89.0
+1-364528467;Queued-Awaiting Assignment;Carolyn;2010/04/01 14:50:40.000;Variant 36;36;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;41.0
+1-364528467;Accepted-In Progress;Kannan;2010/04/01 19:20:02.000;Variant 36;36;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;16162.0
+1-364528467;Accepted-Assigned;Carolyn;2010/04/01 19:20:07.000;Variant 36;36;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;5.0
+1-365702595;Accepted-In Progress;Carolyn;2010/04/08 12:07:36.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-365702595;Queued-Awaiting Assignment;Carolyn;2010/04/08 12:09:05.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;89.0
+1-365702595;Accepted-In Progress;Kannan;2010/04/08 19:33:49.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;26684.0
+1-365702595;Accepted-Assigned;Carolyn;2010/04/08 19:33:54.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;5.0
+1-366462246;Accepted-In Progress;Daniel;2010/04/12 19:14:40.000;Variant 4;4;Accepted;Major;In Progress;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;0.0
+1-366509892;Accepted-In Progress;Carolyn;2010/04/12 21:37:25.000;Variant 2;2;Accepted;Low;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-366509892;Queued-Awaiting Assignment;Carolyn;2010/04/12 21:47:56.000;Variant 2;2;Queued;Low;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;631.0
+1-366509892;Accepted-In Progress;Kannan;2010/04/13 14:56:39.000;Variant 2;2;Accepted;Low;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;61723.0
+1-366509892;Accepted-Assigned;Carolyn;2010/04/13 14:56:44.000;Variant 2;2;Accepted;Low;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;5.0
+1-366584206;Accepted-In Progress;Carolyn;2010/04/13 09:38:30.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-366584206;Queued-Awaiting Assignment;Carolyn;2010/04/13 09:44:30.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;360.0
+1-366584206;Accepted-In Progress;Kannan;2010/04/13 14:59:01.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;18871.0
+1-366584206;Accepted-Assigned;Carolyn;2010/04/13 14:59:07.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;6.0
+1-366923538;Accepted-In Progress;Carolyn;2010/04/14 11:27:54.000;Variant 60;60;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-366923538;Queued-Awaiting Assignment;Carolyn;2010/04/14 11:47:49.000;Variant 60;60;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;1195.0
+1-366923538;Accepted-In Progress;Niklas;2010/04/14 11:47:50.000;Variant 60;60;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;1.0
+1-366923538;Queued-Awaiting Assignment;Carolyn;2010/04/14 11:54:25.000;Variant 60;60;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;395.0
+1-366923538;Accepted-In Progress;Naga;2010/04/14 19:58:53.000;Variant 60;60;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;29068.0
+1-366923538;Accepted-Assigned;Carolyn;2010/04/14 20:09:15.000;Variant 60;60;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;622.0
+1-367002597;Accepted-In Progress;Helena;2010/04/14 15:53:38.000;Variant 19;19;Accepted;Medium;In Progress;Org line C;C_5;se;G120 3rd;PROD607;Sweden;0.0
+1-367648732;Accepted-In Progress;Carolyn;2010/04/16 18:34:49.000;Variant 2;2;Accepted;Low;In Progress;Org line G3;;us;G199 3rd;PROD95;USA;0.0
+1-367648732;Queued-Awaiting Assignment;Carolyn;2010/04/16 18:42:36.000;Variant 2;2;Queued;Low;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD95;USA;467.0
+1-367648732;Accepted-In Progress;Naga;2010/04/17 01:40:43.000;Variant 2;2;Accepted;Low;In Progress;Org line G3;;us;G199 3rd;PROD95;Sweden;25087.0
+1-367648732;Accepted-Assigned;Carolyn;2010/04/17 01:42:50.000;Variant 2;2;Accepted;Low;Assigned;Org line G3;;us;G199 3rd;PROD95;USA;127.0
+1-368929048;Accepted-In Progress;Carolyn;2010/04/22 15:51:56.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-368929048;Queued-Awaiting Assignment;Carolyn;2010/04/22 16:08:11.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;975.0
+1-368929048;Accepted-In Progress;Naga;2010/04/22 20:19:48.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;15097.0
+1-368929048;Accepted-Assigned;Carolyn;2010/04/22 20:23:29.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;221.0
+1-369693874;Accepted-In Progress;Carolyn;2010/04/26 16:41:03.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-369693874;Queued-Awaiting Assignment;Carolyn;2010/04/26 16:44:34.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;211.0
+1-369693874;Accepted-In Progress;Naga;2010/04/26 20:08:15.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;12221.0
+1-369693874;Accepted-Assigned;Carolyn;2010/04/26 20:12:24.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;249.0
+1-369989135;Accepted-In Progress;Carolyn;2010/04/27 16:40:49.000;Variant 48;48;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-369989135;Accepted-In Progress;Carolyn;2010/04/27 16:43:59.000;Variant 48;48;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;190.0
+1-369989135;Accepted-In Progress;Naga;2010/04/29 15:15:14.000;Variant 48;48;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;167475.0
+1-369989135;Accepted-Assigned;Carolyn;2010/04/29 15:18:16.000;Variant 48;48;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;182.0
+1-370436092;Accepted-In Progress;Celine;2010/04/29 09:23:20.000;Variant 40;40;Accepted;Major;In Progress;Org line C;V3_3;fr;V42 2nd;PROD793;France;0.0
+1-370436092;Queued-Awaiting Assignment;Celine;2010/04/29 09:23:56.000;Variant 40;40;Queued;Major;Awaiting Assignment;Org line C;V3_3;fr;V42 2nd;PROD793;France;36.0
+1-370436092;Accepted-In Progress;Celine;2010/05/04 14:28:29.000;Variant 40;40;Accepted;Major;In Progress;Org line C;V3_3;fr;V42 2nd;PROD793;France;450273.0
+1-370436092;Accepted-In Progress;Celine;2010/11/09 18:47:12.000;Variant 40;40;Accepted;Major;In Progress;Org line C;V3_3;fr;V42 2nd;PROD793;France;16345123.0
+1-371498622;Accepted-In Progress;Carolyn;2010/05/04 18:15:44.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-371498622;Queued-Awaiting Assignment;Carolyn;2010/05/04 18:23:17.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;453.0
+1-371498622;Accepted-In Progress;Naga;2010/05/04 18:24:58.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;101.0
+1-371498622;Accepted-Assigned;Carolyn;2010/05/04 18:27:46.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;168.0
+1-371631962;Accepted-In Progress;Lena;2010/05/05 10:21:02.000;Variant 1;1;Accepted;Medium;In Progress;Org line A2;A2_3;se;G354 3rd;PROD708;Sweden;0.0
+1-371672096;Accepted-In Progress;Carolyn;2010/05/05 13:44:03.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-371672096;Queued-Awaiting Assignment;Carolyn;2010/05/05 14:24:34.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;2431.0
+1-371672096;Accepted-In Progress;Kannan;2010/05/05 16:09:25.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;6291.0
+1-371672096;Accepted-Assigned;Carolyn;2010/05/05 16:09:30.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;5.0
+1-372579132;Accepted-In Progress;Carolyn;2010/05/10 14:01:38.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-372579132;Queued-Awaiting Assignment;Carolyn;2010/05/10 14:07:54.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;376.0
+1-372579132;Accepted-In Progress;Naga;2010/05/10 20:36:38.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;23324.0
+1-372579132;Accepted-Assigned;Carolyn;2010/05/10 20:41:50.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;312.0
+1-372858362;Accepted-In Progress;Carolyn;2010/05/11 15:11:58.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-372858362;Queued-Awaiting Assignment;Carolyn;2010/05/11 15:13:34.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;96.0
+1-372858362;Accepted-In Progress;Naga;2010/05/11 21:18:30.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;21896.0
+1-372858362;Accepted-Assigned;Carolyn;2010/05/11 21:25:17.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;407.0
+1-373110819;Accepted-In Progress;Carolyn;2010/05/12 12:59:40.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-373110819;Queued-Awaiting Assignment;Carolyn;2010/05/12 13:02:27.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;167.0
+1-373110819;Accepted-In Progress;Naga;2010/05/12 21:04:54.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;28947.0
+1-373110819;Accepted-Assigned;Carolyn;2010/05/12 21:06:49.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;115.0
+1-373268674;Accepted-In Progress;Carolyn;2010/05/13 12:56:33.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-373268674;Queued-Awaiting Assignment;Carolyn;2010/05/13 13:05:42.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;549.0
+1-373268674;Accepted-In Progress;Naga;2010/05/14 01:43:08.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;45446.0
+1-373268674;Accepted-Assigned;Carolyn;2010/05/14 01:50:11.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;423.0
+1-373413519;Accepted-In Progress;Carolyn;2010/05/14 08:03:29.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-373413519;Queued-Awaiting Assignment;Carolyn;2010/05/14 08:05:48.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;139.0
+1-373413519;Accepted-In Progress;Kannan;2010/05/14 13:18:59.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;18791.0
+1-373413519;Accepted-Assigned;Carolyn;2010/05/14 13:19:05.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;6.0
+1-373413971;Accepted-In Progress;Carolyn;2010/05/14 10:04:31.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-373413971;Queued-Awaiting Assignment;Carolyn;2010/05/14 10:11:11.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;400.0
+1-373413971;Accepted-In Progress;Kannan;2010/05/14 13:23:06.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;11515.0
+1-373413971;Accepted-Assigned;Carolyn;2010/05/14 13:23:10.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;4.0
+1-374379174;Accepted-In Progress;Rune;2010/05/19 11:58:36.000;Variant 26;26;Accepted;Major;In Progress;Org line A2;A2_3;se;G356 2nd;PROD745;Sweden;0.0
+1-374379174;Queued-Awaiting Assignment;Rune;2010/06/15 08:18:34.000;Variant 26;26;Queued;Major;Awaiting Assignment;Org line A2;A2_3;se;G356 2nd;PROD745;Sweden;2319598.0
+1-374379174;Accepted-In Progress;Lars;2010/06/15 12:50:39.000;Variant 26;26;Accepted;Major;In Progress;Org line A2;A2_3;se;G356 2nd;PROD745;Sweden;16325.0
+1-374379174;Accepted-Wait;Lars;2010/06/15 12:50:54.000;Variant 26;26;Accepted;Major;Wait;Org line A2;A2_3;se;G356 2nd;PROD745;Sweden;15.0
+1-374630866;Accepted-In Progress;Carolyn;2010/05/20 12:55:23.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-374630866;Queued-Awaiting Assignment;Carolyn;2010/05/20 13:43:22.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;2879.0
+1-374630866;Accepted-In Progress;Naga;2010/05/21 00:57:03.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;40421.0
+1-374630866;Accepted-Assigned;Carolyn;2010/05/21 00:58:48.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;105.0
+1-375337251;Accepted-In Progress;Carolyn;2010/05/24 14:32:13.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-375337251;Queued-Awaiting Assignment;Carolyn;2010/05/24 14:44:34.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;741.0
+1-375337251;Accepted-In Progress;Naga;2010/05/25 03:30:49.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;45975.0
+1-375337251;Accepted-Assigned;Carolyn;2010/05/25 03:33:22.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;153.0
+1-375430388;Accepted-In Progress;Carolyn;2010/05/24 17:28:06.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-375430388;Queued-Awaiting Assignment;Carolyn;2010/05/24 17:30:59.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;173.0
+1-375430388;Accepted-In Progress;Naga;2010/05/25 03:27:35.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;35796.0
+1-375430388;Accepted-Assigned;Carolyn;2010/05/25 03:30:17.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;162.0
+1-375646314;Accepted-In Progress;Carolyn;2010/05/25 13:27:54.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-375646314;Queued-Awaiting Assignment;Carolyn;2010/05/25 13:32:07.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;253.0
+1-375646314;Accepted-In Progress;Kannan;2010/05/25 13:55:40.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;1413.0
+1-375646314;Accepted-Assigned;Carolyn;2010/05/25 13:55:45.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;5.0
+1-375670011;Accepted-In Progress;Helene;2010/05/25 14:17:44.000;Variant 1;1;Accepted;Medium;In Progress;Org line G4;;se;S30 2nd;PROD410;Sweden;0.0
+1-376424233;Accepted-Assigned;Björn;2010/05/28 10:41:08.000;Variant 18;18;Accepted;High;Assigned;Org line G4;;se;S30 2nd;PROD412;Sweden;0.0
+1-377276064;Accepted-In Progress;Carolyn;2010/06/02 09:21:51.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-377276064;Queued-Awaiting Assignment;Carolyn;2010/06/02 09:29:29.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;458.0
+1-377276064;Accepted-In Progress;Kannan;2010/06/02 12:37:06.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;11257.0
+1-377276064;Accepted-Assigned;Carolyn;2010/06/02 12:37:11.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;5.0
+1-377458451;Accepted-In Progress;Carolyn;2010/06/02 15:14:09.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-377458451;Queued-Awaiting Assignment;Carolyn;2010/06/02 15:16:27.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;138.0
+1-377458451;Accepted-In Progress;Kannan;2010/06/02 15:35:15.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;1128.0
+1-377458451;Accepted-Assigned;Carolyn;2010/06/02 15:35:21.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;6.0
+1-378054711;Accepted-In Progress;Carolyn;2010/06/04 17:57:53.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-378054711;Queued-Awaiting Assignment;Carolyn;2010/06/04 17:59:45.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;112.0
+1-378054711;Accepted-In Progress;Kannan;2010/06/04 18:08:12.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;507.0
+1-378054711;Accepted-Assigned;Carolyn;2010/06/04 18:08:18.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;6.0
+1-379209685;Accepted-In Progress;Carrie;2010/06/10 10:51:43.000;Variant 4;4;Accepted;Medium;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;China;0.0
+1-379702919;Accepted-In Progress;Ulrika;2010/06/13 16:31:25.000;Variant 28;28;Accepted;High;In Progress;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;0.0
+1-379702919;Queued-Awaiting Assignment;Ulrika;2010/06/13 16:34:31.000;Variant 28;28;Queued;High;Awaiting Assignment;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;186.0
+1-379702919;Accepted-In Progress;Ulrika;2010/10/25 11:08:52.000;Variant 28;28;Accepted;High;In Progress;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;11558061.0
+1-379789104;Accepted-In Progress;Barbara;2010/06/14 08:38:32.000;Variant 49;49;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;0.0
+1-379789104;Accepted-Wait;Barbara;2010/06/14 08:38:53.000;Variant 49;49;Accepted;Medium;Wait;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;21.0
+1-379789104;Accepted-In Progress;Barbara;2010/06/14 15:34:32.000;Variant 49;49;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;24939.0
+1-379789104;Accepted-Wait;Barbara;2010/06/14 15:57:51.000;Variant 49;49;Accepted;Medium;Wait;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;1399.0
+1-379789104;Accepted-In Progress;Barbara;2010/06/15 08:41:34.000;Variant 49;49;Accepted;Medium;In Progress;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;60223.0
+1-379789104;Accepted-Wait;Barbara;2010/06/15 09:43:03.000;Variant 49;49;Accepted;Medium;Wait;Org line A2;A2_2;se;G357 2nd;PROD46;POLAND;3689.0
+1-380297615;Accepted-In Progress;Tomas;2010/06/15 12:58:18.000;Variant 17;17;Accepted;Medium;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD287;Sweden;0.0
+1-380297615;Accepted-Assigned;Tomas;2010/07/20 09:31:54.000;Variant 17;17;Accepted;Medium;Assigned;Org line A2;A2_2;cn;M1 2nd;PROD287;Sweden;3011616.0
+1-380392616;Accepted-In Progress;Carolyn;2010/06/15 16:37:49.000;Variant 54;54;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-380392616;Queued-Awaiting Assignment;Carolyn;2010/06/15 16:46:08.000;Variant 54;54;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;499.0
+1-380392616;Accepted-In Progress;Kannan;2010/06/15 16:50:16.000;Variant 54;54;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;248.0
+1-380392616;Accepted-Assigned;Carolyn;2010/06/15 16:50:22.000;Variant 54;54;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;6.0
+1-380392616;Accepted-In Progress;Kannan;2010/08/27 19:14:48.000;Variant 54;54;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;6315866.0
+1-380392616;Accepted-Assigned;Y;2010/08/27 19:14:57.000;Variant 54;54;Accepted;Medium;Assigned;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;9.0
+1-380392616;Accepted-Wait;Y;2010/09/02 10:36:22.000;Variant 54;54;Accepted;Medium;Wait;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;487285.0
+1-380632889;Accepted-In Progress;David;2010/06/16 16:09:45.000;Variant 67;67;Accepted;High;In Progress;Org line G4;;se;S29 2nd;PROD551;Sweden;0.0
+1-380632889;Queued-Awaiting Assignment;David;2010/08/16 12:24:39.000;Variant 67;67;Queued;High;Awaiting Assignment;Org line G4;;se;S29 2nd;PROD551;Sweden;5256894.0
+1-380632889;Accepted-In Progress;Fredrik;2010/08/17 17:19:11.000;Variant 67;67;Accepted;High;In Progress;Org line G4;;se;S29 2nd;PROD551;Sweden;104072.0
+1-380632889;Accepted-Wait;Fredrik;2010/12/13 10:31:55.000;Variant 67;67;Accepted;High;Wait;Org line G4;;se;S29 2nd;PROD551;Sweden;10170764.0
+1-380654568;Accepted-In Progress;Carolyn;2010/06/16 15:15:09.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-380654568;Queued-Awaiting Assignment;Carolyn;2010/06/16 15:18:36.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;207.0
+1-380654568;Accepted-In Progress;Kannan;2010/06/16 15:29:26.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;650.0
+1-380654568;Accepted-Assigned;Carolyn;2010/06/16 15:29:31.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;5.0
+1-381124870;Accepted-In Progress;Mikael;2010/06/18 08:42:27.000;Variant 17;17;Accepted;High;In Progress;Org line G4;;se;S33 2nd;PROD368;Sweden;0.0
+1-381124870;Accepted-Assigned;Mikael;2010/06/18 08:45:02.000;Variant 17;17;Accepted;High;Assigned;Org line G4;;se;S33 2nd;PROD368;Sweden;155.0
+1-381124870;Accepted-In Progress;Mikael;2010/06/28 11:02:56.000;Variant 17;17;Accepted;High;In Progress;Org line G4;;se;S33 2nd;PROD368;Sweden;872274.0
+1-381124870;Accepted-Wait;Mikael;2010/09/01 12:09:24.000;Variant 17;17;Accepted;High;Wait;Org line G4;;se;S33 2nd;PROD368;Sweden;5619988.0
+1-382209384;Accepted-In Progress;Tomas;2010/06/23 14:13:51.000;Variant 20;20;Accepted;Medium;In Progress;Org line A2;A2_2;se;M1 2nd;PROD681;Sweden;0.0
+1-382442048;Accepted-In Progress;Carolyn;2010/06/24 12:41:19.000;Variant 68;68;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-382442048;Queued-Awaiting Assignment;Carolyn;2010/06/24 12:45:02.000;Variant 68;68;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;223.0
+1-382442048;Accepted-In Progress;Naga;2010/06/24 14:18:38.000;Variant 68;68;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;5616.0
+1-382442048;Accepted-Wait;Naga;2010/06/24 14:19:43.000;Variant 68;68;Accepted;Medium;Wait;Org line G3;;us;G199 3rd;PROD98;Sweden;65.0
+1-382442048;Accepted-Assigned;Carolyn;2010/06/24 14:21:20.000;Variant 68;68;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;97.0
+1-383789251;Accepted-In Progress;Susanne;2010/07/01 12:20:33.000;Variant 1;1;Accepted;Medium;In Progress;Org line G4;;se;S28 2nd;PROD633;Sweden;0.0
+1-385278464;Accepted-In Progress;Pekka;2010/07/08 13:53:30.000;Variant 1;1;Accepted;Low;In Progress;Org line V2;;se;T3 2nd;PROD29;Sweden;0.0
+1-385311756;Accepted-In Progress;Carolyn;2010/07/08 11:42:58.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-385311756;Queued-Awaiting Assignment;Carolyn;2010/07/08 11:48:38.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;340.0
+1-385311756;Accepted-In Progress;Kannan;2010/07/08 13:06:09.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;4651.0
+1-385311756;Accepted-Assigned;Carolyn;2010/07/08 13:06:14.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;5.0
+1-386495623;Accepted-In Progress;Lena;2010/07/15 10:35:37.000;Variant 3;3;Accepted;Medium;In Progress;Org line A2;A2_3;se;G354 3rd;PROD729;Sweden;0.0
+1-386495623;Accepted-Wait;Lena;2010/07/15 10:39:54.000;Variant 3;3;Accepted;Medium;Wait;Org line A2;A2_3;se;G354 3rd;PROD729;Sweden;257.0
+1-388028918;Accepted-In Progress;Carolyn;2010/07/26 10:55:31.000;Variant 57;57;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-388028918;Queued-Awaiting Assignment;Carolyn;2010/07/26 11:00:53.000;Variant 57;57;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;322.0
+1-388028918;Accepted-In Progress;Naga;2010/07/27 01:50:41.000;Variant 57;57;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;53388.0
+1-388028918;Accepted-Assigned;Carolyn;2010/07/27 01:53:16.000;Variant 57;57;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;155.0
+1-388644366;Accepted-In Progress;Carolyn;2010/07/30 09:46:42.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-388644366;Queued-Awaiting Assignment;Carolyn;2010/07/30 09:50:43.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;241.0
+1-388644366;Accepted-In Progress;Kannan;2010/07/30 14:43:09.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;17546.0
+1-388644366;Accepted-Assigned;Carolyn;2010/07/30 14:43:18.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;9.0
+1-388724672;Accepted-In Progress;Carolyn;2010/07/30 13:19:33.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-388724672;Queued-Awaiting Assignment;Carolyn;2010/07/30 13:35:28.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;955.0
+1-388724672;Accepted-In Progress;Kannan;2010/07/30 14:23:52.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;2904.0
+1-388724672;Accepted-Assigned;Carolyn;2010/07/30 14:23:59.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;7.0
+1-390722958;Accepted-In Progress;Christer;2010/08/11 10:39:44.000;Variant 6;6;Accepted;Low;In Progress;Org line G4;;se;S30 2nd;PROD412;Sweden;0.0
+1-390819078;Accepted-In Progress;Carolyn;2010/08/11 14:41:13.000;Variant 57;57;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-390819078;Queued-Awaiting Assignment;Carolyn;2010/08/11 14:49:10.000;Variant 57;57;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;477.0
+1-390819078;Accepted-In Progress;Kannan;2010/08/11 15:08:47.000;Variant 57;57;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;1177.0
+1-390819078;Accepted-Assigned;Carolyn;2010/08/11 15:08:54.000;Variant 57;57;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;7.0
+1-392590655;Accepted-In Progress;Tord;2010/08/18 14:00:14.000;Variant 1;1;Accepted;Medium;In Progress;Org line G4;;se;S28 2nd;PROD108;Sweden;0.0
+1-392812598;Accepted-In Progress;Carolyn;2010/08/19 08:24:05.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-392812598;Queued-Awaiting Assignment;Carolyn;2010/08/19 08:27:30.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;205.0
+1-392812598;Accepted-In Progress;Kannan;2010/08/20 17:02:07.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;117277.0
+1-392812598;Accepted-Assigned;Carolyn;2010/08/20 17:02:16.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;9.0
+1-393413330;Accepted-In Progress;Carolyn;2010/08/20 16:36:29.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-393413330;Queued-Awaiting Assignment;Carolyn;2010/08/20 16:39:43.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;194.0
+1-393413330;Accepted-In Progress;Kannan;2010/08/20 16:58:15.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;1112.0
+1-393413330;Accepted-Assigned;Carolyn;2010/08/20 16:58:21.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;6.0
+1-396569277;Accepted-In Progress;Carolyn;2010/08/30 15:35:45.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-396569277;Queued-Awaiting Assignment;Carolyn;2010/08/30 15:37:18.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;93.0
+1-396569277;Accepted-In Progress;Kannan;2010/08/30 15:45:02.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;464.0
+1-396569277;Accepted-Assigned;Carolyn;2010/08/30 15:45:11.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;9.0
+1-397446945;Accepted-In Progress;Carolyn;2010/09/01 12:17:52.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-397446945;Queued-Awaiting Assignment;Carolyn;2010/09/01 12:22:26.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;274.0
+1-397446945;Accepted-In Progress;Kannan;2010/09/01 13:29:56.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;4050.0
+1-397446945;Accepted-Assigned;Carolyn;2010/09/01 13:30:04.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;8.0
+1-397806545;Accepted-In Progress;Mikael;2010/09/02 09:57:26.000;Variant 72;72;Accepted;High;In Progress;Org line G4;;se;S33 2nd;PROD680;Sweden;0.0
+1-397806545;Accepted-Assigned;Mikael;2010/09/02 10:16:56.000;Variant 72;72;Accepted;High;Assigned;Org line G4;;se;S33 2nd;PROD680;Sweden;1170.0
+1-397806545;Accepted-In Progress;Mikael;2010/09/06 15:13:11.000;Variant 72;72;Accepted;High;In Progress;Org line G4;;se;S33 2nd;PROD680;Sweden;363375.0
+1-397806545;Accepted-Wait;Mikael;2010/09/07 12:13:23.000;Variant 72;72;Accepted;High;Wait;Org line G4;;se;S33 2nd;PROD680;Sweden;75612.0
+1-399013423;Queued-Awaiting Assignment;Ing-Marie;2010/09/06 12:04:31.000;Variant 8;8;Queued;Medium;Awaiting Assignment;Org line G4;;se;G51 2nd;PROD821;Sweden;0.0
+1-400351079;Accepted-In Progress;Per;2010/09/09 11:24:32.000;Variant 4;4;Accepted;Low;In Progress;Org line C;;se;G37 2nd;PROD415;Sweden;0.0
+1-400351079;Accepted-In Progress;Per;2010/09/16 15:11:58.000;Variant 4;4;Accepted;Low;In Progress;Org line C;;se;G37 2nd;PROD415;Sweden;618446.0
+1-400528782;Accepted-In Progress;Helene;2010/09/09 16:58:05.000;Variant 43;43;Accepted;Medium;In Progress;Org line G4;;se;S30 2nd;PROD412;Sweden;0.0
+1-402212071;Accepted-In Progress;Helene;2010/09/16 10:24:07.000;Variant 3;3;Accepted;Medium;In Progress;Org line G4;;se;S30 2nd;PROD412;Sweden;0.0
+1-402212071;Accepted-Wait;Helene;2010/12/29 11:21:28.000;Variant 3;3;Accepted;Medium;Wait;Org line G4;;se;S30 2nd;PROD412;Sweden;8989041.0
+1-402328919;Accepted-In Progress;Tomas;2010/09/16 16:39:32.000;Variant 1;1;Accepted;Low;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;0.0
+1-403006315;Accepted-In Progress;Carolyn;2010/09/20 14:15:00.000;Variant 54;54;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-403006315;Queued-Awaiting Assignment;Carolyn;2010/09/20 14:24:14.000;Variant 54;54;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;554.0
+1-403006315;Accepted-In Progress;Kannan;2010/09/20 14:42:52.000;Variant 54;54;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;1118.0
+1-403006315;Accepted-Assigned;Carolyn;2010/09/20 14:42:58.000;Variant 54;54;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;6.0
+1-403006315;Accepted-In Progress;Kannan;2010/09/23 20:38:14.000;Variant 54;54;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;280516.0
+1-403006315;Accepted-Assigned;Y;2010/09/23 20:38:22.000;Variant 54;54;Accepted;Medium;Assigned;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;8.0
+1-403006315;Accepted-Wait;Y;2010/09/24 09:53:49.000;Variant 54;54;Accepted;Medium;Wait;Org line A2;A2_2;us;G21 2nd;PROD98;Sweden;47727.0
+1-403006315;Queued-Awaiting Assignment;Carolyn;2010/09/24 10:50:48.000;Variant 54;54;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;3419.0
+1-403006315;Accepted-In Progress;Kannan;2010/09/24 18:28:46.000;Variant 54;54;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;27478.0
+1-403006315;Accepted-Assigned;Carolyn;2010/09/24 18:28:56.000;Variant 54;54;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;10.0
+1-404005175;Accepted-In Progress;Per;2010/09/23 16:32:09.000;Variant 3;3;Accepted;Low;In Progress;Org line G4;;se;S33 2nd;PROD304;Sweden;0.0
+1-404005175;Accepted-Wait;Per;2010/12/05 13:28:02.000;Variant 3;3;Accepted;Low;Wait;Org line G4;;se;S33 2nd;PROD304;Sweden;6296153.0
+1-404084309;Accepted-In Progress;Per;2010/09/23 19:58:12.000;Variant 24;24;Accepted;Low;In Progress;Org line G4;;se;S33 2nd;PROD374;Sweden;0.0
+1-405112616;Accepted-In Progress;Carin;2010/09/28 16:22:31.000;Variant 73;73;Accepted;Low;In Progress;Org line A2;A2_3;se;G349 3rd;PROD93;Sweden;0.0
+1-405112616;Accepted-Assigned;Carin;2010/09/28 16:26:58.000;Variant 73;73;Accepted;Low;Assigned;Org line A2;A2_3;se;G349 3rd;PROD93;Sweden;267.0
+1-406852699;Accepted-In Progress;Daniel;2010/10/05 14:39:09.000;Variant 4;4;Accepted;Major;In Progress;Org line A2;A2_3;se;M3 2nd;PROD655;Sweden;0.0
+1-406875315;Accepted-In Progress;Lars;2010/10/05 15:08:44.000;Variant 52;52;Accepted;Medium;In Progress;Org line A2;A2_4;se;G61 3rd;PROD194;Sweden;0.0
+1-407517548;Accepted-In Progress;Michael;2010/10/07 15:39:55.000;Variant 4;4;Accepted;Medium;In Progress;Org line C;E_4;us;G88 2nd;PROD793;USA;0.0
+1-407876996;Accepted-In Progress;Ing-Marie;2010/10/08 17:16:15.000;Variant 5;5;Accepted;Medium;In Progress;Org line G4;;se;G51 2nd;PROD821;Sweden;0.0
+1-407876996;Queued-Awaiting Assignment;Ing-Marie;2010/10/08 17:19:28.000;Variant 5;5;Queued;Medium;Awaiting Assignment;Org line G4;;se;G51 2nd;PROD821;Sweden;193.0
+1-408853759;Accepted-In Progress;Carolyn;2010/10/13 15:25:40.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-408853759;Queued-Awaiting Assignment;Carolyn;2010/10/13 15:27:43.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;123.0
+1-408853759;Accepted-In Progress;Kannan;2010/10/13 16:07:09.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;2366.0
+1-408853759;Accepted-Assigned;Carolyn;2010/10/13 16:07:14.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;5.0
+1-409247778;Accepted-In Progress;Carolyn;2010/10/14 16:01:51.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-409247778;Queued-Awaiting Assignment;Carolyn;2010/10/14 16:05:01.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;190.0
+1-409247778;Accepted-In Progress;Kannan;2010/10/15 12:48:49.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;74628.0
+1-409247778;Accepted-Assigned;Carolyn;2010/10/15 12:48:57.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;8.0
+1-409309026;Accepted-In Progress;Carrie;2010/10/14 17:44:01.000;Variant 4;4;Accepted;Medium;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;China;0.0
+1-410929705;Accepted-In Progress;Carolyn;2010/10/19 15:04:28.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-410929705;Queued-Awaiting Assignment;Carolyn;2010/10/19 15:20:45.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;977.0
+1-410929705;Accepted-In Progress;Kannan;2010/10/19 17:13:27.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;6762.0
+1-410929705;Accepted-Assigned;Carolyn;2010/10/19 17:13:34.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;7.0
+1-411078092;Accepted-In Progress;Carolyn;2010/10/19 18:24:16.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-411078092;Queued-Awaiting Assignment;Carolyn;2010/10/19 18:28:44.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;268.0
+1-411078092;Accepted-In Progress;Kannan;2010/10/20 17:19:49.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;82265.0
+1-411078092;Accepted-Assigned;Carolyn;2010/10/20 17:20:10.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;21.0
+1-413276708;Accepted-In Progress;Rune;2010/10/25 15:20:49.000;Variant 3;3;Accepted;Medium;In Progress;Org line A2;A2_4;us;L23 3rd;PROD521;Sweden;0.0
+1-413276708;Accepted-Wait;Rune;2010/10/25 15:40:53.000;Variant 3;3;Accepted;Medium;Wait;Org line A2;A2_4;us;L23 3rd;PROD521;Sweden;1204.0
+1-413665008;Accepted-In Progress;Tomas;2010/10/26 09:14:34.000;Variant 1;1;Accepted;High;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;0.0
+1-415000020;Accepted-In Progress;Åsa;2010/10/29 11:39:08.000;Variant 62;62;Accepted;Medium;In Progress;Org line C;C_6;se;G141 3rd;PROD660;Sweden;0.0
+1-415000020;Queued-Awaiting Assignment;Åsa;2010/10/29 11:44:24.000;Variant 62;62;Queued;Medium;Awaiting Assignment;Org line C;C_6;se;G141 3rd;PROD660;Sweden;316.0
+1-415000020;Accepted-In Progress;Jonas;2010/11/01 08:37:07.000;Variant 62;62;Accepted;Medium;In Progress;Org line C;C_6;se;G141 3rd;PROD660;Sweden;247963.0
+1-415000020;Queued-Awaiting Assignment;Anna;2010/11/01 11:00:46.000;Variant 62;62;Queued;Medium;Awaiting Assignment;Org line C;E_7;se;G135 2nd;PROD660;Sweden;8619.0
+1-415946366;Accepted-In Progress;Edo;2010/11/02 13:25:54.000;Variant 6;6;Accepted;High;In Progress;Org line C;E_6;se;G334 2nd;PROD101;Sweden;0.0
+1-415946366;Accepted-Assigned;Edo;2010/11/02 13:26:39.000;Variant 6;6;Accepted;High;Assigned;Org line C;E_6;se;G334 2nd;PROD101;Sweden;45.0
+1-416247009;Accepted-In Progress;Jonas;2010/11/03 11:05:57.000;Variant 7;7;Accepted;Medium;In Progress;Org line V2;;se;T4 2nd;PROD63;Sweden;0.0
+1-418122119;Accepted-In Progress;Carolyn;2010/11/09 07:48:53.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-418122119;Queued-Awaiting Assignment;Carolyn;2010/11/09 07:51:35.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;162.0
+1-418122119;Accepted-In Progress;Kannan;2010/11/09 09:48:16.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;7001.0
+1-418122119;Accepted-Assigned;Carolyn;2010/11/09 09:48:31.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;15.0
+1-418890453;Accepted-In Progress;Gustav;2010/11/10 10:48:43.000;Variant 43;43;Accepted;Medium;In Progress;Org line G4;;se;S30 2nd;PROD412;Sweden;0.0
+1-418890453;Completed-Closed;Gustav;2010/12/29 10:30:03.000;Variant 43;43;Completed;Medium;Closed;Org line G4;;se;S30 2nd;PROD412;Sweden;4232480.0
+1-418890453;Accepted-In Progress;Gustav;2010/12/29 10:37:12.000;Variant 43;43;Accepted;Medium;In Progress;Org line G4;;se;S30 2nd;PROD412;Sweden;429.0
+1-419614582;Accepted-In Progress;Suresh;2010/11/12 08:55:20.000;Variant 4;4;Accepted;Low;In Progress;Org line G4;;se;G51 2nd;PROD54;Sweden;0.0
+1-419783741;Accepted-Assigned;Veeraraghavendra;2010/11/12 14:05:33.000;Variant 18;18;Accepted;Medium;Assigned;Org line G4;;se;G51 2nd;PROD405;Sweden;0.0
+1-419783822;Accepted-Assigned;Veeraraghavendra;2010/11/12 14:09:24.000;Variant 18;18;Accepted;Medium;Assigned;Org line G4;;se;G51 2nd;PROD405;Sweden;0.0
+1-422390390;Accepted-In Progress;Carrie;2010/11/19 15:29:24.000;Variant 4;4;Accepted;Medium;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;China;0.0
+1-422877530;Accepted-In Progress;Carolyn;2010/11/22 14:20:07.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-422877530;Queued-Awaiting Assignment;Carolyn;2010/11/22 14:23:19.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;192.0
+1-422877530;Accepted-In Progress;Santhosh;2010/11/22 14:25:19.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;120.0
+1-422877530;Accepted-Assigned;Carolyn;2010/11/22 14:27:37.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;138.0
+1-423484126;Accepted-In Progress;Per;2010/11/24 09:02:16.000;Variant 1;1;Accepted;Medium;In Progress;Org line C;;se;G37 2nd;PROD415;Sweden;0.0
+1-423648343;Accepted-In Progress;Carolyn;2010/11/24 10:01:08.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-423648343;Queued-Awaiting Assignment;Carolyn;2010/11/24 10:14:44.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;816.0
+1-423648343;Accepted-In Progress;Santhosh;2010/11/24 12:45:45.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;9061.0
+1-423648343;Accepted-Assigned;Carolyn;2010/11/24 12:47:40.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;115.0
+1-423724447;Accepted-In Progress;Helene;2010/11/24 11:46:46.000;Variant 1;1;Accepted;Medium;In Progress;Org line G4;;se;S30 2nd;PROD409;Sweden;0.0
+1-424022692;Accepted-In Progress;Carolyn;2010/11/25 05:58:54.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-424022692;Queued-Awaiting Assignment;Carolyn;2010/11/25 06:03:30.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;276.0
+1-424022692;Accepted-In Progress;Kannan;2010/11/25 07:53:36.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;6606.0
+1-424022692;Accepted-Assigned;Carolyn;2010/11/25 08:05:55.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;739.0
+1-424065923;Accepted-In Progress;Carolyn;2010/11/25 09:31:24.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-424065923;Queued-Awaiting Assignment;Carolyn;2010/11/25 09:34:52.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;208.0
+1-424065923;Accepted-In Progress;Kannan;2010/11/25 09:45:05.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;613.0
+1-424065923;Accepted-Assigned;Carolyn;2010/11/25 09:45:12.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;7.0
+1-424243405;Accepted-In Progress;Eric;2010/11/25 11:34:35.000;Variant 3;3;Accepted;Medium;In Progress;Org line G4;;se;S33 2nd;PROD374;Sweden;0.0
+1-424668301;Accepted-In Progress;Carolyn;2010/11/26 12:08:13.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-424668301;Queued-Awaiting Assignment;Carolyn;2010/11/26 12:11:36.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;203.0
+1-424668301;Accepted-In Progress;Santhosh;2010/11/26 17:17:37.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;18361.0
+1-424668301;Accepted-Assigned;Carolyn;2010/11/26 17:19:49.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;132.0
+1-426876102;Accepted-In Progress;Carolyn;2010/12/03 12:08:38.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-426876102;Queued-Awaiting Assignment;Carolyn;2010/12/03 12:14:56.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;378.0
+1-426876102;Accepted-In Progress;Santhosh;2010/12/03 13:43:00.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;5284.0
+1-426876102;Accepted-Assigned;Carolyn;2010/12/03 13:45:20.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;140.0
+1-426969419;Accepted-In Progress;Carolyn;2010/12/03 13:29:18.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-426969419;Queued-Awaiting Assignment;Carolyn;2010/12/03 13:37:26.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;488.0
+1-426969419;Accepted-In Progress;Santhosh;2010/12/03 13:40:54.000;Variant 2;2;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD97;Sweden;208.0
+1-426969419;Accepted-Assigned;Carolyn;2010/12/03 13:42:46.000;Variant 2;2;Accepted;Medium;Assigned;Org line A2;A2_2;us;G21 2nd;PROD97;USA;112.0
+1-427498853;Accepted-In Progress;Carolyn;2010/12/06 14:34:32.000;Variant 58;58;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-427498853;Queued-Awaiting Assignment;Carolyn;2010/12/06 14:45:25.000;Variant 58;58;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;653.0
+1-427498853;Accepted-In Progress;Kannan;2010/12/14 11:26:54.000;Variant 58;58;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;679289.0
+1-427498853;Accepted-Assigned;Carolyn;2010/12/14 11:26:59.000;Variant 58;58;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;5.0
+1-427614010;Accepted-In Progress;Nicolas;2010/12/06 19:10:24.000;Variant 1;1;Accepted;Major;In Progress;Org line C;E_3;be;G64 2nd;PROD436;France;0.0
+1-427955007;Accepted-In Progress;Roland;2010/12/07 14:24:36.000;Variant 51;51;Accepted;Medium;In Progress;Org line G4;;se;S33 2nd;PROD374;Sweden;0.0
+1-428252132;Accepted-In Progress;Anna;2010/12/08 10:23:06.000;Variant 9;9;Accepted;Medium;In Progress;Org line C;E_7;se;G135 2nd;PROD310;Sweden;0.0
+1-428252132;Queued-Awaiting Assignment;Anna;2010/12/08 10:58:04.000;Variant 9;9;Queued;Medium;Awaiting Assignment;Org line C;E_7;se;G135 2nd;PROD310;Sweden;2098.0
+1-428421057;Accepted-In Progress;Carolyn;2010/12/08 16:24:58.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-428421057;Queued-Awaiting Assignment;Carolyn;2010/12/09 08:44:34.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;58776.0
+1-428421057;Accepted-In Progress;Santhosh;2010/12/09 12:10:24.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;12350.0
+1-428421057;Accepted-Assigned;Carolyn;2010/12/09 12:12:29.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;125.0
+1-430793848;Accepted-In Progress;Tord;2010/12/16 09:28:03.000;Variant 1;1;Accepted;Medium;In Progress;Org line G4;;se;S28 2nd;PROD108;Sweden;0.0
+1-430836105;Accepted-In Progress;Abhinav;2010/12/16 11:11:54.000;Variant 3;3;Accepted;High;In Progress;Org line A2;A2_4;se;G105 2nd;PROD337;Sweden;0.0
+1-430836105;Accepted-Wait;Abhinav;2010/12/16 11:12:33.000;Variant 3;3;Accepted;High;Wait;Org line A2;A2_4;se;G105 2nd;PROD337;Sweden;39.0
+1-430880486;Accepted-In Progress;Katarina;2010/12/16 11:55:48.000;Variant 3;3;Accepted;Medium;In Progress;Org line G4;;se;S33 2nd;PROD374;Sweden;0.0
+1-431797119;Accepted-In Progress;Carolyn;2010/12/20 13:58:13.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;USA;0.0
+1-431797119;Queued-Awaiting Assignment;Carolyn;2010/12/20 14:01:14.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD98;USA;181.0
+1-431797119;Accepted-In Progress;Padmanabha;2010/12/21 16:01:57.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD98;Sweden;93643.0
+1-431797119;Accepted-Assigned;Carolyn;2010/12/21 16:02:11.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD98;USA;14.0
+1-432419251;Accepted-In Progress;Carolyn;2010/12/21 17:08:01.000;Variant 58;58;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-432419251;Queued-Awaiting Assignment;Carolyn;2010/12/21 17:22:42.000;Variant 58;58;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;881.0
+1-432419251;Accepted-In Progress;Padmanabha;2010/12/23 11:20:20.000;Variant 58;58;Accepted;Medium;In Progress;Org line A2;A2_2;us;G21 2nd;PROD96;Sweden;151058.0
+1-432419251;Accepted-Assigned;Padmanabha;2010/12/23 11:22:21.000;Variant 58;58;Accepted;Medium;Assigned;Org line A2;A2_2;us;G21 2nd;PROD96;Sweden;121.0
+1-432419251;Accepted-Assigned;Carolyn;2010/12/23 11:22:22.000;Variant 58;58;Accepted;Medium;Assigned;Org line A2;A2_2;us;G21 2nd;PROD96;USA;1.0
+1-432687815;Accepted-In Progress;Bengt;2010/12/22 13:09:10.000;Variant 6;6;Accepted;High;In Progress;Org line C;E_4;us;G88 2nd;PROD219;Sweden;0.0
+1-432687815;Accepted-Assigned;Bengt;2010/12/22 13:16:21.000;Variant 6;6;Accepted;High;Assigned;Org line C;E_4;us;G88 2nd;PROD219;Sweden;431.0
+1-433161361;Accepted-In Progress;Carolyn;2010/12/23 13:22:24.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;USA;0.0
+1-433161361;Queued-Awaiting Assignment;Carolyn;2010/12/23 13:26:08.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD97;USA;224.0
+1-433161361;Accepted-In Progress;Padmanabha;2010/12/23 13:55:48.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD97;Sweden;1780.0
+1-433161361;Accepted-Assigned;Carolyn;2010/12/23 13:57:02.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD97;USA;74.0
+1-434419581;Accepted-In Progress;Carolyn;2010/12/30 10:45:20.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;USA;0.0
+1-434419581;Queued-Awaiting Assignment;Carolyn;2010/12/30 10:56:11.000;Variant 2;2;Queued;Medium;Awaiting Assignment;Org line G3;;us;G199 3rd;PROD96;USA;651.0
+1-434419581;Accepted-In Progress;Padmanabha;2010/12/30 11:03:45.000;Variant 2;2;Accepted;Medium;In Progress;Org line G3;;us;G199 3rd;PROD96;Sweden;454.0
+1-434419581;Accepted-Assigned;Carolyn;2010/12/30 11:06:23.000;Variant 2;2;Accepted;Medium;Assigned;Org line G3;;us;G199 3rd;PROD96;USA;158.0

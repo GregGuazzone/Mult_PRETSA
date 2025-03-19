@@ -1,0 +1,4 @@
+Case ID;Activity;Resource;Complete Timestamp;Variant;Variant index;concept:name;impact;lifecycle:transition;org:group;org:role;organization country;organization involved;product;resource country;Duration
+1-165554831;Accepted-In Progress;Tomas;2007/03/20 09:06:25.000;Variant 23;23;Accepted;Medium;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;0.0
+1-172473423;Accepted-In Progress;Tomas;2007/05/10 16:21:54.000;Variant 23;23;Accepted;Low;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;0.0
+1-182640781;Accepted-In Progress;Niklas;2007/07/25 14:21:05.000;Variant 37;37;Accepted;Medium;In Progress;Org line A2;A2_2;se;G167 2nd;PROD681;Sweden;0.0

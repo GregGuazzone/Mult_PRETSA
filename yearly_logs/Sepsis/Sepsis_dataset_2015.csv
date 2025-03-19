@@ -1,0 +1,190 @@
+Case ID;Activity;Complete Timestamp;Variant;Variant index;Age;CRP;Diagnose;DiagnosticArtAstrup;DiagnosticBlood;DiagnosticECG;DiagnosticIC;DiagnosticLacticAcid;DiagnosticLiquor;DiagnosticOther;DiagnosticSputum;DiagnosticUrinaryCulture;DiagnosticUrinarySediment;DiagnosticXthorax;DisfuncOrg;Hypotensie;Hypoxie;InfectionSuspected;Infusion;LacticAcid;Leucocytes;Oligurie;SIRSCritHeartRate;SIRSCritLeucos;SIRSCritTachypnea;SIRSCritTemperature;SIRSCriteria2OrMore;lifecycle:transition;org:group;Duration
+E;ER Registration;2015/01/15 20:14:58.000;Variant 16;16;75.0;;;True;True;True;True;True;False;False;False;True;True;True;False;False;False;True;True;;;False;True;False;True;True;True;complete;A;0.0
+E;ER Triage;2015/01/15 20:16:03.000;Variant 16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;65.0
+E;ER Sepsis Triage;2015/01/15 20:17:15.000;Variant 16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;72.0
+E;IV Liquid;2015/01/15 20:30:32.000;Variant 16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;797.0
+E;CRP;2015/01/15 20:31:00.000;Variant 16;16;;265.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;28.0
+E;Leucocytes;2015/01/15 20:31:00.000;Variant 16;16;;;;;;;;;;;;;;;;;;;;;8.5;;;;;;;complete;B;0.0
+E;LacticAcid;2015/01/15 20:31:00.000;Variant 16;16;;;;;;;;;;;;;;;;;;;;2.8;;;;;;;;complete;B;0.0
+E;IV Antibiotics;2015/01/15 20:35:59.000;Variant 16;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;299.0
+PB;ER Registration;2015/01/17 19:51:42.000;Variant 47;47;80.0;;V;False;True;True;True;True;False;False;False;False;False;True;False;False;False;True;True;;;False;True;False;True;True;True;complete;A;0.0
+PB;ER Triage;2015/01/17 19:53:28.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;106.0
+PB;ER Sepsis Triage;2015/01/17 19:54:58.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;90.0
+PB;IV Liquid;2015/01/17 19:55:12.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;14.0
+PB;CRP;2015/01/17 20:05:00.000;Variant 47;47;;207.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;588.0
+PB;LacticAcid;2015/01/17 20:05:00.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;1.9;;;;;;;;complete;B;0.0
+PB;Leucocytes;2015/01/17 20:05:00.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;7.4;;;;;;;complete;B;0.0
+PB;IV Antibiotics;2015/01/17 23:11:54.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;11214.0
+PB;Admission NC;2015/01/17 23:12:55.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;O;61.0
+PB;Leucocytes;2015/01/19 08:00:00.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;10.7;;;;;;;complete;B;118025.0
+PB;CRP;2015/01/19 08:00:00.000;Variant 47;47;;263.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+PB;Leucocytes;2015/01/19 11:00:00.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;10.8;;;;;;;complete;B;10800.0
+PB;CRP;2015/01/21 11:00:00.000;Variant 47;47;;139.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;172800.0
+PB;Leucocytes;2015/01/21 11:00:00.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;9.1;;;;;;;complete;B;0.0
+PB;Release A;2015/01/23 14:00:00.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;183600.0
+PB;Return ER;2015/02/05 09:15:08.000;Variant 47;47;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;1106108.0
+BC;ER Registration;2015/02/07 15:14:13.000;Variant 2;2;80.0;;;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;;;False;False;False;False;False;False;complete;A;0.0
+BC;ER Triage;2015/02/07 15:43:50.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1777.0
+BC;ER Sepsis Triage;2015/02/07 15:45:17.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;87.0
+BC;Leucocytes;2015/02/07 16:23:00.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;12.0;;;;;;;complete;B;2263.0
+BC;CRP;2015/02/07 16:23:00.000;Variant 2;2;;85.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+QC;ER Registration;2015/01/21 17:57:22.000;Variant 33;33;70.0;;R;False;True;True;True;True;False;False;False;True;True;True;False;True;False;True;True;;;False;True;False;False;True;True;complete;A;0.0
+QC;ER Triage;2015/01/21 18:17:15.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1193.0
+QC;ER Sepsis Triage;2015/01/21 18:17:38.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;23.0
+QC;Leucocytes;2015/01/21 19:39:00.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;10.5;;;;;;;complete;B;4882.0
+QC;CRP;2015/01/21 19:39:00.000;Variant 33;33;;125.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+QC;LacticAcid;2015/01/21 19:39:00.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;2.0;;;;;;;;complete;B;0.0
+QC;IV Liquid;2015/01/21 22:57:15.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;11895.0
+QC;IV Antibiotics;2015/01/21 22:57:27.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;12.0
+QC;Admission NC;2015/01/21 23:01:07.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;R;220.0
+QC;CRP;2015/01/22 14:27:00.000;Variant 33;33;;130.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;55553.0
+QC;Leucocytes;2015/01/27 08:00:00.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;9.6;;;;;;;complete;B;408780.0
+QC;CRP;2015/01/27 08:00:00.000;Variant 33;33;;136.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+QC;Leucocytes;2015/01/29 08:00:00.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;7.1;;;;;;;complete;B;172800.0
+QC;CRP;2015/01/29 08:00:00.000;Variant 33;33;;108.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+QC;Release A;2015/02/01 13:00:00.000;Variant 33;33;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;277200.0
+TE;ER Registration;2015/01/06 08:39:52.000;Variant 8;8;30.0;;;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;;;False;False;False;False;False;False;complete;A;0.0
+TE;ER Triage;2015/01/06 08:55:55.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;963.0
+TE;CRP;2015/01/06 08:56:00.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;5.0
+TE;Leucocytes;2015/01/06 08:56:00.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;6.1;;;;;;;complete;B;0.0
+TE;ER Sepsis Triage;2015/01/06 08:56:15.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;15.0
+IK;ER Registration;2015/02/20 11:10:31.000;Variant 5;5;65.0;;;True;True;True;True;True;False;False;False;False;False;True;False;False;False;True;False;;;False;True;False;True;False;True;complete;L;0.0
+IK;ER Triage;2015/02/20 11:30:30.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1199.0
+IK;ER Sepsis Triage;2015/02/20 11:31:09.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;39.0
+IK;Leucocytes;2015/02/20 11:45:00.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;;4.8;;;;;;;complete;B;831.0
+IK;CRP;2015/02/20 11:45:00.000;Variant 5;5;;21.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+IK;LacticAcid;2015/02/20 11:45:00.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;2.2;;;;;;;;complete;B;0.0
+LK;ER Registration;2015/02/15 21:39:55.000;Variant 44;44;75.0;;C;False;True;True;True;True;False;False;False;True;True;True;False;False;False;True;True;;;False;True;False;True;False;True;complete;A;0.0
+LK;ER Triage;2015/02/15 21:44:15.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;260.0
+LK;ER Sepsis Triage;2015/02/15 21:45:16.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;61.0
+LK;CRP;2015/02/15 21:48:00.000;Variant 44;44;;88.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;164.0
+LK;LacticAcid;2015/02/15 21:48:00.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;2.9;;;;;;;;complete;B;0.0
+LK;Leucocytes;2015/02/15 21:48:00.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;11.8;;;;;;;complete;B;0.0
+LK;IV Liquid;2015/02/15 22:48:02.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;3602.0
+LK;IV Antibiotics;2015/02/15 22:48:12.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;10.0
+LK;Admission NC;2015/02/15 23:48:57.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;O;3645.0
+LK;CRP;2015/02/19 08:00:00.000;Variant 44;44;;36.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;288663.0
+LK;Leucocytes;2015/02/19 08:00:00.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;7.5;;;;;;;complete;B;0.0
+LK;Release A;2015/02/19 13:40:00.000;Variant 44;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;20400.0
+LN;Return ER;2015/01/27 13:12:50.000;Variant 51;51;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;29103170.0
+HQ;ER Registration;2015/01/28 15:24:44.000;Variant 31;31;65.0;;E;True;True;False;True;True;False;False;False;False;False;False;False;False;False;True;True;;;False;True;False;True;True;True;complete;A;0.0
+HQ;ER Triage;2015/01/28 15:25:40.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;56.0
+HQ;ER Sepsis Triage;2015/01/28 15:29:19.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;219.0
+HQ;Leucocytes;2015/01/28 15:37:00.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;20.7;;;;;;;complete;B;461.0
+HQ;CRP;2015/01/28 15:37:00.000;Variant 31;31;;473.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+HQ;LacticAcid;2015/01/28 15:37:00.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;2.2;;;;;;;;complete;B;0.0
+HQ;IV Liquid;2015/01/28 20:45:40.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;18520.0
+HQ;IV Antibiotics;2015/01/28 20:45:41.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;1.0
+HQ;Admission NC;2015/01/28 20:48:54.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;G;193.0
+HQ;Admission NC;2015/01/29 11:37:00.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;O;53286.0
+HQ;Leucocytes;2015/01/30 08:00:00.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;15.2;;;;;;;complete;B;73380.0
+HQ;CRP;2015/01/30 08:00:00.000;Variant 31;31;;215.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+HQ;Release A;2015/01/31 18:00:00.000;Variant 31;31;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;122400.0
+IQ;ER Registration;2015/02/12 15:43:06.000;Variant 29;29;75.0;;DC;False;True;True;True;True;False;False;False;True;True;False;False;False;False;True;True;;;False;True;False;True;True;True;complete;L;0.0
+IQ;ER Triage;2015/02/12 15:56:59.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;833.0
+IQ;ER Sepsis Triage;2015/02/12 15:57:20.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;21.0
+IQ;Leucocytes;2015/02/12 16:07:00.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;19.1;;;;;;;complete;B;580.0
+IQ;CRP;2015/02/12 16:07:00.000;Variant 29;29;;66.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+IQ;LacticAcid;2015/02/12 16:07:00.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;1.2;;;;;;;;complete;B;0.0
+IQ;IV Liquid;2015/02/12 18:21:50.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;8090.0
+IQ;IV Antibiotics;2015/02/12 18:22:00.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;10.0
+IQ;Admission NC;2015/02/12 18:22:38.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;H;38.0
+IQ;Leucocytes;2015/02/14 08:00:00.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;9.5;;;;;;;complete;B;135442.0
+IQ;CRP;2015/02/14 08:00:00.000;Variant 29;29;;75.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+IQ;Release A;2015/02/16 12:00:00.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;187200.0
+IQ;Return ER;2015/02/17 12:54:11.000;Variant 29;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;89651.0
+XQ;Release A;2015/01/01 12:37:00.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;103020.0
+XQ;Return ER;2015/03/15 15:40:57.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;6318237.0
+KR;ER Registration;2015/01/05 19:09:49.000;Variant 40;40;85.0;;W;False;True;True;True;True;False;False;False;True;True;True;False;False;False;True;True;;;False;True;False;True;True;True;complete;A;0.0
+KR;ER Triage;2015/01/05 19:33:10.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1401.0
+KR;ER Sepsis Triage;2015/01/05 19:33:27.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;17.0
+KR;Leucocytes;2015/01/05 19:53:00.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;;13.4;;;;;;;complete;B;1173.0
+KR;LacticAcid;2015/01/05 19:53:00.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;1.8;;;;;;;;complete;B;0.0
+KR;CRP;2015/01/05 19:53:00.000;Variant 40;40;;54.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+KR;IV Liquid;2015/01/05 23:11:02.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;11882.0
+KR;IV Antibiotics;2015/01/05 23:11:05.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;3.0
+KR;Admission NC;2015/01/05 23:11:45.000;Variant 40;40;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;D;40.0
+WS;ER Registration;2015/01/23 12:57:03.000;Variant 5;5;90.0;;;False;False;False;True;True;False;False;False;False;False;False;False;False;False;True;False;;;False;True;False;True;True;True;complete;A;0.0
+WS;ER Triage;2015/01/23 13:02:14.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;311.0
+WS;ER Sepsis Triage;2015/01/23 13:02:25.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;11.0
+WS;Leucocytes;2015/01/23 13:27:00.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;;26.8;;;;;;;complete;B;1475.0
+WS;CRP;2015/01/23 13:27:00.000;Variant 5;5;;122.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+WS;LacticAcid;2015/01/23 13:27:00.000;Variant 5;5;;;;;;;;;;;;;;;;;;;;3.2;;;;;;;;complete;B;0.0
+ET;ER Registration;2015/01/26 12:06:00.000;Variant 55;55;80.0;;RC;False;True;True;True;True;False;False;False;True;True;True;False;False;False;True;True;;;False;True;False;False;True;True;complete;A;0.0
+ET;ER Triage;2015/01/26 12:08:45.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;165.0
+ET;ER Sepsis Triage;2015/01/26 12:08:58.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;13.0
+ET;LacticAcid;2015/01/26 12:30:00.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;2.3;;;;;;;;complete;B;1262.0
+ET;CRP;2015/01/26 12:30:00.000;Variant 55;55;;96.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+ET;Leucocytes;2015/01/26 12:30:00.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;11.4;;;;;;;complete;B;0.0
+ET;IV Liquid;2015/01/26 12:58:04.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;1684.0
+ET;IV Antibiotics;2015/01/26 15:58:22.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;10818.0
+ET;Admission NC;2015/01/26 15:59:39.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;H;77.0
+ET;Release A;2015/01/29 10:00:00.000;Variant 55;55;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;237621.0
+PV;ER Registration;2015/02/14 05:11:11.000;Variant 32;32;70.0;;LA;False;True;False;True;True;False;False;False;False;False;True;False;False;False;True;True;;;False;True;False;False;True;True;complete;A;0.0
+PV;ER Triage;2015/02/14 05:15:21.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;250.0
+PV;ER Sepsis Triage;2015/02/14 05:15:35.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;14.0
+PV;Leucocytes;2015/02/14 05:24:00.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;14.6;;;;;;;complete;B;505.0
+PV;CRP;2015/02/14 05:24:00.000;Variant 32;32;;19.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+PV;LacticAcid;2015/02/14 05:24:00.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;1.7;;;;;;;;complete;B;0.0
+PV;IV Liquid;2015/02/14 09:46:55.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;15775.0
+PV;IV Antibiotics;2015/02/14 09:46:59.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;4.0
+PV;Admission NC;2015/02/14 09:47:43.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;U;44.0
+PV;Admission NC;2015/02/14 15:00:00.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;I;18737.0
+PV;Leucocytes;2015/02/17 08:00:00.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;7.5;;;;;;;complete;B;234000.0
+PV;CRP;2015/02/17 08:00:00.000;Variant 32;32;;20.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+PV;Release A;2015/02/19 10:00:00.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;180000.0
+PV;Return ER;2015/04/01 14:51:36.000;Variant 32;32;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;3559896.0
+TX;Return ER;2015/04/02 11:33:25.000;Variant 51;51;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;10622005.0
+IAA;Return ER;2015/02/15 18:33:09.000;Variant 56;56;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;5641389.0
+UAA;ER Registration;2015/02/20 00:01:01.000;Variant 3;3;35.0;;;False;False;True;False;False;False;False;False;False;False;True;False;False;False;False;False;;;False;False;False;False;False;False;complete;A;0.0
+UAA;ER Triage;2015/02/20 00:24:22.000;Variant 3;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1401.0
+UAA;ER Sepsis Triage;2015/02/20 00:24:39.000;Variant 3;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;17.0
+UAA;CRP;2015/02/20 00:33:00.000;Variant 3;3;;26.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;501.0
+UAA;Leucocytes;2015/02/20 00:33:00.000;Variant 3;3;;;;;;;;;;;;;;;;;;;;;7.2;;;;;;;complete;B;0.0
+MCA;ER Registration;2015/01/14 22:14:36.000;Variant 2;2;85.0;;;False;False;True;True;False;False;True;False;False;False;True;False;False;False;True;False;;;False;True;False;False;True;True;complete;A;0.0
+MCA;ER Triage;2015/01/14 22:33:45.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1149.0
+MCA;ER Sepsis Triage;2015/01/14 22:34:12.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;27.0
+MCA;Leucocytes;2015/01/14 22:43:00.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;6.5;;;;;;;complete;B;528.0
+MCA;CRP;2015/01/14 22:43:00.000;Variant 2;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+EDA;ER Registration;2015/02/02 10:35:49.000;Variant 20;20;70.0;;C;True;True;True;True;True;False;False;False;True;True;True;False;False;False;True;True;;;False;False;False;True;True;True;complete;A;0.0
+EDA;ER Triage;2015/02/02 10:43:05.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;436.0
+EDA;ER Sepsis Triage;2015/02/02 10:44:03.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;58.0
+EDA;Leucocytes;2015/02/02 10:59:00.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;8.8;;;;;;;complete;B;897.0
+EDA;CRP;2015/02/02 10:59:00.000;Variant 20;20;;7.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+EDA;LacticAcid;2015/02/02 10:59:00.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;0.5;;;;;;;;complete;B;0.0
+EDA;IV Liquid;2015/02/02 12:12:06.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;4386.0
+EDA;IV Antibiotics;2015/02/02 12:12:07.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;1.0
+EDA;Admission NC;2015/02/02 12:51:39.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;I;2372.0
+EDA;CRP;2015/02/03 08:00:00.000;Variant 20;20;;28.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;68901.0
+EDA;Release A;2015/02/05 16:00:00.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;E;201600.0
+EDA;Return ER;2015/02/09 00:14:34.000;Variant 20;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;?;288874.0
+XDA;ER Registration;2015/01/11 15:42:30.000;Variant 57;57;50.0;;;False;True;True;True;True;False;False;False;False;False;True;False;False;False;True;False;;;False;True;False;False;True;True;complete;A;0.0
+XDA;ER Triage;2015/01/11 15:55:34.000;Variant 57;57;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;784.0
+XDA;ER Sepsis Triage;2015/01/11 15:56:03.000;Variant 57;57;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;29.0
+XDA;LacticAcid;2015/01/11 16:25:00.000;Variant 57;57;;;;;;;;;;;;;;;;;;;;1.9;;;;;;;;complete;B;1737.0
+XDA;Leucocytes;2015/01/11 16:25:00.000;Variant 57;57;;;;;;;;;;;;;;;;;;;;;13.9;;;;;;;complete;B;0.0
+XDA;CRP;2015/01/11 16:25:00.000;Variant 57;57;;26.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+FFA;ER Registration;2015/01/21 00:14:49.000;Variant 1;1;25.0;;;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;;;False;False;False;False;False;False;complete;A;0.0
+FFA;ER Triage;2015/01/21 00:20:06.000;Variant 1;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;317.0
+FFA;ER Sepsis Triage;2015/01/21 00:21:17.000;Variant 1;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;71.0
+DLA;ER Registration;2015/01/04 10:44:28.000;Variant 27;27;35.0;;;False;True;False;True;True;False;False;False;True;True;False;False;False;False;True;True;;;False;True;False;True;True;True;complete;L;0.0
+DLA;ER Triage;2015/01/04 11:06:47.000;Variant 27;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;1339.0
+DLA;LacticAcid;2015/01/04 11:07:00.000;Variant 27;27;;;;;;;;;;;;;;;;;;;;1.1;;;;;;;;complete;B;13.0
+DLA;Leucocytes;2015/01/04 11:07:00.000;Variant 27;27;;;;;;;;;;;;;;;;;;;;;18.9;;;;;;;complete;B;0.0
+DLA;CRP;2015/01/04 11:07:00.000;Variant 27;27;;176.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+DLA;ER Sepsis Triage;2015/01/04 11:07:12.000;Variant 27;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;12.0
+DLA;IV Liquid;2015/01/04 11:07:30.000;Variant 27;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;18.0
+DLA;IV Antibiotics;2015/01/04 14:18:23.000;Variant 27;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;11453.0
+XLA;ER Registration;2015/01/03 11:53:29.000;Variant 7;7;40.0;;;True;True;True;True;True;False;False;False;True;True;True;False;False;False;True;True;;;False;True;False;True;False;True;complete;L;0.0
+XLA;ER Triage;2015/01/03 12:07:20.000;Variant 7;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;831.0
+XLA;ER Sepsis Triage;2015/01/03 12:07:39.000;Variant 7;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;19.0
+XLA;Leucocytes;2015/01/03 12:22:00.000;Variant 7;7;;;;;;;;;;;;;;;;;;;;;18.1;;;;;;;complete;B;861.0
+XLA;LacticAcid;2015/01/03 12:22:00.000;Variant 7;7;;;;;;;;;;;;;;;;;;;;2.5;;;;;;;;complete;B;0.0
+XLA;CRP;2015/01/03 12:22:00.000;Variant 7;7;;160.0;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;0.0
+XLA;IV Liquid;2015/01/03 14:47:18.000;Variant 7;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;8718.0
+XLA;IV Antibiotics;2015/01/03 14:47:21.000;Variant 7;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;L;3.0
+IMA;ER Registration;2015/01/21 17:46:05.000;Variant 8;8;20.0;;;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;;;False;False;False;False;False;False;complete;A;0.0
+IMA;ER Triage;2015/01/21 17:59:42.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;C;817.0
+IMA;CRP;2015/01/21 18:15:00.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;B;918.0
+IMA;Leucocytes;2015/01/21 18:15:00.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;7.6;;;;;;;complete;B;0.0
+IMA;ER Sepsis Triage;2015/01/21 20:07:22.000;Variant 8;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;complete;A;6742.0

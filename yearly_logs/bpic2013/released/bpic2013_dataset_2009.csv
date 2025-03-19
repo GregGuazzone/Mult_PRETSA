@@ -1,0 +1,22 @@
+Case ID;Activity;Resource;Complete Timestamp;Variant;Variant index;concept:name;impact;lifecycle:transition;org:group;org:role;organization country;organization involved;product;resource country;Duration
+1-165554831;Accepted-Wait;Tomas;2009/12/02 14:24:31.000;Variant 23;23;Accepted;Medium;Wait;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;85382286.0
+1-172473423;Accepted-Wait;Tomas;2009/12/02 14:24:33.000;Variant 23;23;Accepted;Low;Wait;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;80949759.0
+1-182640781;Accepted-Wait;Niklas;2009/12/02 14:24:32.000;Variant 37;37;Accepted;Medium;Wait;Org line A2;A2_2;se;G167 2nd;PROD681;Sweden;74390607.0
+1-236817141;Accepted-Wait;Tomas;2009/12/02 14:24:34.000;Variant 37;37;Accepted;Medium;Wait;Org line A2;A2_2;cn;G167 2nd;PROD681;Sweden;47182936.0
+1-270427461;Accepted-Wait;Tomas;2009/12/02 14:24:35.000;Variant 23;23;Accepted;Low;Wait;Org line A2;A2_2;cn;M1 2nd;PROD753;Sweden;33189811.0
+1-310231291;Accepted-In Progress;Mats;2009/06/25 09:47:52.000;Variant 4;4;Accepted;Medium;In Progress;Org line A2;A2_1;se;M18 2nd;PROD38;Sweden;0.0
+1-320604521;Accepted-In Progress;Richard;2009/09/07 14:33:24.000;Variant 42;42;Accepted;Low;In Progress;Org line C;C_6;se;G237 3rd;PROD498;Sweden;0.0
+1-320604521;Unmatched-Unmatched;Richard;2009/09/14 11:37:50.000;Variant 42;42;Unmatched;Low;Unmatched;Org line C;C_6;se;G237 3rd;PROD498;Sweden;594266.0
+1-322581861;Accepted-In Progress;Stefan;2009/09/18 12:50:02.000;Variant 42;42;Accepted;Low;In Progress;Org line C;E_3;se;L54 2nd;PROD385;Sweden;0.0
+1-322581861;Unmatched-Unmatched;Stefan;2009/11/17 14:07:38.000;Variant 42;42;Unmatched;Low;Unmatched;Org line C;E_3;se;L54 2nd;PROD385;Sweden;5188656.0
+1-322980802;Accepted-In Progress;Kerstin;2009/09/21 14:13:43.000;Variant 1;1;Accepted;Medium;In Progress;Org line V2;;se;T2 2nd;PROD631;Sweden;0.0
+1-323264491;Accepted-In Progress;Reine;2009/09/22 14:22:05.000;Variant 10;10;Accepted;Low;In Progress;Org line C;C_5;se;N1 3rd;PROD476;Sweden;0.0
+1-323264491;Accepted-Assigned;Reine;2009/09/22 14:25:17.000;Variant 10;10;Accepted;Low;Assigned;Org line C;C_5;se;N1 3rd;PROD476;Sweden;192.0
+1-327329880;Accepted-In Progress;Carrie;2009/10/14 18:12:54.000;Variant 23;23;Accepted;Medium;In Progress;Org line A2;A2_2;cn;M1 2nd;PROD753;China;0.0
+1-327329880;Accepted-Wait;Carrie;2009/12/02 14:24:37.000;Variant 23;23;Accepted;Medium;Wait;Org line A2;A2_2;cn;M1 2nd;PROD753;China;4219903.0
+1-338946805;Accepted-In Progress;Andre;2009/12/14 14:29:17.000;Variant 4;4;Accepted;High;In Progress;Org line A2;A2_3;se;M21 3rd;PROD708;Sweden;0.0
+1-339798202;Accepted-In Progress;Minnie;2009/12/16 12:59:24.000;Variant 4;4;Accepted;Medium;In Progress;Org line A2;A2_2;se;G30 2nd;PROD191;INDIA;0.0
+1-339889001;Accepted-In Progress;Kenny;2009/12/16 20:47:26.000;Variant 4;4;Accepted;High;In Progress;Org line A2;A2_1;se;L28 2nd;PROD577;Sweden;0.0
+1-340984229;Accepted-In Progress;Jüri;2009/12/22 09:09:31.000;Variant 42;42;Accepted;Medium;In Progress;Org line A2;A2_1;se;G345 2nd;PROD541;Sweden;0.0
+1-340984229;Unmatched-Unmatched;Jüri;2009/12/22 09:25:22.000;Variant 42;42;Unmatched;Medium;Unmatched;Org line A2;A2_1;se;G345 2nd;PROD541;Sweden;951.0
+1-341002175;Accepted-Wait;Jüri;2009/12/22 10:56:03.000;Variant 33;33;Accepted;Low;Wait;Org line A2;A2_1;se;G345 2nd;PROD541;Sweden;0.0

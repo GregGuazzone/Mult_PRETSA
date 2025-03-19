@@ -1,0 +1,1612 @@
+Case ID;Activity;Resource;Complete Timestamp;Variant;Variant index;actOrange;actRed;blocked;caseType;closeCode;diagnosis;flagA;flagB;flagC;flagD;isCancelled;isClosed;lifecycle:transition;msgCode;msgCount;msgType;speciality;state;version;Duration
+BHY;BILLED;ResB;2016/01/13 00:33:47.000;Variant 274;274;;;;;;;;;;;;;complete;;;;;Billed;;2107308.0
+NMOA;STORNO;ResCH;2016/01/09 10:59:35.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Invoice rejected;;58852899.0
+NMOA;REJECT;;2016/01/09 11:00:07.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Rejected;;32.0
+NMOA;REOPEN;;2016/01/09 11:00:18.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;In progress;;11.0
+NMOA;FIN;;2016/01/09 11:28:36.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Closed;;1698.0
+NMOA;RELEASE;;2016/01/09 11:28:38.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Released;;2.0
+NMOA;CODE OK;;2016/01/09 11:28:41.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;;E;3.0
+FBPA;BILLED;ResB;2016/01/02 00:05:27.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;308250.0
+RTQA;STORNO;ResCH;2016/01/02 09:36:21.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Invoice rejected;;55165050.0
+RTQA;REJECT;;2016/01/02 09:36:28.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Rejected;;7.0
+RTQA;REOPEN;;2016/01/02 09:36:46.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;In progress;;18.0
+RTQA;FIN;;2016/01/02 09:39:11.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Closed;;145.0
+RTQA;RELEASE;;2016/01/02 09:39:13.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Released;;2.0
+RTQA;CODE OK;;2016/01/02 09:39:14.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;;E;1.0
+RTQA;BILLED;ResB;2016/01/06 00:05:24.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;311170.0
+VSRA;STORNO;ResCH;2016/01/06 15:31:05.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Invoice rejected;;55099765.0
+VSRA;REJECT;;2016/01/06 15:35:24.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Rejected;;259.0
+VSRA;REOPEN;;2016/01/06 15:35:34.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;In progress;;10.0
+VSRA;FIN;;2016/01/06 15:36:56.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Closed;;82.0
+VSRA;RELEASE;;2016/01/06 15:36:58.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Released;;2.0
+VSRA;CODE OK;;2016/01/06 15:36:59.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;;E;1.0
+VSRA;BILLED;ResB;2016/01/11 00:05:43.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;376124.0
+VVTA;STORNO;ResCH;2016/01/10 11:57:49.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Invoice rejected;;55088495.0
+VVTA;REJECT;;2016/01/10 11:58:02.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Rejected;;13.0
+VVTA;REOPEN;;2016/01/10 11:58:12.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;In progress;;10.0
+VVTA;FIN;;2016/01/10 11:59:17.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Closed;;65.0
+VVTA;RELEASE;;2016/01/10 11:59:19.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;Released;;2.0
+VVTA;CODE OK;;2016/01/10 11:59:20.000;Variant 123;123;;;;;;;;;;;;;complete;;;;;;E;1.0
+AKZA;BILLED;ResB;2016/01/04 00:06:51.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;1506690.0
+SVDB;STORNO;ResDB;2016/01/04 10:03:36.000;Variant 46;46;;;;;;;;;;;;;complete;;;;;Invoice rejected;;28412831.0
+SVDB;REJECT;;2016/01/04 10:03:47.000;Variant 46;46;;;;;;;;;;;;;complete;;;;;Rejected;;11.0
+SVDB;RELEASE;;2016/01/04 10:04:36.000;Variant 46;46;;;;;;;;;;;;;complete;;;;;Released;;49.0
+SVDB;CODE OK;;2016/01/04 10:04:38.000;Variant 46;46;;;;;;;;;;;;;complete;;;;;;;2.0
+SVDB;BILLED;;2016/01/04 10:05:00.000;Variant 46;46;;;;;;;;;;;;;complete;;;;;Billed;;22.0
+SBEB;BILLED;ResB;2016/01/02 00:07:01.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;1850899.0
+IGPB;MANUAL;;2016/01/19 08:58:56.000;Variant 133;133;;;;;;;;;;;;;complete;;;;;Released;;47047106.0
+MEUB;STORNO;ResSB;2016/01/03 10:45:57.000;Variant 64;64;;;;;;;;;;;;;complete;;;;;Invoice rejected;;26428941.0
+MEUB;REJECT;;2016/01/03 10:46:04.000;Variant 64;64;;;;;;;;;;;;;complete;;;;;Rejected;;7.0
+MEUB;SET STATUS;;2016/01/03 10:47:15.000;Variant 64;64;;;;;;;;;;;;;complete;;;;;Unbillable;;71.0
+DJVB;BILLED;ResB;2016/01/03 00:09:14.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2047997.0
+ZUWB;DELETE;ResGA;2016/01/11 11:18:26.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;Billable;;49465762.0
+PBAC;CODE OK;;2016/01/12 19:54:43.000;Variant 225;225;;True;;;;;;;True;;;;complete;;;;;;;2007830.0
+EFKC;STORNO;ResWB;2016/01/10 11:40:13.000;Variant 35;35;;;;;;;;;;;;;complete;;;;;Invoice rejected;;36341494.0
+EFKC;REJECT;;2016/01/10 11:41:32.000;Variant 35;35;;;;;;;;;;;;;complete;;;;;Rejected;;79.0
+EFKC;RELEASE;;2016/01/10 11:42:38.000;Variant 35;35;;;;;;;;;;;;;complete;;;;;Released;;66.0
+EFKC;CODE OK;;2016/01/10 11:42:40.000;Variant 35;35;;;;;;;;;;;;;complete;;;;;;E;2.0
+EFKC;BILLED;;2016/01/10 11:43:59.000;Variant 35;35;;;;;;;;;;;;;complete;;;;;Billed;;79.0
+HZMC;BILLED;ResB;2016/01/11 09:34:41.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2750257.0
+CBQC;STORNO;ResEB;2016/01/06 11:13:31.000;Variant 28;28;;;;;;;;;;;;;complete;;;;;Invoice rejected;;5267467.0
+CBQC;REJECT;;2016/01/06 11:13:36.000;Variant 28;28;;;;;;;;;;;;;complete;;;;;Billable;;5.0
+CBQC;BILLED;ResB;2016/01/08 14:28:53.000;Variant 28;28;;;;;;;;;;;;;complete;;;;;Billed;;184517.0
+VWRC;CODE OK;;2016/01/05 06:04:17.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434005.0
+VWRC;BILLED;ResB;2016/01/08 14:37:28.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;289991.0
+HBWC;RELEASE;;2016/01/04 05:44:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;2283207.0
+HBWC;CODE OK;;2016/01/04 06:17:38.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1990.0
+HBWC;BILLED;ResB;2016/01/05 09:20:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;97358.0
+AOWC;BILLED;ResB;2016/01/01 14:38:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;202940.0
+NRWC;BILLED;ResHG;2016/01/01 22:58:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;403860.0
+UYWC;BILLED;ResHG;2016/01/01 23:36:03.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;235335.0
+ECXC;CODE OK;;2016/01/01 06:16:36.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;261686.0
+ECXC;BILLED;ResB;2016/01/08 14:11:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;633304.0
+VEXC;CODE OK;;2016/01/01 06:34:00.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434289.0
+VEXC;BILLED;ResB;2016/01/07 14:27:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;546811.0
+DJXC;BILLED;ResB;2016/01/02 14:33:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;546790.0
+EJXC;BILLED;ResB;2016/01/04 14:33:10.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;546769.0
+JNXC;RELEASE;;2016/01/03 05:47:22.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Released;;641763.0
+JNXC;CODE NOK;;2016/01/04 06:36:29.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;89347.0
+JNXC;EMPTY;ResWB;2016/01/04 08:10:43.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;5654.0
+NNXC;BILLED;ResB;2016/01/01 14:36:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;289760.0
+LSXC;CODE OK;;2016/01/04 06:10:36.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520500.0
+LSXC;BILLED;ResB;2016/01/07 14:25:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;288898.0
+PSXC;CODE OK;;2016/01/01 06:18:08.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434560.0
+PSXC;BILLED;ResB;2016/01/07 14:33:48.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;548140.0
+WSXC;CODE OK;;2016/01/04 06:10:43.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520505.0
+WSXC;BILLED;ResB;2016/01/07 14:30:52.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;289209.0
+GTXC;CODE OK;;2016/01/05 06:25:01.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521268.0
+GTXC;BILLED;ResB;2016/01/07 14:37:01.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;202320.0
+XTXC;CODE OK;;2016/01/03 06:17:20.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434818.0
+XTXC;BILLED;ResB;2016/01/07 14:30:07.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;375167.0
+FYXC;CODE OK;;2016/01/04 06:34:09.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435149.0
+FYXC;BILLED;ResB;2016/01/08 14:26:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;373911.0
+RBYC;BILLED;ResB;2016/01/04 14:24:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;372982.0
+ACYC;CODE OK;;2016/01/01 06:47:42.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521791.0
+ACYC;BILLED;ResB;2016/01/05 14:36:13.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;373711.0
+CCYC;BILLED;ResB;2016/01/07 09:34:57.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;615712.0
+NDYC;BILLED;ResB;2016/01/02 14:30:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;200975.0
+ODYC;FIN;;2016/01/01 21:41:06.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31529553.0
+ODYC;RELEASE;;2016/01/02 06:01:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;30020.0
+ODYC;CODE OK;;2016/01/08 06:31:24.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520198.0
+ODYC;BILLED;ResB;2016/01/15 09:23:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;615139.0
+RDYC;BILLED;ResB;2016/01/05 09:39:53.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;616105.0
+SDYC;CODE OK;;2016/01/01 06:24:30.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;432982.0
+SDYC;BILLED;ResB;2016/01/02 14:35:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;115864.0
+VEYC;CODE OK;;2016/01/03 06:29:04.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434281.0
+VEYC;BILLED;ResB;2016/01/06 14:35:18.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;288374.0
+IFYC;FIN;;2016/01/02 19:31:14.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31361424.0
+IFYC;RELEASE;;2016/01/03 05:34:19.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36185.0
+IFYC;CODE OK;;2016/01/08 06:14:29.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434410.0
+IFYC;BILLED;ResB;2016/01/15 09:23:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;616139.0
+HGYC;BILLED;ResB;2016/01/03 09:18:13.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;442796.0
+IGYC;CODE OK;;2016/01/01 06:36:35.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434354.0
+IGYC;BILLED;ResB;2016/01/03 14:35:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;201532.0
+JGYC;BILLED;ResB;2016/01/05 09:34:58.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;529662.0
+TGYC;BILLED;ResB;2016/01/02 14:20:35.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;201687.0
+AHYC;CODE OK;;2016/01/05 06:11:40.000;Variant 6;6;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434382.0
+AHYC;BILLED;ResB;2016/01/12 09:32:26.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Billed;;616846.0
+CHYC;FIN;;2016/01/02 19:30:38.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31688493.0
+CHYC;RELEASE;;2016/01/03 05:32:23.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36105.0
+CHYC;CODE OK;;2016/01/08 06:21:28.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434945.0
+CHYC;BILLED;ResB;2016/01/12 09:06:01.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355473.0
+GJYC;BILLED;ResB;2016/01/06 09:40:34.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;617542.0
+DKYC;FIN;;2016/01/05 19:30:49.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31620457.0
+EKYC;FIN;;2016/01/05 19:30:49.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31620092.0
+EKYC;RELEASE;;2016/01/06 05:35:04.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36255.0
+EKYC;CODE OK;;2016/01/11 06:24:23.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434959.0
+EKYC;BILLED;ResB;2016/01/15 09:25:02.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;356439.0
+GKYC;FIN;;2016/01/01 19:33:52.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31270598.0
+GKYC;RELEASE;;2016/01/02 05:35:57.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36125.0
+GKYC;CODE OK;;2016/01/07 06:06:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433857.0
+GKYC;BILLED;ResB;2016/01/08 14:18:33.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;115899.0
+JKYC;CODE OK;;2016/01/02 06:03:20.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;519995.0
+JKYC;BILLED;ResB;2016/01/07 09:36:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;444797.0
+KKYC;BILLED;ResB;2016/01/04 09:36:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;530692.0
+LKYC;CODE OK;;2016/01/03 06:24:32.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434967.0
+LKYC;BILLED;ResB;2016/01/07 09:39:14.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;357282.0
+OKYC;CODE OK;;2016/01/04 06:19:18.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434525.0
+OKYC;BILLED;ResB;2016/01/11 09:17:57.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;615519.0
+RMYC;FIN;;2016/01/02 01:27:01.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31521937.0
+RMYC;RELEASE;;2016/01/02 05:40:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;15216.0
+RMYC;CODE OK;;2016/01/08 06:31:44.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521467.0
+RMYC;BILLED;ResB;2016/01/12 09:39:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;356875.0
+TMYC;RELEASE;;2016/01/01 06:07:21.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;38167.0
+TMYC;CODE OK;;2016/01/06 06:45:25.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434284.0
+TMYC;BILLED;ResB;2016/01/10 09:37:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355954.0
+ZPYC;CODE OK;;2016/01/03 06:06:35.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434133.0
+ZPYC;BILLED;ResB;2016/01/09 09:20:49.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;530054.0
+HSYC;FIN;;2016/01/05 01:03:08.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31455225.0
+HSYC;RELEASE;;2016/01/05 05:40:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;16651.0
+HSYC;CODE OK;;2016/01/11 06:31:50.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521471.0
+HSYC;BILLED;ResB;2016/01/15 09:37:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;356744.0
+JSYC;FIN;;2016/01/03 19:34:01.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31349050.0
+JSYC;RELEASE;;2016/01/04 05:44:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36641.0
+JSYC;CODE OK;;2016/01/09 06:18:34.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434032.0
+JSYC;BILLED;ResB;2016/01/15 09:37:10.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;530316.0
+VVYC;BILLED;ResB;2016/01/03 09:30:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;270281.0
+WVYC;FIN;;2016/01/03 19:31:34.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31529413.0
+WVYC;RELEASE;;2016/01/04 05:46:22.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36888.0
+WVYC;CODE OK;;2016/01/09 06:25:53.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434371.0
+WVYC;BILLED;ResB;2016/01/12 09:36:02.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;270609.0
+EWYC;FIN;;2016/01/02 19:33:01.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31275171.0
+LWYC;FIN;;2016/01/01 19:34:30.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31334736.0
+LWYC;RELEASE;;2016/01/02 05:54:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37213.0
+LWYC;CODE OK;;2016/01/07 06:21:13.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433590.0
+LWYC;BILLED;ResB;2016/01/12 09:36:33.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;443720.0
+FAZC;BILLED;ResB;2016/01/04 09:14:30.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;442154.0
+GAZC;FIN;;2016/01/06 19:32:59.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31435075.0
+GAZC;RELEASE;;2016/01/07 05:58:09.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37510.0
+GAZC;CODE OK;;2016/01/12 06:33:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434145.0
+GAZC;BILLED;ResB;2016/01/15 09:16:21.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;268947.0
+HAZC;FIN;;2016/01/01 19:36:10.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31347159.0
+HAZC;RELEASE;;2016/01/02 06:12:38.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;38188.0
+HAZC;CODE OK;;2016/01/07 06:49:50.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434232.0
+HAZC;BILLED;ResB;2016/01/11 09:27:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355067.0
+JAZC;CODE OK;;2016/01/03 06:49:55.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434236.0
+JAZC;BILLED;ResB;2016/01/07 09:35:29.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355534.0
+VAZC;CODE OK;;2016/01/04 06:31:27.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435134.0
+VAZC;BILLED;ResB;2016/01/08 14:34:07.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;374560.0
+BFZC;CODE OK;;2016/01/01 06:04:03.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433900.0
+BFZC;BILLED;ResB;2016/01/04 09:40:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;272165.0
+EFZC;CODE OK;;2016/01/02 06:08:40.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433923.0
+EFZC;BILLED;ResB;2016/01/04 09:21:22.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;184362.0
+PFZC;FIN;;2016/01/06 19:32:31.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31361471.0
+RFZC;FIN;;2016/01/04 19:32:45.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31360931.0
+RFZC;RELEASE;;2016/01/05 05:36:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36237.0
+RFZC;CODE OK;;2016/01/10 06:08:52.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433930.0
+RFZC;BILLED;ResB;2016/01/12 09:17:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;184130.0
+SFZC;FIN;;2016/01/04 19:34:15.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31270835.0
+SFZC;RELEASE;;2016/01/05 05:35:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36071.0
+SFZC;CODE OK;;2016/01/10 06:06:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433888.0
+SFZC;BILLED;ResB;2016/01/13 09:30:06.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;271392.0
+AGZC;BILLED;ResB;2016/01/03 09:39:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;271906.0
+SGZC;BILLED;ResHG;2016/01/01 23:41:16.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;321901.0
+FIZC;CODE OK;;2016/01/03 06:08:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433583.0
+FIZC;BILLED;ResB;2016/01/04 09:18:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;97790.0
+ILZC;FIN;;2016/01/07 19:32:50.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;31267897.0
+ILZC;RELEASE;;2016/01/08 06:01:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37716.0
+ILZC;CODE OK;;2016/01/13 06:21:09.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433183.0
+ILZC;BILLED;ResB;2016/01/14 09:30:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;97775.0
+KLZC;CODE OK;;2016/01/05 06:20:14.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433449.0
+KLZC;BILLED;ResB;2016/01/06 09:24:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;97485.0
+SMZC;FIN;;2016/01/04 19:32:12.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31513117.0
+MNZC;CODE OK;;2016/01/02 06:04:41.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434021.0
+MNZC;BILLED;ResB;2016/01/05 14:38:19.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;290018.0
+QUZC;FIN;;2016/01/04 19:30:51.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31687066.0
+JVZC;FIN;;2016/01/01 19:32:56.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31361657.0
+SVZC;CODE OK;;2016/01/01 06:06:37.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434133.0
+SVZC;BILLED;ResB;2016/01/07 09:23:09.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;530192.0
+BYZC;FIN;;2016/01/14 19:32:19.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31345149.0
+GYZC;CODE OK;;2016/01/02 06:25:57.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434374.0
+GYZC;BILLED;ResB;2016/01/05 09:24:13.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;269896.0
+GBAD;BILLED;ResB;2016/01/03 09:24:18.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;616168.0
+SEAD;FIN;;2016/01/15 19:33:26.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31347963.0
+KFAD;FIN;;2016/01/08 19:32:46.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31441685.0
+XFAD;FIN;;2016/01/13 19:33:59.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;31418085.0
+BKAD;DELETE;ResWB;2016/01/05 10:04:02.000;Variant 23;23;;;;;;;;;;;True;;complete;;;;;Empty;;30528412.0
+QRAD;FIN;ResA;2016/01/01 20:10:12.000;Variant 1;1;;;;;A;;;;;;;;complete;;;;;Closed;;23706363.0
+QRAD;RELEASE;;2016/01/02 05:38:21.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;34089.0
+QRAD;CODE OK;;2016/01/08 06:29:30.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521469.0
+QRAD;BILLED;ResB;2016/01/12 09:41:03.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;357093.0
+LZAD;BILLED;ResB;2016/01/06 09:34:45.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Billed;;2162346.0
+SVBD;FIN;ResA;2016/01/07 19:35:27.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;29112347.0
+SVBD;RELEASE;;2016/01/08 06:03:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37712.0
+SVBD;CODE OK;;2016/01/13 06:34:16.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433817.0
+SVBD;BILLED;ResB;2016/01/15 09:21:46.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;182850.0
+AWBD;FIN;ResA;2016/01/06 21:29:17.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;29118721.0
+AWBD;RELEASE;;2016/01/07 05:50:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;30102.0
+AWBD;CODE OK;;2016/01/13 06:18:04.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520025.0
+AWBD;BILLED;ResB;2016/01/14 09:32:58.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;98094.0
+FWBD;FIN;ResA;2016/01/03 19:33:33.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;29198052.0
+FWBD;RELEASE;;2016/01/04 05:32:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35934.0
+FWBD;CODE OK;;2016/01/09 06:00:38.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433691.0
+FWBD;BILLED;ResB;2016/01/10 09:40:06.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;99568.0
+EFCD;BILLED;ResB;2016/01/02 00:26:29.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;308880.0
+CICD;CODE OK;;2016/01/03 06:43:20.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434105.0
+CICD;BILLED;ResB;2016/01/05 14:10:57.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;199657.0
+IPCD;CODE OK;;2016/01/03 06:16:21.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434733.0
+IPCD;BILLED;ResB;2016/01/05 14:21:01.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;201880.0
+PTCD;CODE OK;;2016/01/02 06:16:20.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;434055.0
+PTCD;BILLED;ResB;2016/01/08 09:33:06.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;530206.0
+UMDD;STORNO;ResGA;2016/01/03 09:22:38.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;Invoice rejected;;7406287.0
+UMDD;REJECT;;2016/01/03 09:22:42.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;Rejected;;4.0
+UMDD;REOPEN;;2016/01/03 09:22:46.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;In progress;;4.0
+UMDD;DELETE;ResQA;2016/01/03 09:23:31.000;Variant 38;38;;;;;;;;;;;True;;complete;;;;;In progress;;45.0
+RFED;FIN;ResA;2016/01/03 19:33:57.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;27681866.0
+MWED;FIN;;2016/01/04 19:35:30.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;27191872.0
+MWED;RELEASE;;2016/01/11 05:57:23.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;555713.0
+MWED;CODE OK;;2016/01/11 06:31:41.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2058.0
+MWED;BILLED;ResB;2016/01/13 09:28:03.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;183382.0
+XCFD;JOIN-PAT;;2016/01/09 08:25:30.000;Variant 128;128;;;;;;;;;;;;;complete;;;;;Billed;;11299638.0
+XCFD;JOIN-PAT;;2016/01/09 08:25:30.000;Variant 128;128;;;;;;;;;;;;;complete;;;;;Billed;;0.0
+XCFD;JOIN-PAT;;2016/01/09 08:25:31.000;Variant 128;128;;;;;;;;;;;;;complete;;;;;Billed;;1.0
+XCFD;JOIN-PAT;;2016/01/09 08:25:31.000;Variant 128;128;;;;;;;;;;;;;complete;;;;;Billed;;0.0
+RLFD;BILLED;ResB;2016/01/01 14:18:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;372307.0
+QQFD;CODE OK;;2016/01/01 06:25:27.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;607447.0
+QQFD;BILLED;ResB;2016/01/07 14:38:54.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;548007.0
+WZFD;CODE OK;;2016/01/01 06:40:26.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433880.0
+WZFD;BILLED;ResB;2016/01/07 14:33:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;546813.0
+YZFD;BILLED;ResB;2016/01/12 21:34:29.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2789168.0
+UNHD;BILLED;ResB;2016/01/11 21:34:49.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2622144.0
+NEID;FIN;ResA;2016/01/04 19:35:55.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;24895719.0
+NEID;RELEASE;;2016/01/05 05:56:51.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37256.0
+NEID;CODE OK;;2016/01/10 06:32:13.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434122.0
+NEID;BILLED;ResB;2016/01/13 09:33:24.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;270071.0
+MOID;BILLED;ResHG;2016/01/01 05:07:57.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;15981377.0
+LTID;STORNO;ResB;2016/01/03 15:23:25.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Invoice rejected;;391310.0
+LTID;REJECT;;2016/01/03 15:23:30.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billable;;5.0
+LTID;BILLED;;2016/01/06 21:53:26.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;282596.0
+MPJD;BILLED;ResB;2016/01/07 19:23:49.000;Variant 103;103;;;;;;;;;;;;;complete;;;;;Billed;;2606970.0
+RKKD;BILLED;ResB;2016/01/01 14:39:05.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;373774.0
+YTKD;CODE OK;;2016/01/03 05:59:30.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433750.0
+YTKD;BILLED;ResB;2016/01/08 14:16:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;461817.0
+WXKD;BILLED;ResB;2016/01/05 21:55:39.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;660790.0
+WELD;BILLED;ResHG;2016/01/01 05:09:28.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;14165757.0
+VIMD;FIN;ResA;2016/01/03 19:38:14.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;21891540.0
+LXMD;BILLED;ResB;2016/01/06 00:22:52.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;669614.0
+TMND;FIN;ResA;2016/01/02 19:35:45.000;Variant 1;1;;;;;A;;;;;;;;complete;;;;;Closed;;21031438.0
+TMND;RELEASE;;2016/01/03 05:38:32.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36167.0
+TMND;CODE OK;;2016/01/08 06:06:59.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433707.0
+TMND;BILLED;ResB;2016/01/13 09:41:56.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;444897.0
+PZND;BILLED;ResB;2016/01/02 00:48:13.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;226405.0
+EJOD;FIN;ResA;2016/01/03 19:36:55.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;20424219.0
+EJOD;RELEASE;;2016/01/04 05:42:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36321.0
+EJOD;CODE OK;;2016/01/09 06:16:32.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;434056.0
+EJOD;BILLED;ResB;2016/01/15 09:36:29.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;530397.0
+BNOD;FIN;ResA;2016/01/01 19:35:07.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;20146217.0
+BNOD;RELEASE;;2016/01/02 05:35:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36052.0
+BNOD;CODE OK;;2016/01/07 06:07:11.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433872.0
+BNOD;BILLED;ResB;2016/01/08 14:39:09.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;117118.0
+DNOD;BILLED;ResHG;2016/01/01 23:45:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;407900.0
+WZOD;BILLED;ResHG;2016/01/01 04:55:43.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;8893008.0
+WZOD;STORNO;;2016/01/05 11:16:01.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Invoice rejected;;368418.0
+WZOD;REJECT;;2016/01/05 11:16:09.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billable;;8.0
+WZOD;BILLED;ResB;2016/01/09 00:30:04.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;306835.0
+SXPD;RELEASE;;2016/01/04 05:45:49.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Released;;8915897.0
+SXPD;CODE NOK;;2016/01/06 06:28:20.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;175351.0
+SXPD;EMPTY;ResGA;2016/01/06 13:18:13.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;24593.0
+YXPD;BILLED;ResB;2016/01/03 22:56:12.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;404403.0
+WKQD;CODE NOK;;2016/01/02 06:09:32.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;347341.0
+WKQD;EMPTY;ResSB;2016/01/02 15:18:10.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;32918.0
+NORD;CHANGE DIAGN;ResTP;2016/01/01 17:15:12.000;Variant 1;1;;;;;;MH;;;;;;;complete;;;;;In progress;;18319660.0
+NORD;FIN;ResA;2016/01/01 21:30:33.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;15321.0
+NORD;RELEASE;;2016/01/02 05:51:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;30085.0
+NORD;CODE OK;;2016/01/02 06:29:52.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2274.0
+NORD;BILLED;ResB;2016/01/03 00:56:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;66397.0
+WSRD;FIN;ResA;2016/01/01 19:38:24.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;18049744.0
+WSRD;RELEASE;;2016/01/02 06:11:06.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37962.0
+WSRD;CODE OK;;2016/01/07 06:46:44.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434138.0
+WSRD;BILLED;ResB;2016/01/11 09:28:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355284.0
+TJSD;BILLED;ResB;2016/01/03 21:54:50.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;451669.0
+DTSD;BILLED;ResB;2016/01/02 09:34:32.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355743.0
+INTD;BILLED;ResB;2016/01/06 23:39:29.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;666452.0
+EHUD;FIN;ResA;2016/01/01 19:36:22.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;16691954.0
+EHUD;RELEASE;;2016/01/02 05:38:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36126.0
+EHUD;CODE OK;;2016/01/07 06:11:59.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434011.0
+EHUD;BILLED;ResB;2016/01/09 09:28:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;184576.0
+KPUD;FIN;ResWB;2016/01/03 14:14:44.000;Variant 60;60;;;;;S;;;;;;;;complete;;;;;Closed;;16485844.0
+KPUD;RELEASE;;2016/01/03 14:14:46.000;Variant 60;60;;;;;;;;;;;;;complete;;;;;Released;;2.0
+KPUD;SET STATUS;;2016/01/03 14:15:16.000;Variant 60;60;;;;;;;;;;;;;complete;;;;;Empty;;30.0
+KOWD;CHANGE DIAGN;ResTP;2016/01/01 12:50:50.000;Variant 1;1;;;;;;FI;;;;;;;complete;;;;;In progress;;15130300.0
+KOWD;FIN;ResA;2016/01/04 21:31:16.000;Variant 1;1;;;;;F;;;;;;;;complete;;;;;Closed;;290426.0
+KOWD;RELEASE;;2016/01/05 05:52:47.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;30091.0
+KOWD;CODE OK;;2016/01/05 06:30:08.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2241.0
+KOWD;BILLED;ResB;2016/01/12 22:02:12.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;660724.0
+UTWD;BILLED;ResHG;2016/01/01 05:14:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;3796849.0
+WZWD;BILLED;ResHG;2016/01/01 04:20:11.000;Variant 314;314;;;;;;;;;;;;;complete;;;;;Billed;;9407113.0
+UGXD;DELETE;ResYF;2016/01/10 13:35:28.000;Variant 23;23;;;;;;;;;;;True;;complete;;;;;Empty;;5597148.0
+EWXD;RELEASE;;2016/01/07 05:54:41.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Released;;4959569.0
+EWXD;CODE NOK;;2016/01/10 06:22:30.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;260869.0
+EWXD;EMPTY;ResSB;2016/01/10 15:48:25.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;33955.0
+RJYD;RELEASE;;2016/01/06 05:41:14.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;4786158.0
+RJYD;CODE OK;;2016/01/06 06:10:46.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1772.0
+RJYD;BILLED;ResB;2016/01/07 21:05:55.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;140109.0
+JMYD;RELEASE;;2016/01/03 05:54:44.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Released;;4508045.0
+JMYD;CODE NOK;;2016/01/06 06:22:34.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;260870.0
+JMYD;EMPTY;ResSB;2016/01/06 15:47:58.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;33924.0
+LYYD;BILLED;ResB;2016/01/10 21:12:45.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2292919.0
+UYYD;CODE OK;;2016/01/05 06:07:19.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434167.0
+UYYD;BILLED;ResB;2016/01/11 09:42:06.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;531287.0
+BFZD;FIN;ResA;2016/01/04 00:13:06.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;13951016.0
+BFZD;RELEASE;;2016/01/08 05:44:30.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;365484.0
+BFZD;CODE OK;;2016/01/10 06:16:25.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;174715.0
+BFZD;BILLED;ResB;2016/01/11 09:25:23.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;97738.0
+BMZD;RELEASE;ResVD;2016/01/06 08:11:35.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;1168596.0
+BMZD;CODE OK;;2016/01/07 06:12:12.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;79237.0
+BMZD;BILLED;ResB;2016/01/14 09:42:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;617403.0
+VDAE;BILLED;ResB;2016/01/02 00:35:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;669814.0
+MABE;RELEASE;;2016/01/09 05:43:53.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;2368289.0
+MABE;CODE OK;;2016/01/09 06:21:08.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2235.0
+MABE;BILLED;ResB;2016/01/15 20:06:58.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;567950.0
+NABE;RELEASE;;2016/01/07 05:43:55.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;2626912.0
+NABE;CODE OK;;2016/01/07 06:21:10.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2235.0
+NABE;BILLED;ResB;2016/01/13 20:11:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;568240.0
+OABE;BILLED;ResB;2016/01/03 20:55:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;485115.0
+QABE;RELEASE;;2016/01/07 05:39:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;2610248.0
+QABE;CODE OK;;2016/01/07 06:10:47.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1891.0
+QABE;BILLED;ResB;2016/01/12 21:11:30.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;486043.0
+VIBE;STORNO;ResB;2016/01/01 10:20:20.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Invoice rejected;;362019.0
+VIBE;REJECT;;2016/01/01 10:21:14.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billable;;54.0
+VIBE;BILLED;;2016/01/05 01:19:29.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;313095.0
+PPBE;RELEASE;;2016/01/02 05:44:18.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;2281234.0
+PPBE;CODE OK;;2016/01/02 06:21:24.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2226.0
+PPBE;BILLED;ResB;2016/01/08 20:46:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;570310.0
+RPBE;RELEASE;;2016/01/08 05:44:21.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Released;;2108702.0
+RPBE;CODE NOK;;2016/01/09 06:10:54.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;87993.0
+RPBE;EMPTY;ResSB;2016/01/09 15:05:33.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;32079.0
+SPBE;BILLED;ResB;2016/01/05 20:37:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;569777.0
+WDCE;BILLED;ResB;2016/01/04 21:09:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;485912.0
+DTCE;RELEASE;;2016/01/03 05:51:45.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Released;;899383.0
+DTCE;CODE NOK;;2016/01/04 06:21:09.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;88164.0
+DTCE;EMPTY;ResGA;2016/01/04 10:02:50.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;13301.0
+SUCE;BILLED;ResHG;2016/01/01 05:26:03.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;168792.0
+XUCE;CODE OK;;2016/01/01 06:30:42.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434118.0
+XUCE;BILLED;ResB;2016/01/08 23:54:25.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;667423.0
+NWCE;BILLED;ResB;2016/01/06 23:45:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;580123.0
+OWCE;BILLED;ResB;2016/01/05 22:40:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;662703.0
+UWCE;BILLED;ResB;2016/01/04 01:02:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;584799.0
+NCDE;BILLED;ResB;2016/01/02 23:09:05.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;492561.0
+OCDE;CODE OK;;2016/01/03 06:47:06.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521790.0
+OCDE;BILLED;ResB;2016/01/07 23:16:51.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;404985.0
+TCDE;BILLED;ResB;2016/01/05 23:19:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;494170.0
+HDDE;BILLED;ResB;2016/01/03 00:57:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;500037.0
+JDDE;CODE OK;;2016/01/03 06:19:46.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434799.0
+JDDE;BILLED;ResB;2016/01/06 01:06:12.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;240386.0
+QDDE;CODE OK;;2016/01/01 06:11:27.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520544.0
+QDDE;BILLED;ResB;2016/01/04 23:59:46.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;323299.0
+ZEDE;BILLED;ResB;2016/01/10 19:39:28.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2120319.0
+NFDE;CODE OK;;2016/01/03 06:11:29.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520546.0
+NFDE;BILLED;ResB;2016/01/06 23:05:31.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;320042.0
+MGDE;BILLED;ResB;2016/01/03 23:24:25.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;579677.0
+OGDE;BILLED;ResB;2016/01/03 00:56:56.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;411907.0
+RGDE;BILLED;ResB;2016/01/05 00:49:07.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;411436.0
+XGDE;BILLED;ResB;2016/01/01 00:05:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;323033.0
+EIDE;BILLED;ResB;2016/01/01 01:15:17.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;241094.0
+XJDE;BILLED;ResB;2016/01/01 00:11:13.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;497402.0
+AKDE;MANUAL;;2016/01/01 17:20:26.000;Variant 133;133;;;;;;;;;;;;;complete;;;;;Released;;5336209.0
+DKDE;RELEASE;;2016/01/01 05:41:57.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35231.0
+DKDE;CODE OK;;2016/01/06 06:30:17.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434900.0
+DKDE;BILLED;ResB;2016/01/09 00:23:32.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;237195.0
+IKDE;CODE OK;;2016/01/04 06:15:24.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520397.0
+IKDE;BILLED;ResB;2016/01/05 22:57:41.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;146537.0
+NKDE;CODE NOK;;2016/01/02 06:21:52.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;520372.0
+NKDE;EMPTY;ResGA;2016/01/02 12:00:06.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;20294.0
+MMDE;BILLED;ResB;2016/01/01 23:46:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;148981.0
+ZMDE;CODE OK;;2016/01/01 06:41:18.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434049.0
+ZMDE;BILLED;ResB;2016/01/04 00:59:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;238670.0
+BNDE;CODE OK;;2016/01/01 06:53:47.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434854.0
+BNDE;BILLED;ResB;2016/01/06 01:04:12.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;411025.0
+FNDE;BILLED;ResB;2016/01/03 23:59:02.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;407237.0
+HNDE;BILLED;ResB;2016/01/01 00:44:58.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;324816.0
+XNDE;FIN;;2016/01/01 19:51:40.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10335186.0
+XNDE;RELEASE;;2016/01/02 05:30:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34737.0
+XNDE;CODE OK;;2016/01/07 06:00:41.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433804.0
+XNDE;BILLED;ResB;2016/01/09 00:44:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;153826.0
+FODE;CODE OK;;2016/01/04 06:31:03.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520188.0
+FODE;BILLED;ResB;2016/01/05 01:04:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;66805.0
+GODE;FIN;;2016/01/02 01:53:18.000;Variant 34;34;;;;;A;;;;;;;;complete;;;;;Closed;;10354438.0
+GODE;RELEASE;;2016/01/02 06:01:15.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;14877.0
+VODE;BILLED;ResB;2016/01/03 23:38:20.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;666357.0
+YPDE;CODE OK;;2016/01/02 06:28:05.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434428.0
+YPDE;BILLED;ResB;2016/01/02 23:38:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;61854.0
+BQDE;BILLED;ResB;2016/01/02 21:54:47.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;488173.0
+CQDE;CODE OK;;2016/01/04 06:18:35.000;Variant 55;55;False;False;;;;;;;False;;;;complete;;0.0;;;;E;606653.0
+HQDE;FIN;;2016/01/02 20:06:36.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10358881.0
+BSDE;CODE OK;;2016/01/01 06:12:53.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434363.0
+BSDE;BILLED;ResB;2016/01/02 01:10:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;68235.0
+KTDE;RELEASE;;2016/01/01 05:30:55.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34050.0
+KTDE;CODE OK;;2016/01/06 06:09:20.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434305.0
+KTDE;BILLED;ResB;2016/01/07 01:00:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;67890.0
+KUDE;CODE OK;;2016/01/04 06:17:12.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;434789.0
+KUDE;BILLED;ResB;2016/01/08 09:06:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;355778.0
+VUDE;FIN;;2016/01/01 20:07:22.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10276688.0
+OWDE;CODE OK;;2016/01/02 06:07:07.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433673.0
+OWDE;BILLED;ResB;2016/01/07 20:57:51.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;485444.0
+QWDE;CODE OK;;2016/01/04 06:16:43.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434010.0
+QWDE;BILLED;ResB;2016/01/10 21:49:41.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;574378.0
+SWDE;FIN;;2016/01/01 19:58:49.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10354679.0
+SWDE;RELEASE;;2016/01/02 05:39:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34827.0
+SWDE;CODE OK;;2016/01/07 06:07:10.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433674.0
+SWDE;BILLED;ResB;2016/01/12 21:53:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;488776.0
+TWDE;FIN;;2016/01/02 20:11:57.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10355338.0
+BXDE;RELEASE;;2016/01/08 05:38:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;639195.0
+BXDE;CODE OK;;2016/01/08 06:05:40.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1634.0
+BXDE;BILLED;ResB;2016/01/09 21:56:18.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;143438.0
+GXDE;FIN;;2016/01/04 20:05:52.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10511021.0
+GXDE;RELEASE;;2016/01/05 05:42:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34618.0
+GXDE;CODE OK;;2016/01/10 06:16:52.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434042.0
+GXDE;BILLED;ResB;2016/01/13 21:14:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;313059.0
+HXDE;BILLED;ResB;2016/01/04 20:42:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;570027.0
+PXDE;FIN;;2016/01/01 20:00:18.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10280845.0
+PXDE;RELEASE;;2016/01/02 05:30:30.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34212.0
+PXDE;CODE OK;;2016/01/07 05:57:23.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433613.0
+PXDE;BILLED;ResB;2016/01/12 20:30:41.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;484398.0
+NAEE;CODE OK;;2016/01/01 06:16:57.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520389.0
+NAEE;BILLED;ResB;2016/01/04 21:50:04.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;315187.0
+ZAEE;FIN;;2016/01/03 23:07:46.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10362342.0
+ZAEE;RELEASE;;2016/01/04 05:43:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;23773.0
+ZAEE;CODE OK;;2016/01/10 06:17:27.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520408.0
+ZAEE;BILLED;ResB;2016/01/13 19:54:53.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;308246.0
+BBEE;CODE NOK;;2016/01/07 06:10:10.000;Variant 132;132;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;779054.0
+BBEE;CODE NOK;;2016/01/08 06:38:21.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;;G;88091.0
+BBEE;EMPTY;ResCH;2016/01/08 08:08:43.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;Empty;;5422.0
+RDEE;FIN;;2016/01/01 20:16:33.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10363260.0
+XDEE;RELEASE;;2016/01/01 05:54:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34681.0
+XDEE;CODE OK;;2016/01/07 06:30:42.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520566.0
+XDEE;BILLED;ResB;2016/01/09 21:35:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;227094.0
+NEEE;BILLED;ResB;2016/01/02 21:56:49.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;315037.0
+QEEE;FIN;;2016/01/02 19:44:44.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10524918.0
+QEEE;RELEASE;;2016/01/03 06:01:32.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37008.0
+QEEE;CODE OK;;2016/01/08 06:21:20.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433188.0
+QEEE;BILLED;ResB;2016/01/09 19:46:02.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;134682.0
+TEEE;RELEASE;;2016/01/01 06:00:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35786.0
+TEEE;CODE OK;;2016/01/06 06:23:38.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433418.0
+TEEE;BILLED;ResB;2016/01/11 21:56:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;487942.0
+VEEE;BILLED;ResB;2016/01/02 21:56:24.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;314680.0
+XEEE;CODE OK;;2016/01/05 06:44:35.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434272.0
+XEEE;BILLED;ResB;2016/01/09 20:20:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;394536.0
+YEEE;FIN;;2016/01/02 20:06:35.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10351039.0
+YEEE;RELEASE;;2016/01/03 05:52:14.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35139.0
+YEEE;CODE OK;;2016/01/08 06:29:34.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434240.0
+YEEE;BILLED;ResB;2016/01/11 20:28:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;309514.0
+ZEEE;FIN;;2016/01/04 20:06:37.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10351037.0
+BFEE;RELEASE;;2016/01/01 05:52:17.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;29089.0
+BFEE;CODE OK;;2016/01/07 06:29:56.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520659.0
+BFEE;BILLED;ResB;2016/01/09 20:46:35.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;224199.0
+DFEE;FIN;;2016/01/01 20:08:06.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10262535.0
+GFEE;FIN;;2016/01/02 20:08:49.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10259705.0
+GFEE;RELEASE;;2016/01/03 06:12:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36207.0
+GFEE;CODE OK;;2016/01/08 06:48:56.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434200.0
+GFEE;BILLED;ResB;2016/01/12 20:19:22.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;394226.0
+HFEE;FIN;;2016/01/02 19:45:09.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10517411.0
+HFEE;RELEASE;;2016/01/03 06:02:51.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;37062.0
+HFEE;CODE OK;;2016/01/08 06:23:21.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433230.0
+HFEE;BILLED;ResB;2016/01/09 20:02:46.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;135565.0
+JFEE;FIN;;2016/01/01 20:07:22.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10342117.0
+JFEE;RELEASE;;2016/01/02 05:57:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35421.0
+JFEE;CODE OK;;2016/01/07 06:33:15.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434132.0
+JFEE;BILLED;ResB;2016/01/10 20:28:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;309319.0
+LFEE;FIN;;2016/01/01 22:58:21.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10352302.0
+LFEE;RELEASE;;2016/01/02 05:57:53.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;25172.0
+LFEE;CODE OK;;2016/01/08 06:33:52.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520559.0
+LFEE;BILLED;ResB;2016/01/10 20:46:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;223978.0
+MFEE;FIN;ResA;2016/01/05 00:53:59.000;Variant 98;98;;;;;A;;;;;;;;complete;;;;;Closed;;2470361.0
+MFEE;RELEASE;;2016/01/05 05:30:40.000;Variant 98;98;;;;;;;;;;;;;complete;;;;;Released;;16601.0
+XFEE;FIN;;2016/01/03 19:56:09.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10367277.0
+XFEE;RELEASE;;2016/01/08 05:50:03.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;381234.0
+XFEE;CODE OK;;2016/01/09 06:28:29.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;88706.0
+XFEE;BILLED;ResB;2016/01/11 20:15:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;222430.0
+CIEE;CODE OK;;2016/01/02 06:27:57.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434261.0
+CIEE;BILLED;ResB;2016/01/05 21:02:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;311654.0
+EIEE;CODE OK;;2016/01/02 06:42:59.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434305.0
+EIEE;BILLED;ResB;2016/01/06 21:27:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;398657.0
+LIEE;CODE OK;;2016/01/02 06:34:18.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434157.0
+LIEE;BILLED;ResB;2016/01/05 21:38:41.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;313463.0
+MIEE;BILLED;ResB;2016/01/03 21:46:24.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;399369.0
+UKEE;RELEASE;;2016/01/01 05:59:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35245.0
+UKEE;CODE OK;;2016/01/06 06:40:33.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434456.0
+UKEE;BILLED;ResB;2016/01/10 20:47:46.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;396433.0
+WKEE;FIN;;2016/01/06 19:58:28.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10277334.0
+WKEE;RELEASE;;2016/01/07 05:49:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35432.0
+WKEE;CODE OK;;2016/01/12 06:26:29.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434249.0
+WKEE;BILLED;ResB;2016/01/14 21:50:56.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;228267.0
+BLEE;FIN;;2016/01/05 00:15:59.000;Variant 34;34;;;;;A;;;;;;;;complete;;;;;Closed;;10291348.0
+BLEE;RELEASE;;2016/01/05 05:49:04.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;19985.0
+CLEE;CODE OK;;2016/01/01 06:01:15.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433627.0
+CLEE;BILLED;ResB;2016/01/02 20:28:48.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;138453.0
+DLEE;FIN;;2016/01/05 19:59:30.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10274925.0
+DLEE;RELEASE;;2016/01/06 05:35:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34541.0
+DLEE;CODE OK;;2016/01/11 06:06:47.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433896.0
+DLEE;BILLED;ResB;2016/01/13 21:06:51.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;226804.0
+LLEE;CODE NOK;;2016/01/04 06:00:01.000;Variant 132;132;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;692741.0
+LLEE;CODE NOK;;2016/01/06 06:17:25.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;;G;173844.0
+LLEE;EMPTY;ResGA;2016/01/06 10:17:50.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;Empty;;14425.0
+NLEE;FIN;;2016/01/05 20:00:13.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10269202.0
+NLEE;RELEASE;;2016/01/06 05:35:19.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34506.0
+NLEE;CODE OK;;2016/01/11 06:07:01.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433902.0
+NLEE;BILLED;ResB;2016/01/13 21:55:56.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;229735.0
+DMEE;FIN;;2016/01/04 20:10:57.000;Variant 3;3;;;;;B;;;;;;;;complete;;;;;Closed;;10107954.0
+DMEE;RELEASE;;2016/01/05 05:35:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;33880.0
+DMEE;CODE OK;;2016/01/09 06:25:24.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;348587.0
+DMEE;BILLED;ResB;2016/01/13 20:39:48.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;396864.0
+EMEE;FIN;;2016/01/09 20:02:28.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10452502.0
+HMEE;FIN;;2016/01/04 20:01:09.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10192367.0
+IMEE;FIN;;2016/01/02 20:01:12.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10192359.0
+IMEE;RELEASE;;2016/01/03 05:36:57.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34545.0
+IMEE;CODE OK;;2016/01/08 06:10:02.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433985.0
+IMEE;BILLED;ResB;2016/01/10 20:50:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;225634.0
+OMEE;CODE OK;;2016/01/01 06:03:47.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433630.0
+OMEE;BILLED;ResB;2016/01/02 20:05:47.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;136920.0
+QMEE;CODE OK;;2016/01/01 06:03:49.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433631.0
+QMEE;BILLED;ResB;2016/01/02 21:34:50.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;142261.0
+SMEE;FIN;;2016/01/07 19:47:32.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10277862.0
+VMEE;FIN;;2016/01/04 20:11:19.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;10105692.0
+VMEE;RELEASE;;2016/01/05 05:35:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;33861.0
+VMEE;CODE OK;;2016/01/10 06:08:21.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433961.0
+VMEE;BILLED;ResB;2016/01/13 21:55:12.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;316011.0
+WMEE;RELEASE;;2016/01/01 05:37:01.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34525.0
+WMEE;CODE OK;;2016/01/06 06:10:12.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433991.0
+WMEE;BILLED;ResB;2016/01/08 21:53:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;229383.0
+YMEE;FIN;;2016/01/02 19:47:40.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10276053.0
+ENEE;CODE OK;;2016/01/02 06:14:51.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433942.0
+ENEE;BILLED;ResB;2016/01/04 19:50:19.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;221728.0
+TNEE;CODE OK;;2016/01/03 06:12:51.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433989.0
+TNEE;BILLED;ResB;2016/01/06 21:53:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;315636.0
+XNEE;FIN;;2016/01/02 19:48:03.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10266956.0
+YNEE;FIN;;2016/01/06 20:03:00.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10177671.0
+ZNEE;RELEASE;;2016/01/01 05:40:34.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34648.0
+ZNEE;CODE OK;;2016/01/06 06:12:34.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433920.0
+ZNEE;BILLED;ResB;2016/01/08 20:57:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;225894.0
+AOEE;FIN;;2016/01/04 19:48:47.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10253130.0
+CQEE;RELEASE;;2016/01/08 05:40:28.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;Released;;639622.0
+CQEE;CODE NOK;;2016/01/08 06:10:29.000;Variant 132;132;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;1801.0
+CQEE;CODE NOK;;2016/01/09 06:38:29.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;;G;88080.0
+CQEE;EMPTY;ResSB;2016/01/09 12:10:15.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;Empty;;19906.0
+DQEE;FIN;;2016/01/04 20:00:11.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10265533.0
+RREE;RELEASE;;2016/01/01 05:34:51.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;9513646.0
+RREE;CODE OK;;2016/01/01 06:23:59.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2948.0
+RREE;BILLED;ResB;2016/01/05 13:58:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;372869.0
+UTEE;FIN;;2016/01/01 19:58:55.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10361874.0
+UWEE;FIN;;2016/01/08 00:41:12.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10355902.0
+KAFE;CODE OK;;2016/01/01 06:13:44.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520952.0
+KAFE;BILLED;ResB;2016/01/07 14:21:17.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;547653.0
+LCFE;FIN;;2016/01/06 19:43:44.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10524808.0
+YCFE;FIN;;2016/01/11 19:44:27.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10510591.0
+BDFE;FIN;;2016/01/11 20:04:07.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10338793.0
+EDFE;FIN;;2016/01/10 19:44:36.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10507648.0
+AGFE;FIN;;2016/01/01 20:04:40.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10276685.0
+GGFE;FIN;;2016/01/08 20:03:29.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10098701.0
+HGFE;FIN;;2016/01/07 19:51:03.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10356797.0
+KJFE;FIN;;2016/01/12 22:35:47.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10363580.0
+MJFE;FIN;;2016/01/03 22:51:48.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10357995.0
+AKFE;FIN;;2016/01/03 20:00:35.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10367989.0
+BKFE;FIN;;2016/01/10 19:53:47.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10193840.0
+CKFE;FIN;;2016/01/16 20:00:40.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10367047.0
+DLFE;FIN;;2016/01/05 23:15:38.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10028197.0
+ILFE;BILLED;ResB;2016/01/02 19:43:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;479958.0
+ULFE;FIN;;2016/01/13 20:01:03.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10356689.0
+YLFE;FIN;;2016/01/03 19:46:47.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10269124.0
+BMFE;FIN;;2016/01/14 20:08:50.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10352379.0
+CMFE;FIN;;2016/01/09 19:47:09.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10264632.0
+DMFE;FIN;;2016/01/06 20:09:50.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10352385.0
+FMFE;FIN;;2016/01/14 19:47:27.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10261522.0
+GMFE;FIN;;2016/01/04 22:48:33.000;Variant 5;5;;;;;A;;;;;;;;complete;;;;;Closed;;10357519.0
+OMFE;FIN;;2016/01/14 19:57:15.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10108265.0
+PMFE;FIN;;2016/01/06 19:47:56.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10193267.0
+QMFE;FIN;;2016/01/06 20:11:08.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10278556.0
+FPFE;BILLED;ResB;2016/01/04 09:36:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;445050.0
+LPFE;BILLED;ResHG;2016/01/01 05:43:39.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;602810.0
+PPFE;BILLED;ResB;2016/01/08 19:41:34.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2191235.0
+QPFE;CODE OK;;2016/01/01 06:21:49.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;606296.0
+QPFE;BILLED;ResB;2016/01/02 21:31:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;140959.0
+XTFE;FIN;;2016/01/06 20:04:37.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10357109.0
+GUFE;FIN;;2016/01/13 20:08:31.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10258872.0
+MUFE;FIN;;2016/01/17 20:05:36.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10517809.0
+NUFE;FIN;;2016/01/18 20:05:25.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10344994.0
+PUFE;FIN;;2016/01/07 20:05:38.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10344952.0
+SUFE;FIN;;2016/01/05 20:05:40.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10344069.0
+TUFE;FIN;;2016/01/18 23:30:03.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10355182.0
+BWFE;STORNO;ResYT;2016/01/07 09:54:14.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Invoice rejected;;791833.0
+BWFE;REJECT;;2016/01/07 09:56:29.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billable;;135.0
+BWFE;BILLED;ResB;2016/01/12 22:18:48.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;476539.0
+VZFE;BILLED;ResB;2016/01/05 21:47:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;488906.0
+WZFE;FIN;;2016/01/16 20:04:50.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10276018.0
+XZFE;FIN;;2016/01/06 20:04:51.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10273702.0
+CCGE;FIN;ResA;2016/01/04 20:03:48.000;Variant 34;34;;;;;A;;;;;;;;complete;;;;;Closed;;9514799.0
+CCGE;RELEASE;;2016/01/05 05:41:06.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;34638.0
+QDGE;FIN;;2016/01/09 20:11:20.000;Variant 34;34;;;;;A;;;;;;;;complete;;;;;Closed;;10180047.0
+QDGE;RELEASE;;2016/01/10 05:47:45.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;34585.0
+SDGE;FIN;;2016/01/12 20:11:57.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10254070.0
+YEGE;FIN;;2016/01/08 20:17:07.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10101920.0
+ZEGE;FIN;;2016/01/14 20:13:24.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;10186395.0
+PIGE;CODE OK;;2016/01/01 06:11:24.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434411.0
+PIGE;BILLED;ResB;2016/01/09 01:04:04.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;672760.0
+UIGE;BILLED;ResB;2016/01/01 01:24:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;672579.0
+GJGE;BILLED;ResB;2016/01/07 01:14:22.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;672241.0
+LJGE;BILLED;ResB;2016/01/01 01:31:49.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;673241.0
+ZJGE;BILLED;ResB;2016/01/02 01:22:27.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;673486.0
+FKGE;BILLED;ResB;2016/01/07 01:31:22.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;673915.0
+JKGE;BILLED;ResB;2016/01/02 00:06:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;669322.0
+MKGE;BILLED;ResB;2016/01/01 01:33:06.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;673187.0
+OKGE;BILLED;ResB;2016/01/03 01:33:07.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;674327.0
+PKGE;RELEASE;;2016/01/01 05:34:50.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Released;;33749.0
+PKGE;CODE OK;;2016/01/01 06:10:25.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;;;2135.0
+PKGE;BILLED;ResB;2016/01/07 22:19:50.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Billed;;576565.0
+YKGE;BILLED;ResB;2016/01/07 01:33:21.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;673252.0
+QPGE;BILLED;ResB;2016/01/03 01:30:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;587455.0
+UPGE;CODE OK;;2016/01/01 06:38:34.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433852.0
+UPGE;BILLED;ResB;2016/01/08 01:30:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;586312.0
+VPGE;BILLED;ResB;2016/01/03 22:18:57.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Billed;;393805.0
+XPGE;BILLED;ResB;2016/01/03 22:21:06.000;Variant 44;44;;;;;;;;;;;;;complete;;;;;Billed;;392216.0
+GQGE;BILLED;ResB;2016/01/07 01:33:04.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;674322.0
+HQGE;BILLED;ResB;2016/01/01 01:33:48.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;587808.0
+NQGE;BILLED;ResB;2016/01/05 01:33:56.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;586570.0
+OQGE;BILLED;ResB;2016/01/07 01:21:09.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;585841.0
+QQGE;BILLED;ResB;2016/01/02 01:32:53.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;586698.0
+SQGE;BILLED;ResB;2016/01/06 01:34:08.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;587084.0
+WQGE;BILLED;ResB;2016/01/04 01:34:10.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;587821.0
+RRGE;CODE OK;;2016/01/01 06:22:33.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;519554.0
+RRGE;BILLED;ResB;2016/01/07 01:34:17.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;501104.0
+DSGE;BILLED;ResB;2016/01/01 01:26:22.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;500629.0
+FSGE;BILLED;ResB;2016/01/04 01:34:19.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;502200.0
+GSGE;BILLED;ResB;2016/01/04 01:34:17.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;502198.0
+HSGE;BILLED;ResB;2016/01/02 01:34:19.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Billed;;501105.0
+WSGE;BILLED;ResB;2016/01/03 01:30:08.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;500754.0
+ZSGE;FIN;ResA;2016/01/02 21:08:53.000;Variant 3;3;;;;;B;;;;;;;;complete;;;;;Closed;;8512901.0
+ZSGE;RELEASE;;2016/01/03 05:56:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;31667.0
+ZSGE;CODE OK;;2016/01/08 06:31:52.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434112.0
+ZSGE;BILLED;ResB;2016/01/11 19:32:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;306044.0
+ATGE;FIN;ResA;2016/01/05 22:10:47.000;Variant 1;1;;;;;K;;;;;;;;complete;;;;;Closed;;8420421.0
+ATGE;RELEASE;;2016/01/06 05:44:46.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;27239.0
+ATGE;CODE OK;;2016/01/06 06:31:43.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2817.0
+ATGE;BILLED;ResB;2016/01/09 01:34:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;241363.0
+CTGE;BILLED;ResB;2016/01/05 01:34:41.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;501248.0
+JTGE;BILLED;ResB;2016/01/01 01:22:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;585912.0
+LTGE;CODE OK;;2016/01/01 06:48:02.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521802.0
+LTGE;BILLED;ResB;2016/01/06 01:23:08.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;412506.0
+KUGE;BILLED;ResB;2016/01/01 01:25:47.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;413625.0
+OUGE;BILLED;ResB;2016/01/05 01:29:20.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;414118.0
+QUGE;BILLED;ResB;2016/01/04 00:57:04.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;410661.0
+VUGE;BILLED;ResB;2016/01/05 01:22:39.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;413435.0
+YUGE;CODE OK;;2016/01/02 06:24:23.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435007.0
+YUGE;BILLED;ResB;2016/01/07 01:35:02.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;414639.0
+BVGE;BILLED;ResB;2016/01/04 01:34:33.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;412671.0
+VVGE;BILLED;ResB;2016/01/01 01:35:18.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;412999.0
+XWGE;FIN;;2016/01/06 20:12:49.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;8440560.0
+XWGE;RELEASE;;2016/01/07 05:35:41.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;33772.0
+XWGE;CODE OK;;2016/01/12 06:08:29.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433968.0
+XWGE;BILLED;ResB;2016/01/15 21:04:14.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;312945.0
+RXGE;BILLED;ResB;2016/01/01 01:28:10.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;327270.0
+VXGE;CODE OK;;2016/01/04 06:33:44.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433970.0
+VXGE;BILLED;ResB;2016/01/08 01:32:45.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;327541.0
+WXGE;BILLED;ResB;2016/01/01 01:32:02.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;327823.0
+AYGE;BILLED;ResB;2016/01/02 01:33:48.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;329083.0
+EYGE;CODE OK;;2016/01/02 06:36:06.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434009.0
+EYGE;BILLED;ResB;2016/01/06 01:35:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;327592.0
+AZGE;CODE OK;;2016/01/02 06:20:16.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434808.0
+AZGE;BILLED;ResB;2016/01/05 01:36:14.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;242158.0
+CZGE;CODE OK;;2016/01/02 06:25:44.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;432989.0
+CZGE;BILLED;ResB;2016/01/04 01:36:18.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;155434.0
+QZGE;RELEASE;;2016/01/09 05:40:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;6912605.0
+QZGE;CODE OK;;2016/01/09 06:12:53.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1958.0
+QZGE;BILLED;ResB;2016/01/14 20:49:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;484598.0
+YBHE;BILLED;ResB;2016/01/05 22:22:13.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;749798.0
+LEHE;BILLED;ResB;2016/01/01 01:27:21.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;68845.0
+MEHE;BILLED;ResB;2016/01/03 01:36:14.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;241162.0
+NEHE;CODE OK;;2016/01/04 06:32:48.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520031.0
+NEHE;BILLED;ResB;2016/01/05 01:35:38.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;68570.0
+SEHE;BILLED;ResB;2016/01/03 22:21:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403106.0
+RFHE;CODE OK;;2016/01/02 06:33:49.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;519970.0
+RFHE;BILLED;ResB;2016/01/03 01:29:31.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;68142.0
+XFHE;CODE OK;;2016/01/03 06:15:35.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434033.0
+XFHE;BILLED;ResB;2016/01/09 22:05:41.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575406.0
+BGHE;FIN;ResA;2016/01/01 00:18:32.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7743241.0
+BGHE;RELEASE;;2016/01/01 05:47:47.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;19755.0
+BGHE;CODE OK;;2016/01/07 06:27:31.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520784.0
+BGHE;BILLED;ResB;2016/01/13 22:18:45.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575474.0
+VIHE;FIN;ResA;2016/01/03 19:40:23.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7812146.0
+VIHE;RELEASE;;2016/01/04 06:12:38.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;37935.0
+VIHE;CODE OK;;2016/01/09 06:32:19.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433181.0
+VIHE;BILLED;ResB;2016/01/15 22:20:16.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575277.0
+YIHE;FIN;ResA;2016/01/03 19:40:29.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7805364.0
+YIHE;RELEASE;;2016/01/04 05:35:12.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35683.0
+YIHE;CODE OK;;2016/01/09 06:10:31.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434119.0
+YIHE;BILLED;ResB;2016/01/15 22:22:46.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;576735.0
+DJHE;CODE OK;;2016/01/03 06:23:59.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433786.0
+DJHE;BILLED;ResB;2016/01/09 22:21:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575879.0
+IJHE;CODE OK;;2016/01/03 06:10:13.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434345.0
+IJHE;BILLED;ResB;2016/01/04 01:23:24.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;69191.0
+NJHE;CODE OK;;2016/01/04 06:30:53.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433441.0
+NJHE;BILLED;ResB;2016/01/10 22:14:27.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575014.0
+OJHE;CODE OK;;2016/01/03 06:17:01.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434005.0
+OJHE;BILLED;ResB;2016/01/09 22:20:45.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;576224.0
+PJHE;FIN;ResA;2016/01/02 19:42:15.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7798555.0
+PJHE;RELEASE;;2016/01/03 05:43:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36082.0
+PJHE;CODE OK;;2016/01/08 06:17:02.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434005.0
+PJHE;BILLED;ResB;2016/01/14 22:20:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;576215.0
+UJHE;BILLED;ResB;2016/01/03 22:22:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;576711.0
+BKHE;CODE OK;;2016/01/04 06:10:37.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434122.0
+BKHE;BILLED;ResB;2016/01/10 22:21:23.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;576646.0
+CKHE;CODE OK;;2016/01/02 06:32:33.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433192.0
+CKHE;BILLED;ResB;2016/01/08 22:20:32.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575279.0
+EKHE;FIN;ResA;2016/01/08 00:57:44.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;8503446.0
+JKHE;CODE OK;;2016/01/02 06:24:07.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433792.0
+JKHE;BILLED;ResB;2016/01/08 22:13:04.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575337.0
+MKHE;FIN;ResA;2016/01/02 23:26:23.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7718283.0
+MKHE;RELEASE;;2016/01/03 05:48:28.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;22925.0
+MKHE;CODE OK;;2016/01/09 06:28:16.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520788.0
+MKHE;BILLED;ResB;2016/01/15 22:16:40.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575304.0
+PKHE;CODE OK;;2016/01/03 06:32:47.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;606292.0
+PKHE;BILLED;ResB;2016/01/09 22:21:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575298.0
+BMHE;FIN;ResA;2016/01/01 19:39:07.000;Variant 1;1;;;;;CA;;;;;;;;complete;;;;;Closed;;7812802.0
+BMHE;RELEASE;;2016/01/02 05:31:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35539.0
+BMHE;CODE OK;;2016/01/07 05:59:19.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433673.0
+BMHE;BILLED;ResB;2016/01/12 22:11:54.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490355.0
+FMHE;BILLED;ResB;2016/01/04 22:14:03.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490483.0
+LMHE;BILLED;ResB;2016/01/04 22:17:06.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Billed;;490189.0
+MMHE;RELEASE;;2016/01/01 05:48:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36559.0
+MMHE;CODE OK;;2016/01/06 06:19:17.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433819.0
+MMHE;BILLED;ResB;2016/01/11 22:22:41.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;489804.0
+SMHE;CODE OK;;2016/01/01 06:07:20.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433661.0
+SMHE;BILLED;ResB;2016/01/06 22:23:42.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490582.0
+TMHE;CODE OK;;2016/01/04 06:47:31.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521801.0
+TMHE;BILLED;ResB;2016/01/08 22:13:55.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;401184.0
+UMHE;FIN;ResA;2016/01/01 19:40:39.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7795361.0
+UMHE;RELEASE;;2016/01/02 05:30:33.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35394.0
+UMHE;CODE OK;;2016/01/07 05:57:29.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433616.0
+UMHE;BILLED;ResB;2016/01/12 22:16:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490748.0
+ANHE;CODE OK;;2016/01/04 06:22:43.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433443.0
+ANHE;BILLED;ResB;2016/01/09 22:05:17.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;488554.0
+BNHE;BILLED;ResB;2016/01/03 22:23:33.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490569.0
+ENHE;FIN;ResA;2016/01/02 23:37:52.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7716403.0
+ENHE;RELEASE;;2016/01/03 05:37:08.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;21556.0
+ENHE;CODE OK;;2016/01/09 06:04:12.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520024.0
+ENHE;BILLED;ResB;2016/01/14 22:17:19.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490387.0
+GNHE;FIN;ResA;2016/01/03 23:37:53.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7716227.0
+GNHE;RELEASE;;2016/01/04 05:37:08.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;21555.0
+GNHE;CODE OK;;2016/01/10 06:04:12.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520024.0
+GNHE;BILLED;ResB;2016/01/15 22:18:34.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490462.0
+TNHE;FIN;ResA;2016/01/01 19:41:53.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7760520.0
+TNHE;RELEASE;;2016/01/02 05:55:33.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36820.0
+TNHE;CODE OK;;2016/01/07 06:22:07.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433594.0
+TNHE;BILLED;ResB;2016/01/12 22:24:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;489718.0
+YNHE;CODE OK;;2016/01/04 06:40:42.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;347702.0
+YNHE;BILLED;ResB;2016/01/13 22:24:03.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;834201.0
+COHE;CODE OK;;2016/01/05 06:07:29.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433667.0
+COHE;BILLED;ResB;2016/01/10 21:59:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;489117.0
+WOHE;RELEASE;;2016/01/05 05:45:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;6999059.0
+WOHE;CODE OK;;2016/01/05 06:35:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;3015.0
+WOHE;BILLED;ResB;2016/01/09 20:03:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;394066.0
+FPHE;FIN;ResA;2016/01/03 19:42:03.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7806796.0
+FPHE;RELEASE;;2016/01/04 06:09:56.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;37673.0
+FPHE;CODE OK;;2016/01/09 06:45:46.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434150.0
+FPHE;BILLED;ResB;2016/01/13 22:02:15.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;400589.0
+GPHE;CODE OK;;2016/01/02 06:25:31.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;348589.0
+GPHE;BILLED;ResB;2016/01/06 22:18:01.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402750.0
+JPHE;BILLED;ResB;2016/01/04 22:17:52.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;401092.0
+KPHE;CODE OK;;2016/01/01 06:30:09.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521426.0
+KPHE;BILLED;ResB;2016/01/05 22:24:07.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402838.0
+MPHE;CODE OK;;2016/01/01 06:41:22.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434472.0
+MPHE;BILLED;ResB;2016/01/05 22:22:54.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402092.0
+VPHE;FIN;ResA;2016/01/04 19:43:21.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7800139.0
+VPHE;RELEASE;;2016/01/05 06:06:03.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;37362.0
+VPHE;CODE OK;;2016/01/10 06:43:43.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434260.0
+VPHE;BILLED;ResB;2016/01/14 22:19:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;401746.0
+YPHE;CODE OK;;2016/01/02 06:23:06.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434923.0
+YPHE;BILLED;ResB;2016/01/06 22:23:54.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403248.0
+IQHE;CODE OK;;2016/01/05 06:19:51.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434907.0
+IQHE;BILLED;ResB;2016/01/09 22:19:39.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403188.0
+KQHE;BILLED;ResB;2016/01/02 09:20:12.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;270901.0
+NQHE;FIN;ResA;2016/01/02 20:21:54.000;Variant 6;6;;;;;C;;;;;;;;complete;;;;;Closed;;7298056.0
+NQHE;RELEASE;;2016/01/03 05:39:44.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Released;;33470.0
+NQHE;CODE OK;;2016/01/09 06:30:16.000;Variant 6;6;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521432.0
+NQHE;BILLED;ResB;2016/01/13 22:20:22.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Billed;;402606.0
+QQHE;FIN;ResA;2016/01/02 19:44:58.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7791893.0
+QQHE;RELEASE;;2016/01/03 05:35:13.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35415.0
+QQHE;CODE OK;;2016/01/08 06:25:41.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435028.0
+QQHE;BILLED;ResB;2016/01/12 22:21:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402919.0
+ARHE;FIN;ResA;2016/01/05 19:45:35.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7759315.0
+ARHE;RELEASE;;2016/01/06 05:34:24.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35329.0
+ARHE;CODE OK;;2016/01/11 06:23:11.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434927.0
+ARHE;BILLED;ResB;2016/01/15 22:24:27.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403276.0
+BRHE;BILLED;ResB;2016/01/03 22:24:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402506.0
+DRHE;BILLED;ResB;2016/01/02 19:44:18.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;392358.0
+IRHE;BILLED;ResB;2016/01/03 22:24:36.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317626.0
+LRHE;RELEASE;;2016/01/01 05:39:55.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36038.0
+LRHE;CODE OK;;2016/01/06 06:12:58.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433983.0
+LRHE;BILLED;ResB;2016/01/09 22:16:55.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317037.0
+MRHE;FIN;ResA;2016/01/05 19:39:22.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7810271.0
+MRHE;RELEASE;;2016/01/06 05:55:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36938.0
+MRHE;CODE OK;;2016/01/11 06:30:37.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434137.0
+MRHE;BILLED;ResB;2016/01/14 22:15:53.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;315916.0
+NRHE;FIN;ResA;2016/01/03 19:39:26.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7808443.0
+NRHE;RELEASE;;2016/01/04 05:39:55.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36029.0
+NRHE;CODE OK;;2016/01/09 06:13:00.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433985.0
+NRHE;BILLED;ResB;2016/01/12 22:24:24.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317484.0
+QRHE;CODE OK;;2016/01/02 06:19:08.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520429.0
+QRHE;BILLED;ResB;2016/01/05 22:06:21.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;316033.0
+ASHE;CODE OK;;2016/01/05 06:19:58.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434912.0
+ASHE;BILLED;ResB;2016/01/09 22:24:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403471.0
+ZSHE;CODE OK;;2016/01/01 06:29:46.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434241.0
+ZSHE;BILLED;ResB;2016/01/04 22:12:59.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;315793.0
+BTHE;CODE OK;;2016/01/03 06:33:46.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434145.0
+BTHE;BILLED;ResB;2016/01/06 22:12:52.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;315546.0
+ETHE;FIN;ResA;2016/01/03 19:43:19.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7807271.0
+ETHE;RELEASE;;2016/01/04 05:58:26.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;36907.0
+ETHE;CODE OK;;2016/01/09 06:34:33.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434167.0
+ETHE;BILLED;ResB;2016/01/12 22:24:41.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;316208.0
+HTHE;CODE OK;;2016/01/02 06:31:57.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434116.0
+HTHE;BILLED;ResB;2016/01/05 22:19:01.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;316024.0
+RTHE;FIN;ResA;2016/01/01 19:44:33.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7792608.0
+RTHE;RELEASE;;2016/01/02 05:34:39.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35406.0
+RTHE;CODE OK;;2016/01/07 06:05:29.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433850.0
+RTHE;BILLED;ResB;2016/01/10 22:24:25.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317936.0
+STHE;CODE OK;;2016/01/05 06:08:37.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433974.0
+STHE;BILLED;ResB;2016/01/08 22:18:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317392.0
+UTHE;CODE OK;;2016/01/05 06:05:31.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433852.0
+UTHE;BILLED;ResB;2016/01/08 22:24:52.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317961.0
+VTHE;CODE OK;;2016/01/03 06:32:27.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434133.0
+VTHE;BILLED;ResB;2016/01/06 22:15:56.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;315809.0
+WTHE;CODE OK;;2016/01/05 06:26:31.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434398.0
+WTHE;BILLED;ResB;2016/01/08 22:23:17.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;316606.0
+BUHE;CODE OK;;2016/01/05 06:05:33.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433853.0
+BUHE;BILLED;ResB;2016/01/08 22:20:40.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317707.0
+CUHE;BILLED;ResB;2016/01/07 01:26:14.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;673129.0
+JUHE;FIN;ResA;2016/01/01 21:55:12.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7695837.0
+JUHE;RELEASE;;2016/01/02 05:52:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;28637.0
+JUHE;CODE OK;;2016/01/08 06:30:03.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520654.0
+JUHE;BILLED;ResB;2016/01/10 22:25:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;230102.0
+TUHE;BILLED;ResB;2016/01/04 20:52:40.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;396663.0
+WUHE;CODE OK;;2016/01/04 06:05:41.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433859.0
+WUHE;BILLED;ResB;2016/01/07 22:25:12.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317971.0
+CVHE;FIN;;2016/01/03 19:50:15.000;Variant 3;3;;;;;B;;;;;;;;complete;;;;;Closed;;7754830.0
+CVHE;RELEASE;;2016/01/04 05:30:49.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34834.0
+CVHE;CODE OK;;2016/01/08 06:17:24.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;348395.0
+CVHE;BILLED;ResB;2016/01/12 22:08:26.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;402662.0
+DBIE;FIN;ResA;2016/01/04 19:39:01.000;Variant 1;1;;;;;CA;;;;;;;;complete;;;;;Closed;;7785201.0
+DBIE;RELEASE;;2016/01/05 05:31:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35556.0
+DBIE;CODE OK;;2016/01/10 06:04:18.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433961.0
+DBIE;BILLED;ResB;2016/01/12 22:25:03.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;231645.0
+FBIE;CODE OK;;2016/01/05 06:07:34.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433902.0
+FBIE;BILLED;ResB;2016/01/07 22:25:11.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;231457.0
+UBIE;RELEASE;;2016/01/01 05:35:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35875.0
+UBIE;CODE OK;;2016/01/06 06:02:03.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433623.0
+UBIE;BILLED;ResB;2016/01/07 22:25:21.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;145398.0
+EEIE;FIN;ResA;2016/01/11 20:51:00.000;Variant 34;34;;;;;CA;;;;;;;;complete;;;;;Closed;;8317784.0
+EEIE;RELEASE;;2016/01/12 05:31:31.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;31231.0
+OIIE;FIN;ResA;2016/01/02 19:54:47.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;7096777.0
+OIIE;RELEASE;;2016/01/03 05:37:50.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;34983.0
+OIIE;CODE OK;;2016/01/08 06:05:39.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433669.0
+OIIE;BILLED;ResB;2016/01/13 22:24:01.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490702.0
+TKIE;FIN;ResA;2016/01/02 20:01:19.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;796333.0
+TKIE;RELEASE;;2016/01/03 05:34:46.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;34407.0
+TKIE;CODE OK;;2016/01/08 06:05:45.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433859.0
+TKIE;BILLED;ResB;2016/01/11 22:25:39.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317994.0
+LLIE;CODE OK;;2016/01/02 06:30:09.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434091.0
+LLIE;BILLED;ResB;2016/01/06 01:35:52.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;327943.0
+IMIE;CODE OK;;2016/01/04 06:28:32.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434274.0
+IMIE;BILLED;ResB;2016/01/07 22:23:47.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;316515.0
+UMIE;CODE OK;;2016/01/03 06:30:22.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521432.0
+UMIE;BILLED;ResB;2016/01/07 22:21:34.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402672.0
+VOIE;BILLED;ResHG;2016/01/01 06:00:08.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;430052.0
+DPIE;RELEASE;;2016/01/09 05:37:25.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;1490404.0
+DPIE;CODE OK;;2016/01/09 06:25:48.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;2903.0
+DPIE;BILLED;ResB;2016/01/13 20:42:46.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;397018.0
+TYIE;BILLED;ResHG;2016/01/01 03:42:54.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;335269.0
+UAJE;BILLED;ResB;2016/01/07 22:20:23.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;1339277.0
+VBJE;FIN;ResA;2016/01/04 20:23:15.000;Variant 9;9;;;;;B;;;;;;;;complete;;;;;Closed;;6841808.0
+VBJE;RELEASE;;2016/01/05 05:55:14.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Released;;34319.0
+VBJE;CODE OK;;2016/01/08 06:22:50.000;Variant 9;9;False;True;;;;;;;True;;;;complete;;0.0;;;;E;260856.0
+VBJE;REOPEN;ResDB;2016/01/09 13:45:20.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;In progress;;112950.0
+VBJE;FIN;;2016/01/09 13:46:07.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Closed;;47.0
+VBJE;RELEASE;;2016/01/09 13:46:10.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Released;;3.0
+VBJE;CODE OK;;2016/01/09 13:46:12.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;;;2.0
+VBJE;BILLED;ResB;2016/01/13 19:45:28.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Billed;;367156.0
+BGJE;CODE OK;;2016/01/03 06:34:37.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433813.0
+BGJE;BILLED;ResB;2016/01/05 19:46:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;220299.0
+MGJE;CODE OK;;2016/01/01 06:30:01.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435068.0
+MGJE;BILLED;ResB;2016/01/06 01:35:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;414336.0
+UGJE;CODE OK;;2016/01/01 06:24:59.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435017.0
+UGJE;BILLED;ResB;2016/01/06 01:37:49.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;414770.0
+WGJE;BILLED;ResB;2016/01/03 22:19:33.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403279.0
+AHJE;FIN;ResA;2016/01/06 20:06:43.000;Variant 132;132;;;;;A;;;;;;;;complete;;;;;Closed;;7098566.0
+AHJE;RELEASE;;2016/01/07 05:46:01.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;Released;;34758.0
+AHJE;CODE NOK;;2016/01/13 06:11:52.000;Variant 132;132;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;519951.0
+AHJE;CODE NOK;;2016/01/14 06:40:51.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;;G;88139.0
+AHJE;EMPTY;ResCH;2016/01/14 08:26:04.000;Variant 132;132;;;;;;;;;;;;;complete;;;;;Empty;;6313.0
+GHJE;BILLED;ResB;2016/01/06 19:45:31.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;566123.0
+LHJE;BILLED;ResB;2016/01/04 22:25:23.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;749839.0
+AIJE;DELETE;ResGA;2016/01/12 12:04:17.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;7817621.0
+SIJE;BILLED;ResB;2016/01/06 01:37:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;502257.0
+YJJE;CODE OK;;2016/01/02 06:21:26.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433269.0
+YJJE;BILLED;ResB;2016/01/03 14:25:32.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;115446.0
+DLJE;BILLED;ResB;2016/01/03 21:05:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;571234.0
+OLJE;FIN;ResA;2016/01/02 20:03:00.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;6346595.0
+OLJE;RELEASE;;2016/01/03 05:55:23.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35543.0
+OLJE;CODE OK;;2016/01/08 06:24:43.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433760.0
+OLJE;BILLED;ResB;2016/01/14 22:18:42.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;575639.0
+YLJE;CODE OK;;2016/01/02 06:20:39.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433752.0
+YLJE;BILLED;ResB;2016/01/07 22:19:34.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;489535.0
+LTJE;FIN;;2016/01/01 21:05:45.000;Variant 3;3;;;;;E;;;;;;;;complete;;;;;Closed;;6902483.0
+LTJE;RELEASE;;2016/01/02 05:56:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;31854.0
+LTJE;CODE OK;;2016/01/04 06:21:37.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;174298.0
+LTJE;BILLED;ResB;2016/01/05 19:35:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;134018.0
+MTJE;BILLED;ResB;2016/01/04 19:44:58.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;652264.0
+FVJE;CODE NOK;;2016/01/03 06:13:33.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;347262.0
+FVJE;EMPTY;ResSB;2016/01/03 15:28:08.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;33275.0
+AWJE;BILLED;ResB;2016/01/02 09:42:32.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;357400.0
+SZJE;FIN;;2016/01/07 20:43:30.000;Variant 3;3;;;;;B;;;;;;;;complete;;;;;Closed;;6462572.0
+SZJE;RELEASE;;2016/01/08 05:35:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;31917.0
+SZJE;CODE OK;;2016/01/10 06:23:26.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;175679.0
+SZJE;BILLED;ResB;2016/01/14 19:47:24.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;393838.0
+TZJE;BILLED;ResHG;2016/01/01 03:49:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;250754.0
+BAKE;FIN;;2016/01/02 23:09:06.000;Variant 3;3;;;;;B;;;;;;;;complete;;;;;Closed;;6460755.0
+BAKE;RELEASE;;2016/01/03 05:36:53.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;23267.0
+BAKE;CODE OK;;2016/01/05 06:25:53.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;175740.0
+BAKE;BILLED;ResB;2016/01/09 20:31:24.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;396331.0
+GAKE;CODE OK;;2016/01/01 06:10:45.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434020.0
+GAKE;BILLED;ResB;2016/01/03 21:06:17.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;226532.0
+BCKE;RELEASE;;2016/01/04 05:46:03.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;5707089.0
+BCKE;CODE OK;;2016/01/05 06:16:58.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;88255.0
+BCKE;BILLED;ResB;2016/01/13 21:18:18.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;745280.0
+ECKE;BILLED;ResB;2016/01/02 22:21:06.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;489423.0
+GCKE;FIN;ResA;2016/01/02 01:41:02.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;5764057.0
+GCKE;RELEASE;;2016/01/02 06:07:56.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;16014.0
+GCKE;CODE OK;;2016/01/06 06:41:44.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;347628.0
+GCKE;BILLED;ResB;2016/01/08 22:20:15.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;229111.0
+FDKE;CODE OK;;2016/01/01 06:30:52.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;520527.0
+FDKE;BILLED;ResB;2016/01/03 19:38:46.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;220074.0
+TEKE;FIN;ResA;2016/01/06 20:45:11.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;3921748.0
+TEKE;RELEASE;;2016/01/07 05:35:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;31818.0
+TEKE;CODE OK;;2016/01/10 06:05:56.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;261027.0
+TEKE;BILLED;ResB;2016/01/13 22:27:50.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;318114.0
+KFKE;BILLED;ResB;2016/01/04 19:46:35.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;394145.0
+GHKE;FIN;ResA;2016/01/01 19:38:58.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;5902710.0
+GHKE;RELEASE;;2016/01/02 05:46:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;36430.0
+GHKE;CODE OK;;2016/01/07 06:36:25.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;435017.0
+GHKE;BILLED;ResB;2016/01/11 09:12:33.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;354968.0
+HHKE;BILLED;ResB;2016/01/07 22:20:30.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;922198.0
+DJKE;CODE OK;;2016/01/01 06:10:11.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;261099.0
+DJKE;BILLED;ResB;2016/01/07 01:37:05.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;502014.0
+MKKE;BILLED;ResHG;2016/01/01 04:45:05.000;Variant 28;28;;;;;;;;;;;;;complete;;;;;Billed;;401524.0
+NKKE;RELEASE;;2016/01/04 05:46:20.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;3978786.0
+NKKE;CODE OK;;2016/01/04 06:32:30.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2770.0
+NKKE;BILLED;ResB;2016/01/13 21:18:18.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;830748.0
+YKKE;CODE OK;;2016/01/04 06:10:57.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433948.0
+YKKE;BILLED;ResB;2016/01/07 22:22:18.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317481.0
+RLKE;CODE OK;;2016/01/01 06:15:04.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;261418.0
+RLKE;BILLED;ResB;2016/01/03 22:25:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;231054.0
+BPKE;CODE OK;;2016/01/05 06:09:39.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520480.0
+BPKE;BILLED;ResB;2016/01/15 19:47:04.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;913045.0
+SPKE;BILLED;ResB;2016/01/05 01:09:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;672811.0
+CQKE;BILLED;ResB;2016/01/01 22:14:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;229007.0
+DQKE;FIN;;2016/01/02 20:46:47.000;Variant 3;3;;;;;B;;;;;;;;complete;;;;;Closed;;5276032.0
+DQKE;RELEASE;;2016/01/03 05:58:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;33109.0
+DQKE;CODE OK;;2016/01/05 06:36:15.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;175059.0
+DQKE;BILLED;ResB;2016/01/08 22:05:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;314984.0
+LRKE;BILLED;ResB;2016/01/01 01:30:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;501906.0
+PRKE;BILLED;ResB;2016/01/04 22:20:36.000;Variant 13;13;;;;;;;;;;;;;complete;;;;;Billed;;371293.0
+BSKE;FIN;ResA;2016/01/03 20:13:29.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;5539088.0
+BSKE;RELEASE;;2016/01/04 05:56:58.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35009.0
+BSKE;CODE OK;;2016/01/09 06:32:34.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434136.0
+BSKE;BILLED;ResB;2016/01/12 22:25:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;316382.0
+PTKE;BILLED;ResB;2016/01/03 22:26:03.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;490707.0
+TUKE;CODE OK;;2016/01/04 06:37:42.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434355.0
+TUKE;BILLED;ResB;2016/01/06 14:32:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;201302.0
+QWKE;CODE OK;;2016/01/03 06:08:53.000;Variant 3;3;False;True;;;;;;;True;;;;complete;;0.0;;;;E;261116.0
+QWKE;BILLED;ResB;2016/01/06 20:39:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;311466.0
+GYKE;FIN;ResA;2016/01/07 19:34:49.000;Variant 3;3;;;;;A;;;;;;;;complete;;;;;Closed;;5308759.0
+GYKE;RELEASE;;2016/01/08 05:31:20.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;35791.0
+GYKE;CODE OK;;2016/01/13 05:59:27.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433687.0
+GYKE;BILLED;ResB;2016/01/14 09:27:17.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;98870.0
+OYKE;RELEASE;;2016/01/01 05:46:28.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;34708.0
+OYKE;CODE OK;;2016/01/06 06:26:26.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434398.0
+OYKE;BILLED;ResB;2016/01/07 01:41:17.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;69291.0
+DCLE;BILLED;ResB;2016/01/04 22:31:02.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;577346.0
+RCLE;CODE OK;;2016/01/03 06:40:55.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434042.0
+RCLE;BILLED;ResB;2016/01/05 14:39:27.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;201512.0
+XELE;BILLED;ResB;2016/01/09 01:40:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;934084.0
+YFLE;CODE OK;;2016/01/05 06:32:18.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520209.0
+YFLE;BILLED;ResB;2016/01/06 01:13:57.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;67299.0
+DHLE;CODE OK;;2016/01/03 06:13:57.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434221.0
+DHLE;BILLED;ResB;2016/01/06 22:22:43.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317326.0
+KHLE;DELETE;ResYF;2016/01/08 11:25:42.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;5676507.0
+YHLE;FIN;;2016/01/16 20:15:22.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;5781516.0
+GILE;DELETE;ResYF;2016/01/16 09:59:08.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;5584183.0
+DKLE;FIN;ResA;2016/01/01 21:44:31.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;2364372.0
+DKLE;RELEASE;;2016/01/02 05:36:01.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;28290.0
+DKLE;CODE OK;;2016/01/08 06:02:39.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;519998.0
+DKLE;BILLED;ResB;2016/01/13 19:48:14.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;481535.0
+GKLE;DELETE;ResYF;2016/01/08 13:59:48.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;5488463.0
+IKLE;DELETE;ResYF;2016/01/12 14:06:11.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;5486684.0
+UKLE;BILLED;ResB;2016/01/01 22:23:16.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;402790.0
+VKLE;CODE OK;;2016/01/03 06:05:11.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;347395.0
+VKLE;BILLED;ResB;2016/01/09 01:38:00.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;502369.0
+YKLE;CODE OK;;2016/01/01 06:32:20.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520207.0
+YKLE;BILLED;ResB;2016/01/08 19:49:30.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;652630.0
+BLLE;REOPEN;ResYC;2016/01/02 09:00:59.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;In progress;;185383.0
+BLLE;FIN;ResA;2016/01/04 21:41:40.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Closed;;218441.0
+BLLE;RELEASE;;2016/01/05 05:31:35.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Released;;28195.0
+BLLE;CODE OK;;2016/01/05 06:18:00.000;Variant 301;301;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2785.0
+BLLE;BILLED;ResB;2016/01/07 22:26:02.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Billed;;230882.0
+BLLE;STORNO;ResSB;2016/01/09 09:05:38.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Invoice rejected;;124776.0
+BLLE;REJECT;;2016/01/09 09:05:45.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Rejected;;7.0
+BLLE;REOPEN;;2016/01/09 09:05:57.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;In progress;;12.0
+BLLE;FIN;ResA;2016/01/09 21:31:29.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Closed;;44732.0
+BLLE;RELEASE;;2016/01/10 05:31:51.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Released;;28822.0
+BLLE;CODE OK;;2016/01/10 06:20:18.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;;;2907.0
+BLLE;BILLED;ResB;2016/01/14 19:52:00.000;Variant 301;301;;;;;;;;;;;;;complete;;;;;Billed;;394302.0
+UOLE;CODE OK;;2016/01/01 06:31:21.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434145.0
+UOLE;BILLED;ResB;2016/01/08 23:32:08.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;666047.0
+XOLE;CODE OK;;2016/01/03 06:22:40.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;607590.0
+XOLE;BILLED;ResB;2016/01/05 23:18:01.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;233721.0
+ZOLE;BILLED;ResB;2016/01/01 22:19:12.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;144970.0
+JQLE;RELEASE;;2016/01/01 06:06:34.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;35135.0
+JQLE;CODE OK;;2016/01/04 06:32:34.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;260760.0
+JQLE;BILLED;ResB;2016/01/08 01:32:01.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;327567.0
+KQLE;CODE OK;;2016/01/03 06:12:24.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520573.0
+KQLE;BILLED;ResB;2016/01/07 01:41:43.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;329359.0
+CSLE;FIN;ResA;2016/01/02 21:51:49.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;3930021.0
+CSLE;RELEASE;;2016/01/03 05:36:10.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;27861.0
+CSLE;CODE OK;;2016/01/06 06:06:08.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;260998.0
+CSLE;BILLED;ResB;2016/01/08 01:41:51.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;156943.0
+ZSLE;REOPEN;ResOC;2016/01/04 16:38:45.000;Variant 18;18;;;;;;;;;;;;;complete;;;;;In progress;;3570789.0
+ZSLE;DELETE;;2016/01/04 16:38:48.000;Variant 18;18;;;;;;;;;;;True;;complete;;;;;In progress;;3.0
+TTLE;CODE OK;;2016/01/04 06:27:52.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521388.0
+TTLE;BILLED;ResB;2016/01/08 19:48:42.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;393650.0
+GULE;FIN;ResA;2016/01/01 21:17:16.000;Variant 6;6;;;;;E;;;;;;;;complete;;;;;Closed;;3328607.0
+GULE;RELEASE;;2016/01/02 05:35:51.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Released;;29915.0
+GULE;CODE OK;;2016/01/04 06:23:45.000;Variant 6;6;False;False;;;;;;;False;;;;complete;;0.0;;;;E;175674.0
+GULE;BILLED;ResB;2016/01/08 19:49:26.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Billed;;393941.0
+IULE;BILLED;ResB;2016/01/06 22:31:35.000;Variant 83;83;;;;;;;;;;;;True;complete;;;;;Billed;;577233.0
+IULE;BILLED;;2016/01/06 22:31:35.000;Variant 83;83;;;;;;;;;;;;False;complete;;;;;Billed;;0.0
+LULE;FIN;ResA;2016/01/03 21:54:46.000;Variant 6;6;;;;;E;;;;;;;;complete;;;;;Closed;;2976942.0
+LULE;RELEASE;;2016/01/04 05:36:16.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Released;;27690.0
+LULE;CODE OK;;2016/01/08 06:14:03.000;Variant 6;6;False;False;;;;;;;False;;;;complete;;0.0;;;;E;347867.0
+LULE;BILLED;ResB;2016/01/15 19:49:45.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Billed;;653742.0
+FVLE;BILLED;ResIA;2016/01/01 23:25:12.000;Variant 12;12;;;;;;;;;;;;;complete;;;;;Billed;;4581115.0
+GXLE;BILLED;ResB;2016/01/03 20:03:19.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;481750.0
+KXLE;RELEASE;ResA;2016/01/01 05:31:55.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;63214.0
+KXLE;CODE OK;;2016/01/03 06:04:39.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;174764.0
+KXLE;BILLED;ResB;2016/01/05 19:52:49.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;222490.0
+ZYLE;FIN;ResA;2016/01/01 21:21:22.000;Variant 1;1;;;;;E;;;;;;;;complete;;;;;Closed;;4094737.0
+ZYLE;RELEASE;;2016/01/02 05:35:58.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;29676.0
+ZYLE;CODE OK;;2016/01/04 06:23:48.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;175670.0
+ZYLE;BILLED;ResB;2016/01/08 19:50:09.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;393981.0
+LZLE;BILLED;ResB;2016/01/08 22:31:44.000;Variant 15;15;;;;;;;;;;;;;complete;;;;;Billed;;2218309.0
+RZLE;CODE OK;;2016/01/04 06:02:55.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;519994.0
+RZLE;BILLED;ResB;2016/01/09 22:31:19.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;491304.0
+UZLE;FIN;ResA;2016/01/07 20:25:21.000;Variant 1;1;;;;;F;;;;;;;;complete;;;;;Closed;;4332472.0
+UZLE;RELEASE;;2016/01/08 05:55:40.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;34219.0
+UZLE;CODE OK;;2016/01/08 06:30:59.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2119.0
+UZLE;BILLED;ResB;2016/01/11 22:31:45.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;316846.0
+EAME;FIN;ResA;2016/01/06 20:45:05.000;Variant 1;1;;;;;E;;;;;;;;complete;;;;;Closed;;4106055.0
+EAME;RELEASE;;2016/01/07 05:38:13.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;31988.0
+EAME;CODE OK;;2016/01/10 06:15:16.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;261423.0
+EAME;BILLED;ResB;2016/01/12 19:50:29.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;221713.0
+EBME;FIN;ResA;2016/01/02 20:57:53.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;3643740.0
+EBME;RELEASE;;2016/01/03 05:40:10.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;31337.0
+EBME;CODE OK;;2016/01/09 06:30:38.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521428.0
+EBME;BILLED;ResB;2016/01/13 22:31:16.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403238.0
+GBME;FIN;ResA;2016/01/03 21:24:19.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;3996834.0
+GBME;RELEASE;;2016/01/04 05:36:01.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;29502.0
+GBME;CODE OK;;2016/01/06 06:23:50.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;175669.0
+GBME;BILLED;ResB;2016/01/10 22:30:43.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403613.0
+HBME;BILLED;ResB;2016/01/02 22:30:57.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403626.0
+TCME;BILLED;ResHG;2016/01/01 04:19:13.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;164306.0
+WDME;FIN;ResA;2016/01/05 22:39:25.000;Variant 1;1;;;;;E;;;;;;;;complete;;;;;Closed;;2873869.0
+WDME;RELEASE;;2016/01/06 05:46:54.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;25649.0
+WDME;CODE OK;;2016/01/08 06:21:56.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;174902.0
+WDME;BILLED;ResB;2016/01/10 19:50:47.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;221331.0
+UEME;FIN;ResA;2016/01/04 01:23:16.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;3686259.0
+UEME;RELEASE;;2016/01/04 05:57:04.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;16428.0
+UEME;CODE OK;;2016/01/09 06:32:51.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434147.0
+UEME;BILLED;ResB;2016/01/12 22:31:57.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;316746.0
+YEME;FIN;ResA;2016/01/10 20:04:49.000;Variant 34;34;;;;;A;;;;;;;;complete;;;;;Closed;;4079151.0
+YEME;RELEASE;;2016/01/11 05:45:32.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;34843.0
+SFME;CODE OK;;2016/01/05 06:17:30.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;606554.0
+SFME;BILLED;ResB;2016/01/06 23:42:48.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;149118.0
+XFME;RELEASE;;2016/01/02 05:45:33.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;3802879.0
+XFME;CODE OK;;2016/01/02 06:25:24.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2391.0
+XFME;BILLED;ResB;2016/01/05 19:50:43.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;307519.0
+ZGME;RELEASE;;2016/01/03 05:42:49.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;710856.0
+ZGME;CODE OK;;2016/01/03 06:14:40.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1911.0
+ZGME;BILLED;ResB;2016/01/04 20:57:53.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;139393.0
+BIME;RELEASE;;2016/01/01 05:55:37.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;1491864.0
+BIME;CODE OK;;2016/01/01 06:23:45.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;1688.0
+BIME;BILLED;ResB;2016/01/02 21:24:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;140426.0
+EIME;FIN;ResK;2016/01/02 12:32:27.000;Variant 34;34;;;;;CA;;;;;;;;complete;;;;;Closed;;3689694.0
+EIME;RELEASE;ResA;2016/01/03 05:31:56.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;61169.0
+XJME;BILLED;ResB;2016/01/02 22:26:08.000;Variant 20;20;;;;;;;;;;;;;complete;;;;;Billed;;230883.0
+DKME;FIN;ResA;2016/01/08 21:34:16.000;Variant 1;1;;;;;B;;;;;;;;complete;;;;;Closed;;3140936.0
+DKME;RELEASE;;2016/01/09 05:36:11.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;28915.0
+DKME;CODE OK;;2016/01/14 06:02:41.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433590.0
+DKME;BILLED;ResB;2016/01/15 22:31:56.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;145755.0
+GKME;BILLED;ResB;2016/01/02 22:31:42.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;403531.0
+YOME;CODE OK;;2016/01/01 05:59:35.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433693.0
+YOME;BILLED;ResB;2016/01/02 19:51:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;136290.0
+VSME;CODE OK;;2016/01/01 06:23:09.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;260820.0
+VSME;BILLED;ResB;2016/01/06 21:40:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;487047.0
+XSME;FIN;;2016/01/09 20:31:57.000;Variant 3;3;;;;;O;;;;;;;;complete;;;;;Closed;;3452521.0
+XSME;RELEASE;;2016/01/10 05:56:00.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;33843.0
+XSME;CODE OK;;2016/01/11 06:31:16.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;88516.0
+XSME;BILLED;ResB;2016/01/13 21:05:13.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;225237.0
+FTME;FIN;;2016/01/08 21:29:45.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;3880962.0
+ZVME;BILLED;;2016/01/08 23:25:26.000;Variant 12;12;;;;;;;;;;;;;complete;;;;;Billed;;3199015.0
+YWME;BILLED;ResB;2016/01/06 19:50:04.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;3072261.0
+IXME;RELEASE;;2016/01/06 05:45:38.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;795214.0
+IXME;CODE OK;;2016/01/06 06:25:36.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2398.0
+IXME;BILLED;ResB;2016/01/09 19:51:18.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;307542.0
+SXME;FIN;ResSB;2016/01/05 08:21:05.000;Variant 98;98;;;;;E;;;;;;;;complete;;;;;Closed;;3263977.0
+SXME;RELEASE;;2016/01/05 08:21:08.000;Variant 98;98;;;;;;;;;;;;;complete;;;;;Released;;3.0
+BCNE;BILLED;ResB;2016/01/03 21:02:20.000;Variant 14;14;;;;;;;;;;;;;complete;;;;;Billed;;311470.0
+DGNE;BILLED;ResB;2016/01/02 01:25:29.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;240711.0
+JGNE;CODE OK;;2016/01/05 06:14:27.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433662.0
+JGNE;BILLED;ResB;2016/01/10 22:08:47.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;489260.0
+KGNE;CODE OK;;2016/01/01 06:16:06.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;260852.0
+KGNE;BILLED;ResB;2016/01/07 01:23:20.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;500834.0
+MGNE;BILLED;ResB;2016/01/02 21:01:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;485228.0
+QQNE;BILLED;ResB;2016/01/02 22:25:31.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;1094261.0
+UQNE;CODE OK;;2016/01/02 06:06:49.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;520524.0
+UQNE;BILLED;ResB;2016/01/05 22:25:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;317928.0
+WQNE;FIN;;2016/01/05 20:40:08.000;Variant 3;3;;;;;O;;;;;;;;complete;;;;;Closed;;2158824.0
+WQNE;RELEASE;;2016/01/06 05:56:06.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;33358.0
+WQNE;CODE OK;;2016/01/07 06:31:24.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;88518.0
+WQNE;BILLED;ResB;2016/01/09 22:31:32.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;230408.0
+WSNE;BILLED;ResB;2016/01/09 01:42:54.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;1191977.0
+BYNE;CODE OK;;2016/01/05 06:08:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434233.0
+BYNE;BILLED;ResB;2016/01/11 21:35:20.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;573986.0
+WGOE;DELETE;ResQA;2016/01/07 11:11:37.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;2601967.0
+QHOE;FIN;ResA;2016/01/09 20:24:04.000;Variant 1;1;;;;;F;;;;;;;;complete;;;;;Closed;;1680020.0
+QHOE;RELEASE;;2016/01/10 05:42:05.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;33481.0
+QHOE;CODE OK;;2016/01/10 06:29:04.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2819.0
+QHOE;BILLED;ResB;2016/01/14 22:32:35.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403411.0
+PIOE;BILLED;ResB;2016/01/07 23:34:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;838970.0
+QIOE;CODE OK;;2016/01/03 06:43:58.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;262713.0
+QIOE;BILLED;ResB;2016/01/08 01:06:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;411753.0
+UIOE;FIN;ResA;2016/01/14 23:48:50.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;2125502.0
+HJOE;BILLED;ResB;2016/01/02 22:32:36.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;231859.0
+LJOE;CODE OK;;2016/01/03 06:18:20.000;Variant 38;38;False;False;;;;;;;False;;;;complete;;0.0;;;;E;521209.0
+LJOE;BILLED;ResB;2016/01/05 22:26:06.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;Billed;;230866.0
+LJOE;STORNO;ResXD;2016/01/14 14:42:49.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;Invoice rejected;;749803.0
+LJOE;REJECT;;2016/01/14 14:43:21.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;Rejected;;32.0
+LJOE;REOPEN;;2016/01/14 14:44:08.000;Variant 38;38;;;;;;;;;;;;;complete;;;;;In progress;;47.0
+LJOE;DELETE;;2016/01/14 14:44:40.000;Variant 38;38;;;;;;;;;;;True;;complete;;;;;In progress;;32.0
+IKOE;BILLED;ResB;2016/01/01 22:26:11.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;835974.0
+QKOE;BILLED;ResB;2016/01/03 21:15:15.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;2007196.0
+ILOE;DELETE;ResTG;2016/01/06 08:45:56.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;1637651.0
+LNOE;BILLED;ResB;2016/01/03 20:08:13.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;482004.0
+XROE;BILLED;ResB;2016/01/10 04:42:38.000;Variant 8;8;;;;;;;;;;;;;complete;;;;;Billed;;1117041.0
+YROE;CODE OK;;2016/01/05 06:34:31.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434364.0
+YROE;BILLED;ResB;2016/01/07 22:30:52.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;230181.0
+ZROE;CODE OK;;2016/01/05 06:35:56.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434345.0
+ZROE;BILLED;ResB;2016/01/07 23:58:56.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;235380.0
+OSOE;CODE NOK;;2016/01/03 06:19:24.000;Variant 11;11;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;261021.0
+OSOE;EMPTY;ResGA;2016/01/03 08:33:35.000;Variant 11;11;;;;;;;;;;;;;complete;;;;;Empty;;8051.0
+PSOE;BILLED;ResB;2016/01/02 22:32:42.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;1096222.0
+RSOE;CODE OK;;2016/01/04 06:21:44.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433206.0
+RSOE;BILLED;ResB;2016/01/05 20:53:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;138719.0
+YSOE;FIN;;2016/01/01 21:39:56.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;433410.0
+ZYOE;BILLED;ResB;2016/01/08 05:02:57.000;Variant 8;8;;;;;;;;;;;;;complete;;;;;Billed;;1032240.0
+AZOE;BILLED;ResB;2016/01/07 04:46:44.000;Variant 8;8;;;;;;;;;;;;;complete;;;;;Billed;;1031266.0
+BZOE;BILLED;ResB;2016/01/09 05:03:14.000;Variant 8;8;;;;;;;;;;;;;complete;;;;;Billed;;1032968.0
+CZOE;BILLED;ResB;2016/01/04 05:03:14.000;Variant 8;8;;;;;;;;;;;;;complete;;;;;Billed;;1032967.0
+DZOE;BILLED;ResB;2016/01/06 04:42:17.000;Variant 8;8;;;;;;;;;;;;;complete;;;;;Billed;;1030995.0
+LZOE;BILLED;ResB;2016/01/10 00:39:24.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;1448600.0
+NZOE;CODE OK;;2016/01/04 06:20:50.000;Variant 26;26;False;False;;;;;;;False;;;;complete;;0.0;;;;E;434948.0
+NZOE;BILLED;ResB;2016/01/08 19:52:29.000;Variant 26;26;;;;;;;;;;;;;complete;;;;;Billed;;394299.0
+RZOE;BILLED;ResB;2016/01/11 19:52:23.000;Variant 136;136;;;;;;;;;;;;;complete;;;;;Billed;;999048.0
+DAPE;BILLED;ResB;2016/01/02 22:25:05.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;489792.0
+EAPE;BILLED;ResB;2016/01/04 22:24:38.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;489765.0
+FBPE;BILLED;ResB;2016/01/04 22:20:47.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Billed;;403150.0
+BHPE;FIN;;2016/01/03 21:35:03.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;431833.0
+KHPE;BILLED;ResB;2016/01/04 22:02:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;488873.0
+LHPE;CODE OK;;2016/01/05 06:14:54.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;433657.0
+LHPE;BILLED;ResB;2016/01/10 21:48:39.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;488025.0
+NHPE;CODE OK;;2016/01/01 06:37:39.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;89743.0
+NHPE;BILLED;ResB;2016/01/05 21:41:23.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;399824.0
+THPE;DELETE;;2016/01/04 01:57:29.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;583304.0
+WHPE;FIN;ResA;2016/01/01 00:02:20.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;209316.0
+OIPE;CHANGE DIAGN;ResK;2016/01/02 21:56:25.000;Variant 92;92;;;;;;HO;;;;;;;complete;;;;;In progress;;346503.0
+OIPE;FIN;ResA;2016/01/03 22:06:59.000;Variant 92;92;;;;;CA;;;;;;;;complete;;;;;Closed;;87034.0
+OIPE;RELEASE;;2016/01/04 05:31:43.000;Variant 92;92;;;;;;;;;;;;;complete;;;;;Released;;26684.0
+OIPE;CODE NOK;;2016/01/05 06:03:45.000;Variant 92;92;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;88322.0
+OIPE;EMPTY;ResSB;2016/01/05 14:17:51.000;Variant 92;92;;;;;;;;;;;;;complete;;;;;Empty;;29646.0
+WIPE;BILLED;ResB;2016/01/02 20:57:38.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;570731.0
+XIPE;FIN;;2016/01/03 01:26:21.000;Variant 3;3;;;;;N;;;;;;;;complete;;;;;Closed;;434751.0
+XIPE;RELEASE;;2016/01/03 05:50:41.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;15860.0
+XIPE;CODE OK;;2016/01/06 06:26:06.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;261325.0
+XIPE;BILLED;ResB;2016/01/12 21:00:59.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;570893.0
+YIPE;BILLED;ResB;2016/01/06 21:15:44.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;571718.0
+ZIPE;FIN;;2016/01/01 01:33:44.000;Variant 3;3;;;;;N;;;;;;;;complete;;;;;Closed;;434776.0
+ZIPE;RELEASE;;2016/01/01 05:54:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;15627.0
+ZIPE;CODE OK;;2016/01/02 06:18:13.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;87842.0
+ZIPE;BILLED;ResB;2016/01/10 20:44:36.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;743183.0
+CJPE;FIN;;2016/01/04 01:42:35.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;434713.0
+NJPE;NEW;ResJA;2016/01/01 08:21:38.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MKPE;NEW;ResJA;2016/01/01 08:21:41.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UKPE;DELETE;ResTX;2016/01/04 16:48:54.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;1371214.0
+WKPE;FIN;;2016/01/05 21:43:39.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;432225.0
+BMPE;NEW;ResJA;2016/01/02 22:54:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KNPE;NEW;ResJA;2016/01/02 22:54:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VNPE;NEW;ResJA;2016/01/02 22:54:37.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IOPE;NEW;ResJA;2016/01/02 22:54:39.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OOPE;NEW;ResA;2016/01/02 23:14:38.000;Variant 3;3;;;False;A;;AD;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+OOPE;FIN;;2016/01/07 23:15:27.000;Variant 3;3;;;;;G;;;;;;;;complete;;;;;Closed;;432049.0
+OOPE;RELEASE;;2016/01/08 05:56:31.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;24064.0
+OOPE;CODE OK;;2016/01/08 06:30:56.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2065.0
+OOPE;BILLED;ResB;2016/01/15 19:51:35.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;652839.0
+TOPE;NEW;ResDA;2016/01/02 10:48:08.000;Variant 80;80;;;False;B;;;False;False;;True;False;False;complete;;;;E;In progress;;0.0
+TOPE;CHANGE DIAGN;;2016/01/02 10:48:17.000;Variant 80;80;;;;;;UB;;;;;;;complete;;;;;In progress;;9.0
+XOPE;NEW;ResZX;2016/01/02 12:54:08.000;Variant 5;5;;;False;A;;RE;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+XOPE;FIN;ResA;2016/01/04 22:08:54.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;206086.0
+DPPE;NEW;ResKJ;2016/01/01 15:28:46.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;O;In progress;;0.0
+DPPE;CHANGE DIAGN;;2016/01/01 15:29:06.000;Variant 7;7;;;;;;WG;;;;;;;complete;;;;;In progress;;20.0
+DPPE;DELETE;ResWB;2016/01/02 07:46:29.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;58643.0
+FPPE;NEW;ResDA;2016/01/03 15:35:37.000;Variant 5;5;;;False;A;;Z;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+FPPE;FIN;ResA;2016/01/05 22:09:24.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;196427.0
+LPPE;FIN;ResA;2016/01/02 23:17:38.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;312207.0
+LQPE;NEW;ResJA;2016/01/03 22:49:01.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VQPE;NEW;ResJA;2016/01/01 22:49:03.000;Variant 2;2;;;False;J;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DRPE;NEW;ResJA;2016/01/03 22:49:04.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SRPE;NEW;ResJA;2016/01/03 22:49:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VRPE;NEW;ResJA;2016/01/01 22:49:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XRPE;NEW;ResJA;2016/01/03 22:49:08.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YRPE;NEW;ResJA;2016/01/01 22:49:08.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BSPE;NEW;ResJA;2016/01/01 22:49:09.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LSPE;NEW;ResJA;2016/01/01 22:49:11.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+USPE;NEW;ResJA;2016/01/01 22:49:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZSPE;NEW;ResJA;2016/01/01 22:49:13.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ETPE;NEW;ResJA;2016/01/02 22:49:15.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LTPE;NEW;ResJA;2016/01/03 22:49:16.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OTPE;NEW;ResJA;2016/01/02 22:49:17.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+STPE;NEW;ResJA;2016/01/03 22:49:18.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RUPE;NEW;ResJA;2016/01/02 22:49:23.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IVPE;NEW;ResJA;2016/01/02 22:49:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KVPE;NEW;ResJA;2016/01/02 22:49:27.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LVPE;NEW;ResJA;2016/01/01 22:49:27.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RVPE;NEW;ResJA;2016/01/03 22:49:29.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SVPE;NEW;ResJA;2016/01/03 22:49:29.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UVPE;NEW;ResJA;2016/01/02 22:49:29.000;Variant 2;2;;;False;J;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WVPE;NEW;ResJA;2016/01/02 22:49:29.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XVPE;NEW;ResJA;2016/01/01 22:49:29.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VWPE;NEW;ResJA;2016/01/03 22:49:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IXPE;FIN;;2016/01/03 00:03:24.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;429420.0
+LXPE;NEW;ResA;2016/01/03 09:10:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MXPE;NEW;ResGA;2016/01/01 09:16:31.000;Variant 3;3;;;False;A;;WG;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+MXPE;FIN;;2016/01/01 09:16:37.000;Variant 3;3;;;;;N;;;;;;;;complete;;;;;Closed;;6.0
+MXPE;RELEASE;;2016/01/01 09:17:43.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;66.0
+MXPE;CODE OK;;2016/01/01 09:17:47.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;4.0
+MXPE;BILLED;ResB;2016/01/06 01:37:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;404369.0
+NXPE;BILLED;ResB;2016/01/05 01:37:16.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;404322.0
+CYPE;NEW;ResA;2016/01/02 21:36:19.000;Variant 5;5;;;False;A;;W;False;False;;False;False;True;complete;;;;F;In progress;;0.0
+CYPE;FIN;;2016/01/07 21:24:21.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;431282.0
+DYPE;NEW;ResA;2016/01/01 21:36:35.000;Variant 5;5;;;False;A;;LF;False;False;;False;False;True;complete;;;;F;In progress;;0.0
+DYPE;FIN;;2016/01/06 21:24:27.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;431272.0
+EYPE;NEW;ResJA;2016/01/02 22:54:05.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+JYPE;NEW;ResJA;2016/01/01 22:54:05.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QYPE;NEW;ResJA;2016/01/01 22:54:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WYPE;FIN;;2016/01/05 00:45:12.000;Variant 3;3;;;;;G;;;;;;;;complete;;;;;Closed;;431063.0
+WYPE;RELEASE;;2016/01/05 05:42:02.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;17810.0
+WYPE;CODE OK;;2016/01/05 06:17:51.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;E;2149.0
+WYPE;BILLED;ResB;2016/01/10 20:43:19.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Billed;;483928.0
+AZPE;NEW;ResOP;2016/01/02 09:34:01.000;Variant 5;5;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+AZPE;FIN;ResA;2016/01/06 00:04:29.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;311428.0
+EZPE;NEW;ResIH;2016/01/04 13:10:45.000;Variant 2;2;;;False;A;;QS;False;False;;True;False;False;complete;;;;S;In progress;;0.0
+FZPE;NEW;ResG;2016/01/05 13:41:59.000;Variant 5;5;;;False;A;;G;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+FZPE;FIN;ResA;2016/01/09 00:04:40.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;296561.0
+NZPE;DELETE;ResOD;2016/01/02 01:56:23.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;457611.0
+PZPE;NEW;ResA;2016/01/02 22:08:58.000;Variant 5;5;;;False;A;;X;False;False;;False;False;True;complete;;;;E;In progress;;0.0
+PZPE;FIN;;2016/01/07 21:59:15.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;431417.0
+TZPE;NEW;ResJA;2016/01/03 22:48:22.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EAQE;FIN;;2016/01/04 00:30:30.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;431772.0
+MAQE;FIN;ResA;2016/01/12 20:18:06.000;Variant 5;5;;;;;A;;;;;;;;complete;;;;;Closed;;1233567.0
+PAQE;NEW;ResI;2016/01/06 14:41:51.000;Variant 5;5;;;False;A;;AJ;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+PAQE;FIN;ResA;2016/01/10 22:00:09.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;371898.0
+RAQE;NEW;ResDH;2016/01/04 14:09:10.000;Variant 5;5;;;False;A;;QC;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+RAQE;FIN;ResA;2016/01/07 00:05:19.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;208569.0
+UAQE;FIN;ResA;2016/01/01 00:09:38.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;113915.0
+ZAQE;DELETE;ResCX;2016/01/02 09:22:27.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;286044.0
+IBQE;NEW;ResOJA;2016/01/02 09:25:42.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;P;In progress;;0.0
+IBQE;CHANGE DIAGN;;2016/01/02 09:26:11.000;Variant 7;7;;;;;;LH;;;;;;;complete;;;;;In progress;;29.0
+IBQE;DELETE;ResAV;2016/01/02 10:07:37.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;2486.0
+JBQE;NEW;ResAC;2016/01/07 10:21:13.000;Variant 5;5;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+JBQE;FIN;ResA;2016/01/10 01:07:57.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;226004.0
+OBQE;FIN;ResA;2016/01/02 22:00:22.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;293375.0
+RBQE;NEW;ResNG;2016/01/08 11:01:21.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;S;In progress;;0.0
+RBQE;CHANGE DIAGN;;2016/01/08 11:01:40.000;Variant 7;7;;;;;;XM;;;;;;;complete;;;;;In progress;;19.0
+RBQE;DELETE;ResWA;2016/01/17 12:37:45.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;783365.0
+TBQE;NEW;ResA;2016/01/04 20:06:54.000;Variant 2;2;;;False;A;;HF;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+UBQE;NEW;ResZG;2016/01/03 16:45:53.000;Variant 219;219;;;False;A;;JH;False;False;;True;False;False;complete;;;;P;In progress;;0.0
+UBQE;FIN;ResA;2016/01/08 01:02:11.000;Variant 219;219;;;;;A;;;;;;;;complete;;;;;Closed;;375378.0
+UBQE;RELEASE;;2016/01/08 05:45:20.000;Variant 219;219;;;;;;;;;;;;;complete;;;;;Released;;16989.0
+UBQE;CODE NOK;;2016/01/12 06:17:02.000;Variant 219;219;False;False;;;;;;;False;;;;complete;A;1.0;W;;;E;347502.0
+UBQE;CODE NOK;;2016/01/13 06:47:07.000;Variant 219;219;;;;;;;;;;;;;complete;;;;;;G;88205.0
+UBQE;REOPEN;ResWB;2016/01/13 16:05:24.000;Variant 219;219;;;;;;;;;;;;;complete;;;;;In progress;;33497.0
+UBQE;DELETE;;2016/01/13 16:05:27.000;Variant 219;219;;;;;;;;;;;True;;complete;;;;;In progress;;3.0
+WBQE;NEW;ResA;2016/01/05 21:30:33.000;Variant 5;5;;;False;A;;MH;False;False;;False;False;True;complete;;;;G;In progress;;0.0
+WBQE;FIN;;2016/01/10 23:09:09.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;437916.0
+YBQE;NEW;ResJA;2016/01/04 22:54:10.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CCQE;NEW;ResJA;2016/01/07 22:54:10.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ECQE;NEW;ResA;2016/01/06 23:20:16.000;Variant 37;37;;;False;A;;YC;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+ECQE;CHANGE DIAGN;ResQA;2016/01/10 08:54:48.000;Variant 37;37;;;;;;PE;;;;;;;complete;;;;;In progress;;293672.0
+ECQE;FIN;ResA;2016/01/11 23:11:40.000;Variant 37;37;;;;;H;;;;;;;;complete;;;;;Empty;;137812.0
+MCQE;NEW;ResGAA;2016/01/05 07:41:39.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;Q;In progress;;0.0
+MCQE;DELETE;;2016/01/06 08:40:57.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;89958.0
+RCQE;NEW;ResJA;2016/01/06 22:50:51.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YCQE;NEW;ResJA;2016/01/05 22:50:52.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZCQE;NEW;ResJA;2016/01/07 22:50:52.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ADQE;NEW;ResJA;2016/01/07 22:50:52.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CDQE;NEW;ResJA;2016/01/05 22:50:53.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DDQE;NEW;ResA;2016/01/08 22:59:49.000;Variant 2;2;;;False;A;;EV;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+EDQE;NEW;ResA;2016/01/09 00:04:10.000;Variant 5;5;;;False;A;;G;False;False;;False;False;True;complete;;;;D;In progress;;0.0
+EDQE;FIN;;2016/01/14 00:21:57.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;433067.0
+FDQE;FIN;;2016/01/02 00:22:03.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;433043.0
+IDQE;NEW;ResA;2016/01/03 19:36:27.000;Variant 4;4;;;False;A;;C;False;False;;True;False;False;complete;;;;B;In progress;;0.0
+IDQE;DELETE;ResPA;2016/01/06 14:08:16.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;239509.0
+KDQE;FIN;;2016/01/01 21:16:52.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;431545.0
+LDQE;NEW;ResA;2016/01/09 21:58:44.000;Variant 2;2;;;False;A;;PM;False;False;;False;False;False;complete;;;;Q;In progress;;0.0
+NDQE;NEW;ResJA;2016/01/05 22:52:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ODQE;NEW;ResJA;2016/01/08 22:52:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PDQE;NEW;ResJA;2016/01/04 22:52:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QDQE;NEW;ResJA;2016/01/03 22:52:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RDQE;NEW;ResJA;2016/01/07 22:52:22.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UDQE;NEW;ResJA;2016/01/09 22:52:22.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XDQE;NEW;ResJA;2016/01/05 22:52:23.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+AEQE;NEW;ResJA;2016/01/09 22:52:23.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CEQE;NEW;ResJA;2016/01/02 22:52:23.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DEQE;NEW;ResJA;2016/01/09 22:52:24.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IEQE;NEW;ResJA;2016/01/05 22:52:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MEQE;NEW;ResJA;2016/01/04 22:52:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NEQE;NEW;ResJA;2016/01/04 22:52:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+REQE;NEW;ResJA;2016/01/05 22:52:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SEQE;NEW;ResJA;2016/01/01 22:52:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VEQE;NEW;ResJA;2016/01/02 22:52:27.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WEQE;NEW;ResJA;2016/01/08 22:52:28.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XEQE;NEW;ResJA;2016/01/02 22:52:28.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CFQE;NEW;ResJA;2016/01/01 22:52:29.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NFQE;NEW;ResJA;2016/01/05 22:52:30.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OFQE;NEW;ResJA;2016/01/07 22:52:30.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RFQE;NEW;ResJA;2016/01/04 22:52:32.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UFQE;NEW;ResJA;2016/01/08 22:52:32.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WFQE;NEW;ResJA;2016/01/09 22:52:32.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XFQE;NEW;ResJA;2016/01/01 22:52:33.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YFQE;NEW;ResJA;2016/01/03 22:52:33.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BGQE;NEW;ResJA;2016/01/05 22:52:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DGQE;NEW;ResJA;2016/01/05 22:52:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EGQE;NEW;ResJA;2016/01/01 22:52:35.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IGQE;NEW;ResJA;2016/01/02 22:52:36.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KGQE;NEW;ResA;2016/01/08 01:07:55.000;Variant 5;5;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+KGQE;FIN;;2016/01/13 00:41:18.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;430403.0
+NGQE;NEW;ResRI;2016/01/04 11:29:21.000;Variant 5;5;;;False;A;;JA;False;False;;False;False;True;complete;;;;L;In progress;;0.0
+NGQE;FIN;ResA;2016/01/07 23:00:46.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;300685.0
+OGQE;NEW;ResJQA;2016/01/03 13:05:43.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;Q;In progress;;0.0
+OGQE;DELETE;ResGL;2016/01/03 13:29:20.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;1417.0
+QGQE;NEW;ResVB;2016/01/04 14:28:42.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;M;In progress;;0.0
+QGQE;DELETE;ResND;2016/01/05 10:41:02.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;72740.0
+TGQE;NEW;ResIQ;2016/01/05 22:59:46.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;F;In progress;;0.0
+TGQE;CHANGE DIAGN;;2016/01/05 23:00:54.000;Variant 7;7;;;;;;MKA;;;;;;;complete;;;;;In progress;;68.0
+TGQE;DELETE;ResCA;2016/01/06 10:07:33.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;39999.0
+WGQE;FIN;;2016/01/03 21:34:41.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;430445.0
+XGQE;NEW;ResA;2016/01/03 22:01:25.000;Variant 5;5;;;False;A;;MN;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+XGQE;FIN;;2016/01/08 21:34:47.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;430402.0
+BHQE;NEW;ResJA;2016/01/03 22:50:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DHQE;NEW;ResJA;2016/01/01 22:50:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IHQE;NEW;ResJA;2016/01/09 22:50:13.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NHQE;NEW;ResJA;2016/01/03 22:50:16.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QHQE;NEW;ResJA;2016/01/02 22:50:16.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RHQE;NEW;ResJA;2016/01/02 22:50:16.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UHQE;NEW;ResJA;2016/01/04 22:50:17.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZHQE;NEW;ResJA;2016/01/02 22:50:18.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BIQE;NEW;ResJA;2016/01/02 22:50:18.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FIQE;NEW;ResJA;2016/01/05 22:50:19.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KIQE;NEW;ResJA;2016/01/08 22:50:19.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LIQE;NEW;ResJA;2016/01/04 22:50:19.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MIQE;NEW;ResJA;2016/01/03 22:50:19.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QIQE;NEW;ResJA;2016/01/06 22:50:20.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VIQE;NEW;ResJA;2016/01/01 22:50:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YIQE;NEW;ResJA;2016/01/01 22:50:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZIQE;NEW;ResJA;2016/01/03 22:50:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BJQE;NEW;ResJA;2016/01/09 22:50:22.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EJQE;NEW;ResJA;2016/01/08 22:50:22.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GJQE;NEW;ResJA;2016/01/08 22:50:23.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HJQE;NEW;ResJA;2016/01/01 22:50:24.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+JJQE;NEW;ResJA;2016/01/06 22:50:24.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KJQE;NEW;ResJA;2016/01/03 22:50:24.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OJQE;NEW;ResJA;2016/01/07 22:50:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PJQE;NEW;ResJA;2016/01/09 22:50:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SJQE;NEW;ResJA;2016/01/06 22:50:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TJQE;NEW;ResJA;2016/01/09 22:50:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VJQE;NEW;ResJA;2016/01/09 22:50:25.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XJQE;NEW;ResJA;2016/01/04 22:50:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YJQE;NEW;ResJA;2016/01/08 22:50:26.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FKQE;NEW;ResJA;2016/01/08 22:50:27.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KKQE;NEW;ResJA;2016/01/09 22:50:28.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PKQE;NEW;ResJA;2016/01/10 22:50:29.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RKQE;NEW;ResJA;2016/01/02 22:50:30.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UKQE;NEW;ResJA;2016/01/04 22:50:30.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VKQE;NEW;ResJA;2016/01/02 22:50:31.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BLQE;NEW;ResJA;2016/01/08 22:50:31.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GLQE;NEW;ResJA;2016/01/07 22:50:32.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+JLQE;NEW;ResJA;2016/01/02 22:50:33.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LLQE;NEW;ResJA;2016/01/07 22:50:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MLQE;NEW;ResJA;2016/01/06 22:50:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NLQE;NEW;ResJA;2016/01/08 22:50:34.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PLQE;NEW;ResJA;2016/01/02 22:50:35.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TLQE;NEW;ResJA;2016/01/06 22:50:35.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ULQE;NEW;ResJA;2016/01/04 22:50:35.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GMQE;NEW;ResJA;2016/01/04 22:50:37.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HMQE;NEW;ResSB;2016/01/04 09:49:07.000;Variant 5;5;;;False;A;;VN;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+HMQE;FIN;;2016/01/04 09:51:19.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;132.0
+IMQE;NEW;ResQA;2016/01/05 08:03:27.000;Variant 2;2;;;False;I;;;False;False;;False;False;False;complete;;;;K;In progress;;0.0
+MMQE;NEW;ResPK;2016/01/01 09:51:16.000;Variant 5;5;;;False;A;;BV;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+MMQE;FIN;ResA;2016/01/02 00:56:35.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;54319.0
+QMQE;NEW;ResQA;2016/01/11 13:27:04.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;F;In progress;;0.0
+QMQE;DELETE;;2016/01/18 10:33:52.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;594408.0
+TMQE;NEW;ResA;2016/01/08 21:37:11.000;Variant 5;5;;;False;A;;SA;False;False;;False;False;True;complete;;;;C;In progress;;0.0
+TMQE;FIN;;2016/01/13 21:42:40.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;432329.0
+UMQE;NEW;ResA;2016/01/03 22:44:52.000;Variant 2;2;;;False;A;;EC;False;False;;False;False;False;complete;;;;H;In progress;;0.0
+ANQE;NEW;ResJA;2016/01/07 22:53:53.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CNQE;NEW;ResJA;2016/01/05 22:53:53.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ENQE;NEW;ResJA;2016/01/08 22:53:53.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GNQE;NEW;ResJA;2016/01/11 22:54:09.000;Variant 34;34;;;False;C;;PD;False;False;;False;False;True;complete;;;;E;In progress;;0.0
+GNQE;FIN;ResNC;2016/01/12 22:50:35.000;Variant 34;34;;;;;W;;;;;;;;complete;;;;;Closed;;86186.0
+GNQE;RELEASE;;2016/01/12 22:51:12.000;Variant 34;34;;;;;;;;;;;;;complete;;;;;Released;;37.0
+HNQE;CODE NOK;ResA;2016/01/01 06:15:27.000;Variant 22;22;False;False;;;;;;;False;;;;complete;;0.0;;;;E;26658.0
+HNQE;REOPEN;ResQA;2016/01/06 14:32:24.000;Variant 22;22;;;;;;;;;;;;;complete;;;;;In progress;;461817.0
+HNQE;DELETE;;2016/01/06 14:32:33.000;Variant 22;22;;;;;;;;;;;True;;complete;;;;;In progress;;9.0
+KNQE;NEW;ResSB;2016/01/11 11:23:36.000;Variant 5;5;;;False;A;;MD;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+KNQE;FIN;ResA;2016/01/16 00:59:06.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;394530.0
+MNQE;NEW;ResTA;2016/01/05 14:01:35.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;L;In progress;;0.0
+MNQE;CHANGE DIAGN;;2016/01/05 14:02:03.000;Variant 7;7;;;;;;ZP;;;;;;;complete;;;;;In progress;;28.0
+MNQE;DELETE;ResVD;2016/01/05 14:29:19.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;1636.0
+QNQE;NEW;ResJA;2016/01/11 22:49:54.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WNQE;NEW;ResJA;2016/01/10 22:49:54.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XNQE;NEW;ResJA;2016/01/09 22:49:55.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YNQE;NEW;ResJA;2016/01/12 22:49:55.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZNQE;NEW;ResJA;2016/01/09 22:49:55.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BOQE;NEW;ResA;2016/01/05 00:38:52.000;Variant 2;2;;;False;A;;GGA;False;False;;True;False;False;complete;;;;P;In progress;;0.0
+COQE;NEW;ResAJA;2016/01/07 09:51:32.000;Variant 5;5;;;False;A;;RG;False;False;;False;False;True;complete;;;;M;In progress;;0.0
+COQE;FIN;ResA;2016/01/10 00:55:48.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;227056.0
+DOQE;NEW;ResAJA;2016/01/01 09:53:36.000;Variant 5;5;;;False;A;;VG;False;False;;False;False;True;complete;;;;M;In progress;;0.0
+DOQE;FIN;ResA;2016/01/04 00:55:49.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;226933.0
+FOQE;NEW;ResFJ;2016/01/11 14:08:06.000;Variant 37;37;;;False;A;;WI;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+FOQE;CHANGE DIAGN;ResEEA;2016/01/11 14:25:35.000;Variant 37;37;;;;;;R;;;;;;;complete;;;;;In progress;;1049.0
+FOQE;FIN;ResA;2016/01/12 00:25:26.000;Variant 37;37;;;;;H;;;;;;;;complete;;;;;Empty;;35991.0
+GOQE;NEW;ResD;2016/01/08 13:40:31.000;Variant 5;5;;;False;A;;YF;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+GOQE;FIN;ResA;2016/01/13 00:32:45.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;384734.0
+JOQE;NEW;ResA;2016/01/10 20:15:37.000;Variant 2;2;;;False;A;;CF;False;False;;False;False;False;complete;;;;L;In progress;;0.0
+KOQE;NEW;ResJA;2016/01/12 22:52:38.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LOQE;NEW;ResJA;2016/01/11 22:52:38.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MOQE;NEW;ResJA;2016/01/13 22:52:38.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NOQE;NEW;ResJA;2016/01/01 22:52:39.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OOQE;NEW;ResA;2016/01/07 23:17:33.000;Variant 2;2;;;False;A;;SB;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+SOQE;NEW;ResA;2016/01/01 20:03:51.000;Variant 2;2;;;False;A;;WE;False;False;;False;False;False;complete;;;;F;In progress;;0.0
+UOQE;NEW;ResJA;2016/01/12 22:48:21.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VOQE;NEW;ResJA;2016/01/09 22:48:21.000;Variant 2;2;;;False;N;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YOQE;NEW;ResJA;2016/01/05 08:33:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZOQE;NEW;ResJA;2016/01/13 08:33:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DPQE;NEW;ResAK;2016/01/07 10:43:29.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;L;In progress;;0.0
+DPQE;DELETE;ResVO;2016/01/07 10:45:44.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;135.0
+GPQE;NEW;ResA;2016/01/15 22:46:06.000;Variant 2;2;;;False;A;;IA;False;False;;True;False;False;complete;;;;M;In progress;;0.0
+IPQE;NEW;ResJA;2016/01/10 22:49:48.000;Variant 2;2;;;False;N;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MPQE;NEW;ResJA;2016/01/09 22:49:48.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NPQE;NEW;ResJA;2016/01/08 22:49:48.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OPQE;NEW;ResJA;2016/01/15 22:49:48.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PPQE;NEW;ResJA;2016/01/10 22:49:49.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QPQE;NEW;ResJA;2016/01/14 22:49:49.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SPQE;NEW;ResJA;2016/01/05 22:49:49.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VPQE;NEW;ResJA;2016/01/06 22:49:49.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XPQE;NEW;ResJA;2016/01/08 22:49:49.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YPQE;NEW;ResJA;2016/01/12 22:49:50.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZPQE;NEW;ResJA;2016/01/07 22:49:50.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+AQQE;NEW;ResJA;2016/01/03 22:49:50.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CQQE;NEW;ResJA;2016/01/14 22:49:50.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EQQE;NEW;ResRKA;2016/01/13 07:48:00.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;M;In progress;;0.0
+EQQE;DELETE;ResQA;2016/01/15 08:02:21.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;173661.0
+FQQE;NEW;ResGG;2016/01/11 08:17:59.000;Variant 5;5;;;False;A;;Q;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+FQQE;FIN;ResA;2016/01/11 23:40:54.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;55375.0
+LQQE;NEW;ResA;2016/01/05 20:11:59.000;Variant 2;2;;;False;A;;QY;False;False;;False;False;False;complete;;;;P;In progress;;0.0
+MQQE;NEW;ResA;2016/01/16 20:50:07.000;Variant 2;2;;;False;A;;OF;False;False;;False;False;False;complete;;;;A;In progress;;0.0
+NQQE;NEW;ResJA;2016/01/12 22:50:56.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QQQE;NEW;ResJA;2016/01/08 22:50:56.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RQQE;NEW;ResJA;2016/01/08 22:50:56.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SQQE;NEW;ResJA;2016/01/10 22:50:56.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TQQE;NEW;ResJA;2016/01/10 22:50:57.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UQQE;NEW;ResJA;2016/01/14 22:50:57.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VQQE;NEW;ResJA;2016/01/16 22:50:57.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ARQE;NEW;ResJA;2016/01/05 22:50:58.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BRQE;NEW;ResJA;2016/01/10 22:50:58.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DRQE;NEW;ResJA;2016/01/13 22:50:58.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FRQE;NEW;ResJA;2016/01/11 22:50:58.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GRQE;NEW;ResJA;2016/01/05 22:50:59.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KRQE;NEW;ResJA;2016/01/05 22:50:59.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LRQE;NEW;ResJA;2016/01/11 22:50:59.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MRQE;NEW;ResJA;2016/01/05 22:50:59.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NRQE;NEW;ResJA;2016/01/06 22:50:59.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ORQE;NEW;ResJA;2016/01/11 22:51:00.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RRQE;NEW;ResJA;2016/01/15 22:51:00.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XRQE;NEW;ResJA;2016/01/07 22:51:01.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZRQE;NEW;ResJA;2016/01/16 22:51:01.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ASQE;NEW;ResJA;2016/01/04 22:51:02.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GSQE;NEW;ResJA;2016/01/12 22:51:03.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HSQE;NEW;ResJA;2016/01/08 22:51:03.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MSQE;NEW;ResJA;2016/01/06 22:51:04.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NSQE;NEW;ResJA;2016/01/14 22:51:04.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PSQE;NEW;ResJA;2016/01/13 22:51:04.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QSQE;NEW;ResJA;2016/01/05 22:51:05.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SSQE;NEW;ResJA;2016/01/07 22:51:05.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TSQE;NEW;ResJA;2016/01/10 22:51:05.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VSQE;NEW;ResJA;2016/01/12 22:51:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YSQE;NEW;ResJA;2016/01/05 22:51:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ATQE;NEW;ResJA;2016/01/12 22:51:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CTQE;NEW;ResJA;2016/01/04 22:51:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DTQE;NEW;ResJA;2016/01/09 22:51:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ETQE;NEW;ResJA;2016/01/07 22:51:08.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ITQE;NEW;ResJA;2016/01/10 22:51:08.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KTQE;NEW;ResJA;2016/01/04 22:51:09.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MTQE;NEW;ResJA;2016/01/13 22:51:09.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NTQE;NEW;ResJA;2016/01/05 22:51:10.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QTQE;NEW;ResJA;2016/01/08 22:51:11.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RTQE;NEW;ResJA;2016/01/06 22:51:11.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+STQE;NEW;ResJA;2016/01/11 22:51:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TTQE;NEW;ResJA;2016/01/11 22:51:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UTQE;NEW;ResJA;2016/01/05 22:51:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WTQE;NEW;ResJA;2016/01/14 22:51:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YTQE;NEW;ResA;2016/01/15 00:36:22.000;Variant 2;2;;;False;A;;IKA;False;False;;False;False;False;complete;;;;N;In progress;;0.0
+AUQE;NEW;ResZX;2016/01/06 13:06:49.000;Variant 5;5;;;False;A;;X;False;False;;False;False;True;complete;;;;E;In progress;;0.0
+AUQE;FIN;ResA;2016/01/09 22:09:42.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;291773.0
+DUQE;NEW;ResG;2016/01/16 13:25:20.000;Variant 5;5;;;False;A;;OE;False;False;;False;False;True;complete;;;;D;In progress;;0.0
+DUQE;FIN;ResA;2016/01/18 01:12:29.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;128829.0
+FUQE;NEW;ResTV;2016/01/07 16:19:07.000;Variant 5;5;;;False;A;;GR;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+FUQE;FIN;ResA;2016/01/07 23:41:48.000;Variant 5;5;;;;;H;;;;;;;;complete;;;;;Empty;;26561.0
+HUQE;NEW;ResTR;2016/01/14 08:16:00.000;Variant 2;2;;;False;B;;;False;False;;False;False;False;complete;;;;W;In progress;;0.0
+IUQE;NEW;ResA;2016/01/13 20:06:22.000;Variant 2;2;;;False;A;;YC;False;False;;True;False;False;complete;;;;G;In progress;;0.0
+JUQE;NEW;ResA;2016/01/17 20:08:35.000;Variant 2;2;;;False;A;;G;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+LUQE;NEW;ResJA;2016/01/05 22:55:05.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MUQE;NEW;ResJA;2016/01/17 22:55:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OUQE;NEW;ResJA;2016/01/04 22:55:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QUQE;NEW;ResJA;2016/01/08 22:55:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RUQE;NEW;ResJA;2016/01/09 22:55:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SUQE;NEW;ResJA;2016/01/13 22:55:06.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TUQE;NEW;ResJA;2016/01/16 22:55:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VUQE;NEW;ResJA;2016/01/06 22:55:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WUQE;NEW;ResJA;2016/01/09 22:55:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XUQE;NEW;ResJA;2016/01/06 22:55:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YUQE;NEW;ResJA;2016/01/07 22:55:07.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CVQE;NEW;ResJA;2016/01/05 22:55:08.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FVQE;NEW;ResJA;2016/01/07 22:55:09.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MVQE;NEW;ResJA;2016/01/08 22:55:10.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OVQE;NEW;ResJA;2016/01/15 22:55:10.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PVQE;NEW;ResJA;2016/01/05 22:55:10.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QVQE;NEW;ResJA;2016/01/04 22:55:11.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TVQE;NEW;ResJA;2016/01/13 22:55:11.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WVQE;NEW;ResJA;2016/01/15 22:55:11.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XVQE;NEW;ResJA;2016/01/11 22:55:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YVQE;NEW;ResJA;2016/01/16 22:55:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZVQE;NEW;ResJA;2016/01/15 22:55:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+AWQE;NEW;ResJA;2016/01/05 22:55:12.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BWQE;NEW;ResJA;2016/01/11 22:55:13.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CWQE;NEW;ResJA;2016/01/17 22:55:13.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HWQE;NEW;ResFL;2016/01/07 14:45:30.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;V;In progress;;0.0
+HWQE;CHANGE DIAGN;;2016/01/07 14:45:41.000;Variant 7;7;;;;D;;YO;;;;;;;complete;;;;;In progress;;11.0
+HWQE;DELETE;;2016/01/07 14:46:14.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;33.0
+JWQE;NEW;ResQCA;2016/01/14 15:41:44.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;R;In progress;;0.0
+JWQE;CHANGE DIAGN;;2016/01/14 15:41:56.000;Variant 7;7;;;;;;AX;;;;;;;complete;;;;;In progress;;12.0
+JWQE;DELETE;ResSB;2016/01/15 15:20:27.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;85111.0
+KWQE;NEW;ResWJ;2016/01/07 15:25:39.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;D;In progress;;0.0
+KWQE;CHANGE DIAGN;;2016/01/07 15:26:54.000;Variant 7;7;;;;;;I;;;;;;;complete;;;;;In progress;;75.0
+KWQE;DELETE;;2016/01/07 15:39:11.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;737.0
+LWQE;NEW;ResWB;2016/01/12 16:15:51.000;Variant 2;2;;;False;A;;SB;False;False;;False;False;False;complete;;;;B;In progress;;0.0
+RWQE;NEW;ResJA;2016/01/09 22:52:46.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SWQE;NEW;ResJA;2016/01/09 22:52:46.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TWQE;NEW;ResJA;2016/01/07 22:52:46.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UWQE;NEW;ResJA;2016/01/12 22:52:46.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VWQE;NEW;ResJQA;2016/01/12 10:07:23.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;Q;In progress;;0.0
+VWQE;DELETE;ResFRA;2016/01/12 10:21:42.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;859.0
+XWQE;NEW;ResA;2016/01/15 19:53:51.000;Variant 2;2;;;False;A;;HT;False;False;;False;False;False;complete;;;;U;In progress;;0.0
+ZWQE;NEW;ResJA;2016/01/08 22:55:31.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BXQE;NEW;ResDJ;2016/01/14 21:17:47.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;L;In progress;;0.0
+BXQE;DELETE;ResFR;2016/01/14 22:00:13.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;2546.0
+CXQE;NEW;ResA;2016/01/11 19:40:47.000;Variant 2;2;;;False;A;;LL;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+DXQE;NEW;ResJA;2016/01/13 22:48:13.000;Variant 2;2;;;False;I;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0

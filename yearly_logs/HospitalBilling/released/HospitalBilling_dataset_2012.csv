@@ -1,0 +1,975 @@
+Case ID;Activity;Resource;Complete Timestamp;Variant;Variant index;actOrange;actRed;blocked;caseType;closeCode;diagnosis;flagA;flagB;flagC;flagD;isCancelled;isClosed;lifecycle:transition;msgCode;msgCount;msgType;speciality;state;version;Duration
+A;NEW;ResA;2012/12/16 19:33:10.000;Variant 3;3;;;False;A;;A;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+B;NEW;ResA;2012/12/16 19:33:50.000;Variant 4;4;;;False;A;;B;False;False;;False;False;False;complete;;;;A;In progress;;0.0
+G;NEW;ResC;2012/12/18 09:07:50.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+G;CHANGE DIAGN;;2012/12/18 09:08:40.000;Variant 1;1;;;;;;H;;;;;;;complete;;;;;In progress;;50.0
+I;NEW;ResI;2012/12/24 07:34:33.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+I;CHANGE DIAGN;ResJ;2012/12/24 15:43:37.000;Variant 6;6;;;;;;J;;;;;;;complete;;;;;In progress;;29344.0
+I;CHANGE DIAGN;ResK;2012/12/29 21:05:06.000;Variant 6;6;;;;;;K;;;;;;;complete;;;;;In progress;;451289.0
+I;FIN;ResL;2012/12/30 15:26:29.000;Variant 6;6;;;;;D;;;;;;;;complete;;;;;Closed;;66083.0
+I;RELEASE;ResA;2012/12/31 06:31:16.000;Variant 6;6;;;;;;;;;;;;;complete;;;;;Released;;54287.0
+J;NEW;ResM;2012/12/20 09:05:53.000;Variant 1;1;;;False;A;;L;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+J;CHANGE DIAGN;;2012/12/20 09:06:10.000;Variant 1;1;;;;;;M;;;;;;;complete;;;;;In progress;;17.0
+K;NEW;ResN;2012/12/18 09:10:30.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+L;NEW;ResP;2012/12/23 10:33:42.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;F;In progress;;0.0
+L;DELETE;;2012/12/23 10:34:04.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;22.0
+M;NEW;ResP;2012/12/25 10:36:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+M;CHANGE DIAGN;;2012/12/25 10:36:33.000;Variant 1;1;;;;;;O;;;;;;;complete;;;;;In progress;;15.0
+O;NEW;ResR;2012/12/22 14:05:36.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+O;CHANGE DIAGN;;2012/12/22 14:05:53.000;Variant 1;1;;;;;;Q;;;;;;;complete;;;;;In progress;;17.0
+P;NEW;ResS;2012/12/19 14:17:09.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+P;CHANGE DIAGN;;2012/12/19 14:17:20.000;Variant 1;1;;;;;;R;;;;;;;complete;;;;;In progress;;11.0
+R;NEW;ResV;2012/12/13 11:12:05.000;Variant 1;1;;;False;A;;S;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+V;NEW;ResBA;2012/12/20 12:58:01.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+X;NEW;ResCA;2012/12/23 10:23:58.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;E;In progress;;0.0
+X;CHANGE DIAGN;ResI;2012/12/23 10:27:51.000;Variant 7;7;;;;;;Y;;;;;;;complete;;;;;In progress;;233.0
+X;DELETE;ResDA;2012/12/24 14:47:13.000;Variant 7;7;;;;;;Z;;;;;True;;complete;;;;;In progress;;101962.0
+AA;NEW;ResHA;2012/12/26 08:50:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+AA;CHANGE DIAGN;;2012/12/26 08:50:59.000;Variant 1;1;;;;;;CA;;;;;;;complete;;;;;In progress;;41.0
+CA;NEW;ResA;2012/12/14 03:34:01.000;Variant 3;3;;;False;A;;EA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+CA;FIN;;2012/12/18 04:21:06.000;Variant 3;3;;;;;G;;;;;;;;complete;;;;;Closed;;348425.0
+CA;RELEASE;;2012/12/18 06:05:03.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;6237.0
+CA;CODE OK;;2012/12/25 15:10:06.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;C;637503.0
+DA;NEW;ResA;2012/12/14 04:17:07.000;Variant 3;3;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+EA;NEW;ResA;2012/12/16 04:34:10.000;Variant 3;3;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+EA;FIN;;2012/12/20 05:26:24.000;Variant 3;3;;;;;G;;;;;;;;complete;;;;;Closed;;348734.0
+EA;RELEASE;;2012/12/31 09:56:11.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;966587.0
+EA;CODE OK;;2012/12/31 11:16:43.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;C;4832.0
+FA;NEW;ResA;2012/12/15 04:42:51.000;Variant 3;3;;;False;A;;GA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+HA;NEW;ResJA;2012/12/22 18:02:02.000;Variant 3;3;;;False;A;;IA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+LA;NEW;ResNA;2012/12/20 20:00:58.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+LA;CHANGE DIAGN;ResOA;2012/12/20 20:22:11.000;Variant 1;1;;;;;;LA;;;;;;;complete;;;;;In progress;;1273.0
+;NEW;ResJA;2012/12/14 22:52:38.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SA;NEW;ResA;2012/12/23 21:24:03.000;Variant 3;3;;;False;A;;PA;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+WA;NEW;ResA;2012/12/14 23:34:00.000;Variant 3;3;;;False;A;;TA;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+XA;NEW;ResA;2012/12/13 23:35:24.000;Variant 3;3;;;False;A;;UA;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+ZA;NEW;ResA;2012/12/21 23:56:35.000;Variant 3;3;;;False;A;;WA;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+AB;NEW;ResA;2012/12/15 02:23:20.000;Variant 3;3;;;False;A;;T;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+BB;NEW;ResA;2012/12/26 03:12:57.000;Variant 43;43;;;False;A;;XA;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+FB;NEW;ResA;2012/12/21 03:15:23.000;Variant 3;3;;;False;A;;ZA;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+GB;NEW;ResA;2012/12/17 03:15:49.000;Variant 1;1;;;False;A;;ZA;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+KB;NEW;ResNA;2012/12/17 10:36:33.000;Variant 16;16;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+KB;CHANGE DIAGN;ResSA;2012/12/17 17:47:42.000;Variant 16;16;;;;;;EB;;;;;;;complete;;;;;In progress;;25869.0
+PB;NEW;ResNA;2012/12/13 11:18:50.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;M;In progress;;0.0
+PB;DELETE;;2012/12/13 14:06:26.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;10056.0
+RB;NEW;ResN;2012/12/13 10:13:18.000;Variant 65;65;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+SB;NEW;ResZA;2012/12/17 10:48:34.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+SB;CHANGE DIAGN;ResAB;2012/12/23 11:42:04.000;Variant 1;1;;;;;;JB;;;;;;;complete;;;;;In progress;;521610.0
+TB;NEW;ResN;2012/12/17 13:07:44.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;B;In progress;;0.0
+WB;NEW;ResBB;2012/12/23 11:08:14.000;Variant 3;3;;;False;A;;A;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+XB;NEW;ResBB;2012/12/14 11:10:22.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+XB;CHANGE DIAGN;;2012/12/14 11:10:34.000;Variant 1;1;;;;;;T;;;;;;;complete;;;;;In progress;;12.0
+ZB;NEW;ResBB;2012/12/21 11:30:45.000;Variant 115;115;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+ZB;CHANGE DIAGN;;2012/12/21 11:31:21.000;Variant 115;115;;;;;;H;;;;;;;complete;;;;;In progress;;36.0
+AC;NEW;ResBB;2012/12/19 12:03:22.000;Variant 69;69;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+AC;CHANGE DIAGN;;2012/12/19 12:03:34.000;Variant 69;69;;;;;;MB;;;;;;;complete;;;;;In progress;;12.0
+BC;NEW;ResFB;2012/12/20 15:15:21.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+BC;CHANGE DIAGN;;2012/12/21 12:22:09.000;Variant 1;1;;;;;;M;;;;;;;complete;;;;;In progress;;76008.0
+CC;NEW;ResBB;2012/12/17 15:39:27.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+CC;CHANGE DIAGN;;2012/12/17 15:39:37.000;Variant 1;1;;;;;;NB;;;;;;;complete;;;;;In progress;;10.0
+EC;NEW;ResGB;2012/12/26 13:15:20.000;Variant 3;3;;;False;A;;PB;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+IC;NEW;ResDA;2012/12/24 12:52:39.000;Variant 172;172;;;False;A;;RB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+LC;NEW;ResMB;2012/12/21 10:30:50.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+LC;CHANGE DIAGN;;2012/12/21 10:31:05.000;Variant 1;1;;;;;;VA;;;;;;;complete;;;;;In progress;;15.0
+OC;NEW;ResOB;2012/12/19 10:16:27.000;Variant 3;3;;;False;A;;UB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+PC;NEW;ResPB;2012/12/24 15:16:11.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;F;In progress;;0.0
+PC;CHANGE DIAGN;;2012/12/24 15:17:33.000;Variant 7;7;;;;;;VB;;;;;;;complete;;;;;In progress;;82.0
+PC;DELETE;ResQB;2012/12/26 09:46:24.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;152931.0
+RC;NEW;ResNA;2012/12/24 12:53:11.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+RC;CHANGE DIAGN;ResSA;2012/12/24 17:49:42.000;Variant 9;9;;;;;;XB;;;;;;;complete;;;;;In progress;;17791.0
+SC;NEW;ResNA;2012/12/24 14:07:42.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+TC;NEW;ResUB;2012/12/26 15:06:08.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+TC;CHANGE DIAGN;;2012/12/26 15:06:45.000;Variant 1;1;;;;;;YB;;;;;;;complete;;;;;In progress;;37.0
+UC;NEW;ResNA;2012/12/21 15:16:02.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;M;In progress;;0.0
+UC;DELETE;ResVB;2012/12/21 17:09:18.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;6796.0
+VC;NEW;ResQA;2012/12/27 08:01:05.000;Variant 3;3;;;False;A;;ZB;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+WC;NEW;ResT;2012/12/17 13:26:02.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+WC;CHANGE DIAGN;;2012/12/17 13:26:21.000;Variant 9;9;;;;;;AC;;;;;;;complete;;;;;In progress;;19.0
+WC;FIN;ResA;2012/12/21 20:26:33.000;Variant 9;9;;;;;I;;;;;;;;complete;;;;;Closed;;370812.0
+WC;RELEASE;;2012/12/22 05:08:36.000;Variant 9;9;;;;;;;;;;;;;complete;;;;;Released;;31323.0
+WC;CODE OK;;2012/12/27 15:32:21.000;Variant 9;9;False;False;;;;;;;False;;;;complete;;0.0;;;;C;469425.0
+XC;NEW;ResXB;2012/12/24 14:04:32.000;Variant 53;53;;;False;A;;Q;False;False;;False;False;True;complete;;;;G;In progress;;0.0
+XC;FIN;ResJA;2012/12/24 18:00:50.000;Variant 53;53;;;;;J;;;;;;;;complete;;;;;Closed;;14178.0
+XC;RELEASE;;2012/12/24 18:00:51.000;Variant 53;53;;;;;;;;;;;;;complete;;;;;Released;;1.0
+YC;NEW;ResPB;2012/12/21 08:30:58.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+YC;CHANGE DIAGN;;2012/12/21 08:31:10.000;Variant 1;1;;;;;;VB;;;;;;;complete;;;;;In progress;;12.0
+BD;NEW;ResMB;2012/12/23 10:41:22.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+BD;CHANGE DIAGN;;2012/12/23 10:41:43.000;Variant 1;1;;;;;;FC;;;;;;;complete;;;;;In progress;;21.0
+CD;NEW;ResBC;2012/12/18 12:09:45.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+CD;CHANGE DIAGN;;2012/12/18 12:10:00.000;Variant 1;1;;;;;;GC;;;;;;;complete;;;;;In progress;;15.0
+DD;NEW;ResCC;2012/12/14 13:34:59.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+DD;CHANGE DIAGN;;2012/12/14 13:35:18.000;Variant 1;1;;;;;;HC;;;;;;;complete;;;;;In progress;;19.0
+FD;NEW;ResR;2012/12/26 14:46:36.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+FD;CHANGE DIAGN;;2012/12/26 14:46:52.000;Variant 6;6;;;;;;JC;;;;;;;complete;;;;;In progress;;16.0
+GD;NEW;ResEC;2012/12/23 14:52:25.000;Variant 15;15;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+GD;CHANGE DIAGN;;2012/12/23 14:52:45.000;Variant 15;15;;;;;;LC;;;;;;;complete;;;;;In progress;;20.0
+ID;NEW;ResFC;2012/12/17 14:56:45.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+ID;CHANGE DIAGN;;2012/12/17 14:58:55.000;Variant 1;1;;;;;;D;;;;;;;complete;;;;;In progress;;130.0
+JD;NEW;ResFC;2012/12/23 16:09:06.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+JD;CHANGE DIAGN;;2012/12/23 16:09:24.000;Variant 1;1;;;;;;E;;;;;;;complete;;;;;In progress;;18.0
+LD;NEW;ResHC;2012/12/23 08:38:11.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+LD;CHANGE DIAGN;;2012/12/23 08:38:30.000;Variant 1;1;;;;;;NC;;;;;;;complete;;;;;In progress;;19.0
+MD;NEW;ResIC;2012/12/15 10:27:46.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+MD;CHANGE DIAGN;;2012/12/15 10:28:00.000;Variant 1;1;;;;D;;OC;;;;;;;complete;;;;;In progress;;14.0
+MD;FIN;ResA;2012/12/28 04:42:53.000;Variant 1;1;;;;;K;;;;;;;;complete;;;;;Closed;;1102493.0
+MD;RELEASE;;2012/12/28 09:48:37.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;18344.0
+ND;NEW;ResUB;2012/12/13 15:30:12.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ND;CHANGE DIAGN;;2012/12/13 15:30:51.000;Variant 1;1;;;;;;PC;;;;;;;complete;;;;;In progress;;39.0
+OD;NEW;ResF;2012/12/19 16:08:57.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+OD;CHANGE DIAGN;;2012/12/19 16:09:26.000;Variant 1;1;;;;;;QC;;;;;;;complete;;;;;In progress;;29.0
+PD;NEW;ResJC;2012/12/27 10:56:59.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+PD;CHANGE DIAGN;;2012/12/27 10:57:09.000;Variant 1;1;;;;D;;RC;;;;;;;complete;;;;;In progress;;10.0
+QD;NEW;ResUB;2012/12/14 11:00:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+QD;CHANGE DIAGN;;2012/12/14 11:01:03.000;Variant 1;1;;;;;;SC;;;;;;;complete;;;;;In progress;;16.0
+RD;NEW;ResKC;2012/12/19 11:39:44.000;Variant 26;26;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+RD;CHANGE DIAGN;;2012/12/19 11:40:04.000;Variant 26;26;;;;;;TC;;;;;;;complete;;;;;In progress;;20.0
+RD;CHANGE DIAGN;;2012/12/19 11:42:00.000;Variant 26;26;;;;;;UC;;;;;;;complete;;;;;In progress;;116.0
+UD;NEW;ResIA;2012/12/27 10:46:30.000;Variant 3;3;;;False;A;;PB;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+WD;NEW;ResIA;2012/12/19 10:46:39.000;Variant 3;3;;;False;A;;T;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+XD;NEW;ResIA;2012/12/21 10:46:43.000;Variant 3;3;;;False;A;;T;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+YD;NEW;ResOB;2012/12/21 15:54:46.000;Variant 3;3;;;False;A;;UB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+AE;NEW;ResNC;2012/12/22 14:30:16.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CE;NEW;ResJA;2012/12/14 22:52:39.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EE;NEW;ResJA;2012/12/19 22:52:39.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HE;NEW;ResJA;2012/12/26 22:52:43.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KE;NEW;ResJA;2012/12/25 22:52:45.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OE;NEW;ResJA;2012/12/15 22:52:45.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PE;NEW;ResJA;2012/12/23 22:52:49.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QE;NEW;ResJA;2012/12/26 22:52:50.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+TE;NEW;ResJA;2012/12/23 22:54:21.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UE;NEW;ResJA;2012/12/21 22:54:21.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YE;NEW;ResA;2012/12/18 01:29:07.000;Variant 3;3;;;False;A;;AD;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+YE;FIN;;2012/12/22 01:41:56.000;Variant 3;3;;;;;G;;;;;;;;complete;;;;;Closed;;346369.0
+YE;RELEASE;;2012/12/31 09:58:19.000;Variant 3;3;;;;;;;;;;;;;complete;;;;;Released;;807383.0
+YE;CODE OK;;2012/12/31 11:53:12.000;Variant 3;3;False;False;;;;;;;False;;;;complete;;0.0;;;;C;6893.0
+BF;NEW;ResA;2012/12/27 04:29:57.000;Variant 3;3;;;False;A;;DD;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+EF;NEW;ResQC;2012/12/26 11:39:30.000;Variant 3;3;;;False;A;;FD;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+GF;NEW;ResRC;2012/12/24 08:26:31.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;G;In progress;;0.0
+IF;NEW;ResUC;2012/12/18 12:46:32.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+IF;CHANGE DIAGN;;2012/12/18 12:46:47.000;Variant 1;1;;;;;;GD;;;;;;;complete;;;;;In progress;;15.0
+KF;NEW;ResVC;2012/12/27 16:21:27.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+MF;NEW;ResXC;2012/12/26 11:18:34.000;Variant 355;355;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+MF;CHANGE DIAGN;ResDC;2012/12/26 11:50:29.000;Variant 355;355;;;;;;L;;;;;;;complete;;;;;In progress;;1915.0
+MF;CHANGE DIAGN;ResQB;2012/12/27 14:30:59.000;Variant 355;355;;;;;;VB;;;;;;;complete;;;;;In progress;;96030.0
+OF;NEW;ResAD;2012/12/24 09:51:32.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+OF;CHANGE DIAGN;;2012/12/24 09:51:47.000;Variant 6;6;;;;;;YB;;;;;;;complete;;;;;In progress;;15.0
+PF;NEW;ResBD;2012/12/19 11:06:15.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+PF;CHANGE DIAGN;ResCD;2012/12/19 11:15:45.000;Variant 1;1;;;;;;U;;;;;;;complete;;;;;In progress;;570.0
+QF;NEW;ResDD;2012/12/20 11:08:28.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+QF;CHANGE DIAGN;;2012/12/20 11:08:42.000;Variant 1;1;;;;;;MD;;;;;;;complete;;;;;In progress;;14.0
+RF;NEW;ResDD;2012/12/14 11:12:20.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+RF;CHANGE DIAGN;;2012/12/14 11:12:35.000;Variant 1;1;;;;;;ND;;;;;;;complete;;;;;In progress;;15.0
+SF;NEW;ResDD;2012/12/16 11:39:51.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+SF;CHANGE DIAGN;;2012/12/16 11:40:06.000;Variant 1;1;;;;;;OD;;;;;;;complete;;;;;In progress;;15.0
+TF;NEW;ResBA;2012/12/18 09:52:50.000;Variant 2;2;;;False;E;;PD;False;False;;False;False;False;complete;;;;K;In progress;;0.0
+UF;NEW;ResED;2012/12/23 11:16:40.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+UF;CHANGE DIAGN;;2012/12/23 11:17:24.000;Variant 1;1;;;;;;QD;;;;;;;complete;;;;;In progress;;44.0
+XF;NEW;ResFD;2012/12/18 11:17:31.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+AG;NEW;ResIA;2012/12/22 10:47:29.000;Variant 3;3;;;False;A;;OB;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+CG;NEW;ResIA;2012/12/23 10:48:05.000;Variant 4;4;;;False;A;;UD;False;False;;True;False;False;complete;;;;M;In progress;;0.0
+DG;NEW;ResGD;2012/12/21 14:27:59.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+DG;CHANGE DIAGN;;2012/12/21 14:28:07.000;Variant 1;1;;;;D;;VD;;;;;;;complete;;;;;In progress;;8.0
+EG;NEW;ResWA;2012/12/22 15:36:09.000;Variant 3;3;;;False;A;;RB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+GG;NEW;ResHD;2012/12/21 08:44:48.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+GG;CHANGE DIAGN;;2012/12/21 08:45:12.000;Variant 1;1;;;;;;XD;;;;;;;complete;;;;;In progress;;24.0
+IG;NEW;ResAD;2012/12/18 11:53:31.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+IG;CHANGE DIAGN;;2012/12/18 11:53:50.000;Variant 1;1;;;;;;YD;;;;;;;complete;;;;;In progress;;19.0
+JG;NEW;ResDD;2012/12/16 12:01:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+JG;CHANGE DIAGN;;2012/12/16 12:01:54.000;Variant 1;1;;;;;;ZD;;;;;;;complete;;;;;In progress;;17.0
+KG;NEW;ResS;2012/12/17 13:45:03.000;Variant 3;3;;;False;A;;XD;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+MG;NEW;ResS;2012/12/25 15:24:17.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+NG;NEW;ResJD;2012/12/16 15:53:33.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+NG;CHANGE DIAGN;;2012/12/16 15:53:53.000;Variant 1;1;;;;;;AE;;;;;;;complete;;;;;In progress;;20.0
+PG;NEW;ResKD;2012/12/20 14:07:07.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+PG;CHANGE DIAGN;;2012/12/20 14:07:47.000;Variant 1;1;;;;;;BE;;;;;;;complete;;;;;In progress;;40.0
+QG;NEW;ResKD;2012/12/27 16:39:43.000;Variant 1;1;;;False;A;;CE;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+SG;NEW;ResLD;2012/12/21 00:02:10.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+SG;CHANGE DIAGN;ResQB;2012/12/21 12:18:41.000;Variant 9;9;;;;;;M;;;;;;;complete;;;;;In progress;;44191.0
+TG;NEW;ResMD;2012/12/21 08:31:45.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;F;In progress;;0.0
+TG;CHANGE DIAGN;;2012/12/21 08:31:59.000;Variant 7;7;;;;;;M;;;;;;;complete;;;;;In progress;;14.0
+TG;DELETE;;2012/12/24 13:50:04.000;Variant 7;7;;;;;;;;;;;True;;complete;;;;;In progress;;278285.0
+UG;NEW;ResND;2012/12/27 14:21:35.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+VG;NEW;ResC;2012/12/21 14:36:09.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+VG;CHANGE DIAGN;;2012/12/21 14:38:07.000;Variant 9;9;;;;;;FE;;;;;;;complete;;;;;In progress;;118.0
+WG;NEW;ResF;2012/12/23 15:46:33.000;Variant 85;85;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+WG;CHANGE DIAGN;;2012/12/23 15:46:49.000;Variant 85;85;;;;;;QC;;;;;;;complete;;;;;In progress;;16.0
+XG;NEW;ResZC;2012/12/26 17:16:53.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+XG;CHANGE DIAGN;;2012/12/26 17:17:12.000;Variant 1;1;;;;;;XD;;;;;;;complete;;;;;In progress;;19.0
+YG;NEW;ResQD;2012/12/27 18:14:11.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+YG;CHANGE DIAGN;;2012/12/27 18:14:28.000;Variant 1;1;;;;;;BA;;;;;;;complete;;;;;In progress;;17.0
+AH;NEW;ResDC;2012/12/16 15:01:53.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+AH;CHANGE DIAGN;;2012/12/16 15:02:30.000;Variant 1;1;;;;;;W;;;;;;;complete;;;;;In progress;;37.0
+BH;NEW;ResPD;2012/12/20 15:18:31.000;Variant 44;44;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+BH;CHANGE DIAGN;;2012/12/20 15:18:49.000;Variant 44;44;;;;;;GE;;;;;;;complete;;;;;In progress;;18.0
+BH;CHANGE DIAGN;;2012/12/20 16:06:53.000;Variant 44;44;;;;;;HE;;;;;;;complete;;;;;In progress;;2884.0
+CH;NEW;ResSD;2012/12/17 15:43:33.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+JH;NEW;ResWD;2012/12/23 15:51:08.000;Variant 18;18;;;False;B;;;False;False;;True;False;False;complete;;;;C;In progress;;0.0
+JH;CHANGE DIAGN;;2012/12/23 15:51:36.000;Variant 18;18;;;;;;YB;;;;;;;complete;;;;;In progress;;28.0
+LH;NEW;ResVC;2012/12/20 21:29:45.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+LH;CHANGE DIAGN;ResAE;2012/12/21 10:01:58.000;Variant 1;1;;;;;;ME;;;;;;;complete;;;;;In progress;;45133.0
+OH;NEW;ResDE;2012/12/17 16:27:16.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+OH;CHANGE DIAGN;;2012/12/17 16:27:39.000;Variant 1;1;;;;;;OE;;;;;;;complete;;;;;In progress;;23.0
+QH;NEW;ResHE;2012/12/18 09:31:46.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+QH;CHANGE DIAGN;;2012/12/18 09:32:01.000;Variant 1;1;;;;;;MC;;;;;;;complete;;;;;In progress;;15.0
+RH;NEW;ResIE;2012/12/24 10:11:13.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+RH;CHANGE DIAGN;;2012/12/24 10:11:45.000;Variant 1;1;;;;;;QE;;;;;;;complete;;;;;In progress;;32.0
+TH;NEW;ResDA;2012/12/17 16:27:10.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+UH;NEW;ResDA;2012/12/17 16:31:16.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+UH;CHANGE DIAGN;ResOB;2012/12/30 11:48:41.000;Variant 1;1;;;;;;J;;;;;;;complete;;;;;In progress;;1106245.0
+VH;NEW;ResC;2012/12/26 17:26:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+VH;CHANGE DIAGN;;2012/12/26 17:26:33.000;Variant 1;1;;;;;;SE;;;;;;;complete;;;;;In progress;;15.0
+YH;NEW;ResLE;2012/12/25 19:24:13.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+YH;CHANGE DIAGN;;2012/12/25 19:24:37.000;Variant 1;1;;;;;;VE;;;;;;;complete;;;;;In progress;;24.0
+ZH;NEW;ResMB;2012/12/28 10:00:35.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+ZH;CHANGE DIAGN;;2012/12/28 10:00:58.000;Variant 1;1;;;;;;JC;;;;;;;complete;;;;;In progress;;23.0
+BI;NEW;ResOE;2012/12/26 15:57:48.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+BI;CHANGE DIAGN;;2012/12/26 15:58:43.000;Variant 1;1;;;;;;XE;;;;;;;complete;;;;;In progress;;55.0
+DI;NEW;ResVC;2012/12/27 18:15:24.000;Variant 150;150;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+DI;CHANGE DIAGN;ResPE;2012/12/27 22:27:40.000;Variant 150;150;;;;;;YE;;;;;;;complete;;;;;In progress;;15136.0
+FI;NEW;ResA;2012/12/19 21:21:16.000;Variant 1;1;;;False;A;;AF;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+II;NEW;ResA;2012/12/19 22:20:23.000;Variant 57;57;;;False;A;;DF;False;False;;True;False;False;complete;;;;L;In progress;;0.0
+LI;NEW;ResJA;2012/12/24 22:54:21.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OI;NEW;ResJA;2012/12/26 22:54:22.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QI;NEW;ResJA;2012/12/16 22:54:22.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RI;NEW;ResJA;2012/12/26 22:54:22.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VI;NEW;ResA;2012/12/21 23:00:53.000;Variant 3;3;;;False;A;;CF;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+AJ;NEW;ResA;2012/12/22 01:32:29.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+DJ;NEW;ResS;2012/12/27 08:41:17.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+DJ;CHANGE DIAGN;;2012/12/27 08:41:32.000;Variant 1;1;;;;;;ZB;;;;;;;complete;;;;;In progress;;15.0
+EJ;NEW;ResQE;2012/12/28 08:51:55.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+EJ;CHANGE DIAGN;;2012/12/28 09:00:12.000;Variant 1;1;;;;;;IF;;;;;;;complete;;;;;In progress;;497.0
+GJ;NEW;ResA;2012/12/27 02:07:31.000;Variant 3;3;;;False;A;;G;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+KJ;NEW;ResA;2012/12/17 03:43:40.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+LJ;NEW;ResA;2012/12/22 03:58:14.000;Variant 17;17;;;False;A;;KF;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+MJ;NEW;ResA;2012/12/25 04:13:06.000;Variant 3;3;;;False;A;;E;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+NJ;NEW;ResA;2012/12/23 04:17:26.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+OJ;NEW;ResA;2012/12/19 04:23:43.000;Variant 5;5;;;False;A;;G;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+PJ;NEW;ResA;2012/12/16 05:40:35.000;Variant 3;3;;;False;A;;LF;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+QJ;NEW;ResA;2012/12/19 06:15:59.000;Variant 3;3;;;False;A;;MF;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+RJ;NEW;ResA;2012/12/16 06:16:47.000;Variant 4;4;;;False;A;;V;False;False;;True;False;False;complete;;;;F;In progress;;0.0
+SJ;NEW;ResA;2012/12/22 06:22:56.000;Variant 3;3;;;False;A;;W;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+TJ;NEW;ResA;2012/12/22 06:23:51.000;Variant 3;3;;;False;A;;W;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+UJ;NEW;ResA;2012/12/27 06:50:34.000;Variant 4;4;;;False;A;;NF;False;False;;False;False;False;complete;;;;F;In progress;;0.0
+VJ;NEW;ResA;2012/12/22 07:27:59.000;Variant 3;3;;;False;A;;OF;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+WJ;NEW;ResA;2012/12/26 09:01:53.000;Variant 3;3;;;False;A;;PF;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+XJ;NEW;ResA;2012/12/23 19:06:35.000;Variant 4;4;;;False;A;;QF;False;False;;True;False;False;complete;;;;S;In progress;;0.0
+ZJ;NEW;ResTE;2012/12/25 10:12:34.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+ZJ;CHANGE DIAGN;ResPE;2012/12/26 08:20:34.000;Variant 1;1;;;;;;SF;;;;;;;complete;;;;;In progress;;79680.0
+BK;NEW;ResBB;2012/12/23 12:02:50.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+BK;CHANGE DIAGN;;2012/12/23 12:03:08.000;Variant 1;1;;;;;;UF;;;;;;;complete;;;;;In progress;;18.0
+CK;NEW;ResTE;2012/12/25 13:51:47.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+CK;CHANGE DIAGN;ResUE;2012/12/25 14:42:04.000;Variant 6;6;;;;;;TE;;;;;;;complete;;;;;In progress;;3017.0
+CK;CHANGE DIAGN;ResEC;2012/12/26 17:15:06.000;Variant 6;6;;;;;;QD;;;;;;;complete;;;;;In progress;;95582.0
+DK;NEW;ResTE;2012/12/27 14:15:42.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+DK;CHANGE DIAGN;ResVE;2012/12/31 08:26:03.000;Variant 1;1;;;;;;N;;;;;;;complete;;;;;In progress;;324621.0
+EK;NEW;ResBB;2012/12/15 14:55:05.000;Variant 29;29;;;False;A;;MB;False;False;;False;False;True;complete;;;;A;In progress;;0.0
+EK;FIN;ResJA;2012/12/15 18:00:57.000;Variant 29;29;;;;;J;;;;;;;;complete;;;;;Closed;;11152.0
+EK;RELEASE;;2012/12/15 18:00:58.000;Variant 29;29;;;;;;;;;;;;;complete;;;;;Released;;1.0
+EK;DELETE;ResDB;2012/12/19 08:11:48.000;Variant 29;29;;;;;;;;;;;True;;complete;;;;;Released;;310250.0
+HK;NEW;ResZB;2012/12/19 14:22:08.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+HK;CHANGE DIAGN;;2012/12/19 14:22:21.000;Variant 6;6;;;;;;VF;;;;;;;complete;;;;;In progress;;13.0
+HK;CHANGE DIAGN;;2012/12/25 10:17:36.000;Variant 6;6;;;;;;WF;;;;;;;complete;;;;;In progress;;503715.0
+JK;NEW;ResZC;2012/12/27 16:42:51.000;Variant 13;13;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+JK;CHANGE DIAGN;;2012/12/27 16:43:05.000;Variant 13;13;;;;;;YF;;;;;;;complete;;;;;In progress;;14.0
+KK;NEW;ResSE;2012/12/16 17:54:07.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+KK;CHANGE DIAGN;;2012/12/16 17:54:30.000;Variant 6;6;;;;;;ZF;;;;;;;complete;;;;;In progress;;23.0
+LK;NEW;ResKE;2012/12/19 01:48:23.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+LK;CHANGE DIAGN;;2012/12/19 01:48:46.000;Variant 1;1;;;;;;AG;;;;;;;complete;;;;;In progress;;23.0
+MK;NEW;ResEE;2012/12/25 11:23:58.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+QK;NEW;ResAF;2012/12/23 09:19:38.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+QK;CHANGE DIAGN;;2012/12/23 09:19:49.000;Variant 1;1;;;;;;T;;;;;;;complete;;;;;In progress;;11.0
+RK;NEW;ResBF;2012/12/24 14:52:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+RK;CHANGE DIAGN;;2012/12/24 14:52:59.000;Variant 1;1;;;;;;IC;;;;;;;complete;;;;;In progress;;41.0
+TK;NEW;ResSA;2012/12/23 10:29:01.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+TK;CHANGE DIAGN;;2012/12/23 10:29:19.000;Variant 1;1;;;;;;DG;;;;;;;complete;;;;;In progress;;18.0
+UK;NEW;ResCF;2012/12/23 10:39:22.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+UK;CHANGE DIAGN;;2012/12/23 10:39:44.000;Variant 1;1;;;;;;EG;;;;;;;complete;;;;;In progress;;22.0
+VK;NEW;ResAC;2012/12/19 12:34:29.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+VK;CHANGE DIAGN;;2012/12/24 15:46:55.000;Variant 1;1;;;;;;LE;;;;;;;complete;;;;;In progress;;443546.0
+XK;NEW;ResD;2012/12/18 14:48:32.000;Variant 3;3;;;False;A;;XD;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+YK;NEW;ResJC;2012/12/18 15:02:54.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;L;In progress;;0.0
+ZK;NEW;ResHA;2012/12/24 15:49:25.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+ZK;CHANGE DIAGN;ResDF;2012/12/24 16:38:46.000;Variant 9;9;;;;;;BF;;;;;;;complete;;;;;In progress;;2961.0
+BL;NEW;ResQA;2012/12/27 12:52:22.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+BL;CHANGE DIAGN;;2012/12/27 12:52:56.000;Variant 6;6;;;;;;GG;;;;;;;complete;;;;;In progress;;34.0
+CL;NEW;ResWA;2012/12/23 13:07:52.000;Variant 1;1;;;False;D;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+CL;CHANGE DIAGN;;2012/12/23 13:08:01.000;Variant 1;1;;;;;;IG;;;;;;;complete;;;;;In progress;;9.0
+CL;FIN;ResA;2012/12/23 19:42:07.000;Variant 1;1;;;;;K;;;;;;;;complete;;;;;Closed;;23646.0
+CL;RELEASE;;2012/12/29 04:43:07.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;464460.0
+CL;CODE OK;;2012/12/31 12:40:42.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;C;201455.0
+DL;NEW;ResGF;2012/12/27 14:31:56.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+DL;CHANGE DIAGN;;2012/12/27 14:32:11.000;Variant 6;6;;;;;;L;;;;;;;complete;;;;;In progress;;15.0
+FL;NEW;ResNA;2012/12/19 17:03:50.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+FL;CHANGE DIAGN;ResUE;2012/12/19 17:28:38.000;Variant 1;1;;;;;;FB;;;;;;;complete;;;;;In progress;;1488.0
+HL;NEW;ResIF;2012/12/26 14:59:14.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+HL;CHANGE DIAGN;;2012/12/26 14:59:38.000;Variant 1;1;;;;;;JG;;;;;;;complete;;;;;In progress;;24.0
+KL;NEW;ResSD;2012/12/24 14:12:06.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+KL;CHANGE DIAGN;ResJF;2012/12/27 07:54:24.000;Variant 1;1;;;;;;KG;;;;;;;complete;;;;;In progress;;236538.0
+LL;NEW;ResUA;2012/12/26 09:55:14.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+LL;CHANGE DIAGN;;2012/12/26 09:55:34.000;Variant 1;1;;;;;;X;;;;;;;complete;;;;;In progress;;20.0
+OL;NEW;ResLF;2012/12/22 15:59:41.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+OL;CHANGE DIAGN;;2012/12/22 15:59:57.000;Variant 1;1;;;;;;MG;;;;;;;complete;;;;;In progress;;16.0
+TL;NEW;ResMF;2012/12/21 09:48:26.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+TL;CHANGE DIAGN;ResNF;2012/12/21 10:22:26.000;Variant 1;1;;;;;;OG;;;;;;;complete;;;;;In progress;;2040.0
+VL;NEW;ResA;2012/12/15 20:06:55.000;Variant 4;4;;;False;A;;QG;False;False;;True;False;False;complete;;;;M;In progress;;0.0
+WL;NEW;ResA;2012/12/16 20:07:34.000;Variant 278;278;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+ZL;NEW;ResA;2012/12/27 20:27:02.000;Variant 3;3;;;False;A;;IA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+AM;NEW;ResA;2012/12/26 20:27:08.000;Variant 3;3;;;False;A;;IA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+BM;NEW;ResA;2012/12/27 00:44:20.000;Variant 17;17;;;False;A;;FB;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+DM;NEW;ResTE;2012/12/17 07:23:11.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+DM;CHANGE DIAGN;ResAE;2012/12/19 11:29:04.000;Variant 1;1;;;;;;SG;;;;;;;complete;;;;;In progress;;187553.0
+FM;NEW;ResTE;2012/12/29 11:30:21.000;Variant 71;71;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+GM;NEW;ResPF;2012/12/18 13:19:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+GM;CHANGE DIAGN;;2012/12/18 13:19:56.000;Variant 1;1;;;;;;UG;;;;;;;complete;;;;;In progress;;19.0
+HM;NEW;ResTE;2012/12/24 14:44:02.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+HM;CHANGE DIAGN;ResPE;2012/12/26 11:08:17.000;Variant 1;1;;;;;;JA;;;;;;;complete;;;;;In progress;;159855.0
+IM;NEW;ResJA;2012/12/15 22:50:23.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LM;NEW;ResJA;2012/12/15 22:50:23.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MM;NEW;ResJA;2012/12/26 22:50:24.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NM;NEW;ResJA;2012/12/16 22:50:24.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PM;NEW;ResJA;2012/12/28 22:50:24.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QM;NEW;ResJA;2012/12/18 22:50:24.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+SM;NEW;ResJA;2012/12/19 22:50:24.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WM;NEW;ResA;2012/12/29 00:55:02.000;Variant 3;3;;;False;A;;VG;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+YM;NEW;ResA;2012/12/20 04:11:46.000;Variant 30;30;;;False;A;;WF;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+ZM;NEW;ResA;2012/12/24 04:35:57.000;Variant 3;3;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+BN;NEW;ResA;2012/12/29 05:41:03.000;Variant 30;30;;;False;A;;GA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+DN;NEW;ResI;2012/12/27 08:58:06.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+DN;CHANGE DIAGN;;2012/12/27 08:58:19.000;Variant 1;1;;;;;;X;;;;;;;complete;;;;;In progress;;13.0
+EN;NEW;ResQF;2012/12/28 10:30:10.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+EN;CHANGE DIAGN;;2012/12/28 10:30:26.000;Variant 1;1;;;;;;YG;;;;;;;complete;;;;;In progress;;16.0
+GN;NEW;ResHF;2012/12/25 07:35:08.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+GN;CHANGE DIAGN;;2012/12/25 07:35:19.000;Variant 1;1;;;;;;LC;;;;;;;complete;;;;;In progress;;11.0
+KN;NEW;ResA;2012/12/20 19:31:28.000;Variant 5;5;;;False;A;;H;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+LN;NEW;ResA;2012/12/21 19:33:14.000;Variant 3;3;;;False;A;;H;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+MN;NEW;ResA;2012/12/25 19:58:58.000;Variant 4;4;;;False;A;;BH;False;False;;False;False;False;complete;;;;A;In progress;;0.0
+NN;NEW;ResA;2012/12/20 19:59:02.000;Variant 89;89;;;False;A;;AH;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+QN;NEW;ResA;2012/12/27 21:16:47.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+TN;NEW;ResJA;2012/12/16 22:55:35.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UN;NEW;ResJA;2012/12/18 22:55:35.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VN;NEW;ResJA;2012/12/18 22:55:35.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WN;NEW;ResJA;2012/12/22 22:55:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XN;NEW;ResJA;2012/12/20 22:55:36.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YN;NEW;ResA;2012/12/27 01:28:52.000;Variant 3;3;;;False;A;;DH;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+ZN;NEW;ResA;2012/12/30 01:50:20.000;Variant 1;1;;;False;A;;EB;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+DO;NEW;ResA;2012/12/17 02:23:45.000;Variant 1;1;;;False;A;;T;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+DO;CHANGE DIAGN;ResVF;2012/12/27 10:16:27.000;Variant 1;1;;;;;;HH;;;;;;;complete;;;;;In progress;;892362.0
+EO;NEW;ResA;2012/12/26 02:25:36.000;Variant 3;3;;;False;A;;IH;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+GO;NEW;ResA;2012/12/24 04:22:13.000;Variant 1;1;;;False;A;;RF;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+JO;NEW;ResTD;2012/12/25 15:00:00.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+JO;CHANGE DIAGN;;2012/12/25 15:00:20.000;Variant 1;1;;;;;;BA;;;;;;;complete;;;;;In progress;;20.0
+LO;NEW;ResXF;2012/12/31 08:43:36.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+LO;CHANGE DIAGN;;2012/12/31 08:43:54.000;Variant 1;1;;;;;;TB;;;;;;;complete;;;;;In progress;;18.0
+PO;NEW;ResA;2012/12/29 19:51:14.000;Variant 3;3;;;False;A;;EE;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+RO;NEW;ResA;2012/12/29 20:28:21.000;Variant 3;3;;;False;A;;N;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+SO;NEW;ResA;2012/12/23 20:28:58.000;Variant 3;3;;;False;A;;MH;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+UO;NEW;ResA;2012/12/19 20:29:15.000;Variant 1;1;;;False;A;;N;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+XO;NEW;ResJA;2012/12/18 22:50:13.000;Variant 12;12;;;False;F;;OH;False;False;;False;False;True;complete;;;;G;In progress;;0.0
+XO;FIN;ResNC;2012/12/20 22:56:46.000;Variant 12;12;;;;;M;;;;;;;;complete;;;;;Closed;;173193.0
+XO;RELEASE;;2012/12/20 22:56:49.000;Variant 12;12;;;;;;;;;;;;;complete;;;;;Released;;3.0
+YO;NEW;ResJA;2012/12/27 18:01:32.000;Variant 3;3;;;False;A;;S;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+CP;NEW;ResJA;2012/12/28 22:56:34.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FP;NEW;ResA;2012/12/27 03:29:38.000;Variant 46;46;;;False;A;;MA;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+GP;NEW;ResA;2012/12/20 03:31:16.000;Variant 3;3;;;False;A;;HA;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+HP;NEW;ResA;2012/12/28 04:12:45.000;Variant 3;3;;;False;A;;DD;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+IP;NEW;ResA;2012/12/26 19:00:53.000;Variant 3;3;;;False;A;;QH;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+JP;NEW;ResA;2012/12/31 19:01:01.000;Variant 3;3;;;False;A;;RH;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+LP;NEW;ResYF;2012/12/29 09:26:00.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+LP;CHANGE DIAGN;;2012/12/29 09:26:18.000;Variant 1;1;;;;;;OE;;;;;;;complete;;;;;In progress;;18.0
+MP;NEW;ResZF;2012/12/29 09:33:55.000;Variant 3;3;;;False;A;;SH;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+NP;NEW;ResIE;2012/12/21 10:01:29.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+NP;CHANGE DIAGN;;2012/12/21 10:01:54.000;Variant 1;1;;;;;;TH;;;;;;;complete;;;;;In progress;;25.0
+PP;NEW;ResAG;2012/12/19 11:50:04.000;Variant 3;3;;;False;A;;PB;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+QP;NEW;ResZC;2012/12/26 13:54:59.000;Variant 13;13;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+QP;CHANGE DIAGN;;2012/12/26 13:55:18.000;Variant 13;13;;;;;;G;;;;;;;complete;;;;;In progress;;19.0
+RP;NEW;ResR;2012/12/29 13:55:32.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+RP;CHANGE DIAGN;;2012/12/29 13:55:48.000;Variant 1;1;;;;;;EB;;;;;;;complete;;;;;In progress;;16.0
+SP;NEW;ResTF;2012/12/26 12:36:34.000;Variant 21;21;;;False;A;;UB;False;False;;True;False;False;complete;;;;E;In progress;;0.0
+UP;NEW;ResTF;2012/12/18 17:28:43.000;Variant 3;3;;;False;A;;VH;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+VP;NEW;ResDD;2012/12/22 08:27:09.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+VP;CHANGE DIAGN;;2012/12/22 08:27:24.000;Variant 1;1;;;;;;WH;;;;;;;complete;;;;;In progress;;15.0
+WP;NEW;ResBG;2012/12/24 11:36:22.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+WP;CHANGE DIAGN;;2012/12/24 11:37:07.000;Variant 1;1;;;;;;O;;;;;;;complete;;;;;In progress;;45.0
+ZP;NEW;ResBG;2012/12/25 12:17:10.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+ZP;CHANGE DIAGN;;2012/12/25 12:17:32.000;Variant 1;1;;;;;;W;;;;;;;complete;;;;;In progress;;22.0
+AQ;NEW;ResPC;2012/12/24 13:54:01.000;Variant 4;4;;;False;A;;MA;False;False;;False;False;False;complete;;;;J;In progress;;0.0
+BQ;NEW;ResRA;2012/12/18 14:31:56.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+BQ;CHANGE DIAGN;;2012/12/18 14:32:12.000;Variant 1;1;;;;;;AB;;;;;;;complete;;;;;In progress;;16.0
+GQ;NEW;ResNC;2012/12/27 11:38:40.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IQ;NEW;ResNC;2012/12/28 11:38:40.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+JQ;NEW;ResNC;2012/12/26 11:38:40.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NQ;NEW;ResKG;2012/12/29 15:07:37.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+NQ;CHANGE DIAGN;;2012/12/29 15:07:47.000;Variant 6;6;;;;D;;BI;;;;;;;complete;;;;;In progress;;10.0
+RQ;NEW;ResNG;2012/12/30 12:58:38.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;S;In progress;;0.0
+RQ;CHANGE DIAGN;;2012/12/30 12:58:54.000;Variant 1;1;;;;;;DI;;;;;;;complete;;;;;In progress;;16.0
+TQ;NEW;ResUB;2012/12/19 14:31:19.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+TQ;CHANGE DIAGN;;2012/12/19 14:42:40.000;Variant 6;6;;;;;;TH;;;;;;;complete;;;;;In progress;;681.0
+WQ;NEW;ResQG;2012/12/19 10:06:27.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+WQ;CHANGE DIAGN;;2012/12/19 10:07:00.000;Variant 1;1;;;;;;GI;;;;;;;complete;;;;;In progress;;33.0
+XQ;NEW;ResPA;2012/12/25 11:22:48.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+XQ;CHANGE DIAGN;;2012/12/25 11:23:07.000;Variant 1;1;;;;;;PA;;;;;;;complete;;;;;In progress;;19.0
+YQ;NEW;ResYF;2012/12/28 13:52:03.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+YQ;CHANGE DIAGN;;2012/12/28 13:52:28.000;Variant 1;1;;;;;;SB;;;;;;;complete;;;;;In progress;;25.0
+ZQ;NEW;ResRG;2012/12/19 14:09:29.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+ZQ;CHANGE DIAGN;;2012/12/19 14:10:14.000;Variant 1;1;;;;;;H;;;;;;;complete;;;;;In progress;;45.0
+AR;NEW;ResSG;2012/12/27 14:39:11.000;Variant 42;42;;;False;B;;;False;False;;True;False;False;complete;;;;A;In progress;;0.0
+AR;CHANGE DIAGN;;2012/12/27 14:41:21.000;Variant 42;42;;;;;;HI;;;;;;;complete;;;;;In progress;;130.0
+BR;NEW;ResHD;2012/12/25 14:44:19.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+BR;CHANGE DIAGN;;2012/12/25 14:44:39.000;Variant 1;1;;;;;;E;;;;;;;complete;;;;;In progress;;20.0
+CR;NEW;ResNC;2012/12/23 11:38:41.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DR;NEW;ResNC;2012/12/29 11:38:41.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FR;NEW;ResNC;2012/12/22 11:38:41.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GR;NEW;ResNC;2012/12/28 11:38:41.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KR;NEW;ResNC;2012/12/27 11:38:42.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MR;NEW;ResNC;2012/12/19 11:38:42.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NR;NEW;ResNC;2012/12/26 11:38:42.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PR;NEW;ResNC;2012/12/25 11:38:42.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RR;NEW;ResMB;2012/12/22 14:53:40.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+SR;NEW;ResIB;2012/12/26 12:13:57.000;Variant 48;48;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+SR;CHANGE DIAGN;;2012/12/26 12:14:34.000;Variant 48;48;;;;;;II;;;;;;;complete;;;;;In progress;;37.0
+TR;NEW;ResUG;2012/12/31 14:07:16.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+VR;NEW;ResOB;2012/12/29 17:54:47.000;Variant 5;5;;;False;A;;UB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+XR;NEW;ResNA;2012/12/22 13:07:01.000;Variant 13;13;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+XR;CHANGE DIAGN;ResPE;2012/12/22 14:35:08.000;Variant 13;13;;;;;;BA;;;;;;;complete;;;;;In progress;;5287.0
+YR;NEW;ResNA;2012/12/18 14:48:31.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+YR;CHANGE DIAGN;ResSF;2012/12/18 15:22:36.000;Variant 6;6;;;;;;JI;;;;;;;complete;;;;;In progress;;2045.0
+YR;CHANGE DIAGN;ResAB;2012/12/18 22:54:18.000;Variant 6;6;;;;;;KI;;;;;;;complete;;;;;In progress;;27102.0
+ZR;NEW;ResNA;2012/12/25 14:48:42.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+ZR;CHANGE DIAGN;ResPE;2012/12/25 17:35:22.000;Variant 1;1;;;;;;LI;;;;;;;complete;;;;;In progress;;10000.0
+AS;NEW;ResNA;2012/12/25 15:01:28.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;M;In progress;;0.0
+DS;NEW;ResUC;2012/12/22 16:35:20.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+DS;CHANGE DIAGN;;2012/12/22 16:36:10.000;Variant 1;1;;;;;;MI;;;;;;;complete;;;;;In progress;;50.0
+ES;NEW;ResUC;2012/12/31 17:41:20.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+ES;CHANGE DIAGN;;2012/12/31 17:41:43.000;Variant 1;1;;;;;;NI;;;;;;;complete;;;;;In progress;;23.0
+FS;NEW;ResYF;2012/12/18 19:20:19.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+FS;CHANGE DIAGN;;2012/12/18 19:20:36.000;Variant 1;1;;;;;;OE;;;;;;;complete;;;;;In progress;;17.0
+GS;NEW;ResZG;2012/12/30 16:38:55.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+GS;CHANGE DIAGN;;2012/12/30 16:39:52.000;Variant 1;1;;;;;;OI;;;;;;;complete;;;;;In progress;;57.0
+HS;NEW;ResPE;2012/12/31 20:34:55.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+HS;CHANGE DIAGN;;2012/12/31 20:35:05.000;Variant 1;1;;;;;;PI;;;;;;;complete;;;;;In progress;;10.0
+JS;NEW;ResLC;2012/12/25 09:15:14.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+JS;CHANGE DIAGN;;2012/12/25 09:15:30.000;Variant 1;1;;;;;;QI;;;;;;;complete;;;;;In progress;;16.0
+KS;NEW;ResLC;2012/12/28 09:26:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+KS;CHANGE DIAGN;;2012/12/28 09:26:57.000;Variant 1;1;;;;;;QI;;;;;;;complete;;;;;In progress;;10.0
+NS;NEW;ResPD;2012/12/30 16:33:23.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+NS;CHANGE DIAGN;;2012/12/30 16:33:38.000;Variant 1;1;;;;;;NB;;;;;;;complete;;;;;In progress;;15.0
+RS;NEW;ResSG;2012/12/20 15:59:10.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+RS;CHANGE DIAGN;;2012/12/20 15:59:26.000;Variant 1;1;;;;;;HD;;;;;;;complete;;;;;In progress;;16.0
+US;NEW;ResTF;2012/12/22 19:22:46.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+US;CHANGE DIAGN;;2012/12/22 19:22:57.000;Variant 1;1;;;;;;UB;;;;;;;complete;;;;;In progress;;11.0
+VS;NEW;ResWB;2012/12/31 08:09:59.000;Variant 4;4;;;False;A;;UI;False;False;;False;False;False;complete;;;;O;In progress;;0.0
+YS;NEW;ResTF;2012/12/19 16:26:02.000;Variant 3;3;;;False;A;;X;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+ZS;NEW;ResIA;2012/12/24 17:47:00.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+AT;NEW;ResBH;2012/12/27 09:10:27.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+AT;CHANGE DIAGN;;2012/12/27 09:10:39.000;Variant 1;1;;;;;;AE;;;;;;;complete;;;;;In progress;;12.0
+BT;NEW;ResSE;2012/12/26 12:55:26.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+BT;CHANGE DIAGN;;2012/12/26 12:55:57.000;Variant 1;1;;;;;;JG;;;;;;;complete;;;;;In progress;;31.0
+CT;NEW;ResSE;2012/12/26 12:56:13.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+CT;CHANGE DIAGN;;2012/12/26 12:56:31.000;Variant 1;1;;;;;;JG;;;;;;;complete;;;;;In progress;;18.0
+ET;NEW;ResVC;2012/12/19 21:12:16.000;Variant 14;14;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+ET;FIN;ResK;2012/12/19 21:30:23.000;Variant 14;14;;;;;D;NC;;;;;;;complete;;;;;Closed;;1087.0
+ET;RELEASE;ResA;2012/12/20 10:10:46.000;Variant 14;14;;;;;;;;;;;;;complete;;;;;Released;;45623.0
+ET;CODE OK;;2012/12/26 04:16:40.000;Variant 14;14;False;False;;;;;;;False;;;;complete;;0.0;;;;C;497154.0
+JT;NEW;ResA;2012/12/18 21:29:12.000;Variant 3;3;;;False;A;;FB;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+LT;NEW;ResA;2012/12/26 21:31:28.000;Variant 4;4;;;False;A;;ZG;False;False;;False;False;False;complete;;;;L;In progress;;0.0
+MT;NEW;ResA;2012/12/21 21:32:05.000;Variant 5;5;;;False;A;;FB;False;False;;False;False;True;complete;;;;L;In progress;;0.0
+NT;NEW;ResA;2012/12/21 21:33:38.000;Variant 3;3;;;False;A;;QD;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+OT;NEW;ResA;2012/12/25 00:53:40.000;Variant 3;3;;;False;A;;G;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+ST;NEW;ResJA;2012/12/22 22:56:34.000;Variant 12;12;;;False;F;;PD;False;False;;False;False;True;complete;;;;L;In progress;;0.0
+ST;FIN;ResNC;2012/12/23 22:56:19.000;Variant 12;12;;;;;M;;;;;;;;complete;;;;;Closed;;86385.0
+ST;RELEASE;;2012/12/23 22:56:47.000;Variant 12;12;;;;;;;;;;;;;complete;;;;;Released;;28.0
+TT;NEW;ResJA;2012/12/24 22:56:34.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VT;NEW;ResJA;2012/12/19 22:56:35.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WT;NEW;ResJA;2012/12/20 22:56:35.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XT;NEW;ResJA;2012/12/25 22:56:35.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YT;NEW;ResJA;2012/12/19 22:56:35.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+AU;NEW;ResJA;2012/12/24 22:56:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CU;NEW;ResJA;2012/12/19 22:56:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EU;NEW;ResJA;2012/12/26 22:56:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FU;NEW;ResA;2012/12/23 02:59:09.000;Variant 4;4;;;False;A;;GF;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+HU;NEW;ResA;2012/12/30 03:01:17.000;Variant 3;3;;;False;A;;WI;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+KU;NEW;ResA;2012/12/21 03:01:29.000;Variant 3;3;;;False;A;;I;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+NU;NEW;ResA;2012/12/21 06:08:52.000;Variant 1;1;;;False;A;;VB;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+OU;NEW;ResA;2012/12/19 06:09:07.000;Variant 3;3;;;False;A;;W;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+QU;NEW;ResA;2012/12/24 06:09:57.000;Variant 3;3;;;False;A;;JG;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+UU;NEW;ResA;2012/12/20 06:25:49.000;Variant 5;5;;;False;A;;XF;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+WU;NEW;ResA;2012/12/19 06:36:56.000;Variant 3;3;;;False;A;;VB;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+XU;NEW;ResXB;2012/12/24 09:08:45.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+XU;CHANGE DIAGN;;2012/12/24 09:09:16.000;Variant 1;1;;;;;;Q;;;;;;;complete;;;;;In progress;;31.0
+BV;NEW;ResFH;2012/12/19 09:18:43.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;S;In progress;;0.0
+BV;CHANGE DIAGN;ResGH;2012/12/19 13:17:28.000;Variant 9;9;;;;;;DI;;;;;;;complete;;;;;In progress;;14325.0
+DV;NEW;ResIH;2012/12/21 13:30:23.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;S;In progress;;0.0
+DV;CHANGE DIAGN;ResJH;2012/12/21 14:26:56.000;Variant 1;1;;;;;;DI;;;;;;;complete;;;;;In progress;;3393.0
+FV;NEW;ResLH;2012/12/28 10:52:02.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+FV;CHANGE DIAGN;;2012/12/28 10:52:42.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;40.0
+GV;NEW;ResUA;2012/12/31 11:02:01.000;Variant 5;5;;;False;A;;X;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+HV;NEW;ResMH;2012/12/23 12:12:22.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+HV;CHANGE DIAGN;;2012/12/23 12:12:38.000;Variant 1;1;;;;;;YB;;;;;;;complete;;;;;In progress;;16.0
+IV;NEW;ResA;2012/12/30 09:06:25.000;Variant 5;5;;;False;A;;ZI;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+JV;NEW;ResA;2012/12/25 19:59:25.000;Variant 3;3;;;False;A;;UI;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+KV;NEW;ResA;2012/12/26 19:59:36.000;Variant 3;3;;;False;A;;AJ;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+OV;NEW;ResN;2012/12/19 09:16:00.000;Variant 35;35;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+OV;CHANGE DIAGN;ResD;2012/12/19 11:11:36.000;Variant 35;35;;;;;;KD;;;;;;;complete;;;;;In progress;;6936.0
+PV;NEW;ResNH;2012/12/21 10:51:59.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+PV;CHANGE DIAGN;;2012/12/21 10:52:27.000;Variant 1;1;;;;;;OE;;;;;;;complete;;;;;In progress;;28.0
+QV;NEW;ResN;2012/12/27 11:26:22.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;E;In progress;;0.0
+QV;DELETE;;2012/12/27 11:51:57.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;1535.0
+SV;NEW;ResYF;2012/12/27 12:22:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+SV;CHANGE DIAGN;;2012/12/27 12:23:07.000;Variant 1;1;;;;;;OE;;;;;;;complete;;;;;In progress;;20.0
+TV;NEW;ResOH;2012/12/19 13:48:19.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;L;In progress;;0.0
+TV;DELETE;ResBA;2012/12/25 09:19:59.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;502300.0
+XV;NEW;ResKC;2012/12/21 12:53:23.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+XV;CHANGE DIAGN;;2012/12/21 12:54:08.000;Variant 1;1;;;;;;FJ;;;;;;;complete;;;;;In progress;;45.0
+IW;NEW;ResQG;2012/12/31 12:19:34.000;Variant 3;3;;;False;A;;JJ;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+JW;NEW;ResBG;2012/12/30 13:58:46.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+JW;CHANGE DIAGN;;2012/12/30 13:59:06.000;Variant 6;6;;;;;;L;;;;;;;complete;;;;;In progress;;20.0
+JW;CHANGE DIAGN;;2012/12/30 13:59:51.000;Variant 6;6;;;;;;VB;;;;;;;complete;;;;;In progress;;45.0
+KW;NEW;ResPA;2012/12/27 14:43:00.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+KW;CHANGE DIAGN;;2012/12/27 14:43:12.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;12.0
+NW;NEW;ResDD;2012/12/29 12:37:54.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+NW;CHANGE DIAGN;;2012/12/29 12:38:10.000;Variant 9;9;;;;;;KJ;;;;;;;complete;;;;;In progress;;16.0
+QW;NEW;ResSH;2012/12/30 14:12:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+QW;CHANGE DIAGN;;2012/12/30 14:13:07.000;Variant 1;1;;;;;;PJ;;;;;;;complete;;;;;In progress;;20.0
+RW;NEW;ResAH;2012/12/20 14:53:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;T;In progress;;0.0
+RW;CHANGE DIAGN;;2012/12/20 14:53:53.000;Variant 1;1;;;;;;SI;;;;;;;complete;;;;;In progress;;16.0
+SW;NEW;ResI;2012/12/29 14:54:29.000;Variant 14;14;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+SW;FIN;;2012/12/29 14:54:45.000;Variant 14;14;;;;;D;X;;;;;;;complete;;;;;Closed;;16.0
+SW;RELEASE;ResA;2012/12/30 06:31:23.000;Variant 14;14;;;;;;;;;;;;;complete;;;;;Released;;56198.0
+UW;NEW;ResHD;2012/12/31 16:12:21.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+UW;CHANGE DIAGN;;2012/12/31 16:12:44.000;Variant 1;1;;;;;;OA;;;;;;;complete;;;;;In progress;;23.0
+XW;NEW;ResUH;2012/12/29 14:17:13.000;Variant 3;3;;;False;A;;PB;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+ZW;NEW;ResXG;2012/12/30 14:51:12.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;E;In progress;;0.0
+ZW;DELETE;ResK;2012/12/30 16:39:26.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;6494.0
+CX;NEW;ResIB;2012/12/28 08:37:10.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+CX;CHANGE DIAGN;;2012/12/28 08:37:25.000;Variant 1;1;;;;;;R;;;;;;;complete;;;;;In progress;;15.0
+EX;NEW;ResBB;2012/12/25 15:03:14.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+EX;CHANGE DIAGN;;2012/12/25 15:03:27.000;Variant 1;1;;;;;;RJ;;;;;;;complete;;;;;In progress;;13.0
+IX;NEW;ResS;2012/12/22 15:13:00.000;Variant 18;18;;;False;B;;;False;False;;True;False;False;complete;;;;B;In progress;;0.0
+IX;CHANGE DIAGN;;2012/12/30 10:00:10.000;Variant 18;18;;;;;;E;;;;;;;complete;;;;;In progress;;672430.0
+JX;NEW;ResN;2012/12/23 15:32:51.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+JX;CHANGE DIAGN;ResS;2012/12/23 16:30:09.000;Variant 1;1;;;;;;SJ;;;;;;;complete;;;;;In progress;;3438.0
+LX;NEW;ResXH;2012/12/30 16:11:20.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+LX;CHANGE DIAGN;;2012/12/30 16:11:38.000;Variant 9;9;;;;;;VB;;;;;;;complete;;;;;In progress;;18.0
+QX;NEW;ResBI;2012/12/25 15:58:18.000;Variant 24;24;;;False;A;;R;False;False;;True;False;False;complete;;;;B;In progress;;0.0
+SX;NEW;ResFC;2012/12/19 16:10:46.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+TX;NEW;ResME;2012/12/20 11:13:03.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+TX;CHANGE DIAGN;;2012/12/20 11:13:17.000;Variant 1;1;;;;;;WE;;;;;;;complete;;;;;In progress;;14.0
+VX;NEW;ResSH;2012/12/27 09:34:44.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+VX;CHANGE DIAGN;;2012/12/27 09:35:10.000;Variant 1;1;;;;;;PI;;;;;;;complete;;;;;In progress;;26.0
+WX;NEW;ResCI;2012/12/22 09:46:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+WX;CHANGE DIAGN;;2012/12/22 09:46:52.000;Variant 1;1;;;;;;VJ;;;;;;;complete;;;;;In progress;;15.0
+ZX;NEW;ResIA;2012/12/31 17:37:15.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DY;NEW;ResIA;2012/12/31 17:47:00.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EY;NEW;ResIA;2012/12/22 17:47:00.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HY;NEW;ResIA;2012/12/27 17:49:47.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NY;NEW;ResIA;2012/12/27 18:07:45.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+QY;NEW;ResIA;2012/12/30 18:07:45.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VY;NEW;ResA;2012/12/26 20:22:55.000;Variant 70;70;;;False;A;;PF;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+WY;NEW;ResA;2012/12/27 20:24:00.000;Variant 3;3;;;False;A;;OF;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+BZ;NEW;ResNA;2012/12/24 22:16:58.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+BZ;CHANGE DIAGN;ResGI;2012/12/25 09:10:38.000;Variant 1;1;;;;;;AK;;;;;;;complete;;;;;In progress;;39220.0
+CZ;NEW;ResHI;2012/12/26 09:30:56.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+CZ;CHANGE DIAGN;;2012/12/26 09:31:13.000;Variant 1;1;;;;;;W;;;;;;;complete;;;;;In progress;;17.0
+EZ;NEW;ResJI;2012/12/29 15:39:01.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+GZ;NEW;ResJA;2012/12/26 22:56:05.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+JZ;NEW;ResJA;2012/12/31 22:56:06.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KZ;NEW;ResJA;2012/12/28 22:56:06.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LZ;NEW;ResJA;2012/12/28 22:56:06.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MZ;NEW;ResJA;2012/12/20 22:56:06.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NZ;NEW;ResJA;2012/12/31 22:56:07.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OZ;NEW;ResJA;2012/12/23 22:56:07.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RZ;NEW;ResJA;2012/12/20 22:56:08.000;Variant 4;4;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+RZ;DELETE;ResBA;2012/12/26 10:30:25.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;Billable;;473657.0
+UZ;NEW;ResJA;2012/12/28 22:56:09.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+VZ;NEW;ResJA;2012/12/25 22:56:09.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+WZ;NEW;ResJA;2012/12/26 22:56:10.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XZ;NEW;ResJA;2012/12/30 22:56:10.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YZ;NEW;ResJA;2012/12/19 22:56:10.000;Variant 4;4;;;False;C;;;False;False;;False;False;False;complete;;;;K;In progress;;0.0
+ZZ;NEW;ResJA;2012/12/22 22:56:11.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+CAA;NEW;ResJA;2012/12/21 22:59:53.000;Variant 4;4;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FAA;NEW;ResA;2012/12/31 05:58:49.000;Variant 30;30;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+HAA;NEW;ResA;2012/12/29 19:01:00.000;Variant 3;3;;;False;A;;A;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+LAA;NEW;ResLI;2012/12/28 11:01:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+LAA;CHANGE DIAGN;;2012/12/28 11:01:55.000;Variant 1;1;;;;;;H;;;;;;;complete;;;;;In progress;;18.0
+NAA;NEW;ResMI;2012/12/31 11:57:25.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+OAA;NEW;ResAC;2012/12/28 12:34:32.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+OAA;CHANGE DIAGN;;2012/12/28 12:34:52.000;Variant 1;1;;;;;;GA;;;;;;;complete;;;;;In progress;;20.0
+RAA;NEW;ResVD;2012/12/24 09:12:02.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+RAA;CHANGE DIAGN;;2012/12/24 09:12:14.000;Variant 9;9;;;;;;DK;;;;;;;complete;;;;;In progress;;12.0
+VAA;NEW;ResIB;2012/12/23 14:45:01.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+VAA;CHANGE DIAGN;;2012/12/23 14:45:17.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;16.0
+WAA;NEW;ResRI;2012/12/20 10:03:33.000;Variant 3;3;;;False;A;;ZG;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+XAA;NEW;ResSI;2012/12/25 10:38:06.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+XAA;CHANGE DIAGN;;2012/12/25 10:38:20.000;Variant 1;1;;;;;;VH;;;;;;;complete;;;;;In progress;;14.0
+YAA;NEW;ResVF;2012/12/23 12:25:58.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+YAA;CHANGE DIAGN;;2012/12/23 12:26:17.000;Variant 1;1;;;;;;GH;;;;;;;complete;;;;;In progress;;19.0
+EBA;NEW;ResTI;2012/12/25 11:30:27.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+EBA;CHANGE DIAGN;;2012/12/25 11:30:42.000;Variant 1;1;;;;;;DJ;;;;;;;complete;;;;;In progress;;15.0
+GBA;NEW;ResDB;2012/12/29 08:24:13.000;Variant 4;4;;;False;A;;AH;False;False;;False;False;False;complete;;;;A;In progress;;0.0
+GBA;DELETE;;2012/12/29 08:24:54.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;41.0
+KBA;NEW;ResR;2012/12/31 14:51:27.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+KBA;CHANGE DIAGN;;2012/12/31 14:51:47.000;Variant 1;1;;;;;;KC;;;;;;;complete;;;;;In progress;;20.0
+MBA;NEW;ResXI;2012/12/25 11:15:34.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+MBA;CHANGE DIAGN;;2012/12/25 11:15:58.000;Variant 1;1;;;;;;AI;;;;;;;complete;;;;;In progress;;24.0
+RBA;NEW;ResQH;2012/12/22 12:17:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+RBA;CHANGE DIAGN;;2012/12/22 12:18:01.000;Variant 1;1;;;;;;YB;;;;;;;complete;;;;;In progress;;14.0
+ACA;NEW;ResBB;2012/12/25 13:58:36.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+ACA;CHANGE DIAGN;;2012/12/25 13:59:00.000;Variant 1;1;;;;;;UH;;;;;;;complete;;;;;In progress;;24.0
+DCA;NEW;ResBE;2012/12/31 15:39:44.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+HCA;NEW;ResZI;2012/12/29 16:03:25.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+HCA;CHANGE DIAGN;;2012/12/29 16:03:40.000;Variant 1;1;;;;;;GC;;;;;;;complete;;;;;In progress;;15.0
+KCA;NEW;ResC;2012/12/31 17:02:36.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+KCA;CHANGE DIAGN;;2012/12/31 17:02:47.000;Variant 1;1;;;;;;K;;;;;;;complete;;;;;In progress;;11.0
+QCA;NEW;ResDD;2012/12/28 10:11:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+QCA;CHANGE DIAGN;;2012/12/28 10:11:52.000;Variant 1;1;;;;;;KJ;;;;;;;complete;;;;;In progress;;15.0
+SCA;NEW;ResHJ;2012/12/24 15:57:13.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+SCA;CHANGE DIAGN;;2012/12/24 15:57:41.000;Variant 6;6;;;;;;CC;;;;;;;complete;;;;;In progress;;28.0
+BDA;NEW;ResOE;2012/12/27 17:19:40.000;Variant 1;1;;;False;A;;AI;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+BDA;CHANGE DIAGN;ResJG;2012/12/27 17:21:24.000;Variant 1;1;;;;;;OK;;;;;;;complete;;;;;In progress;;104.0
+CDA;NEW;ResS;2012/12/21 09:16:46.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+CDA;CHANGE DIAGN;;2012/12/21 09:16:59.000;Variant 1;1;;;;;;KD;;;;;;;complete;;;;;In progress;;13.0
+FDA;NEW;ResLH;2012/12/25 08:53:04.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+FDA;CHANGE DIAGN;;2012/12/25 08:53:42.000;Variant 1;1;;;;;;SB;;;;;;;complete;;;;;In progress;;38.0
+GDA;NEW;ResIC;2012/12/25 09:44:30.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+GDA;CHANGE DIAGN;;2012/12/25 09:44:39.000;Variant 1;1;;;;D;;OC;;;;;;;complete;;;;;In progress;;9.0
+GDA;FIN;ResA;2012/12/27 05:58:09.000;Variant 1;1;;;;;K;;;;;;;;complete;;;;;Closed;;159210.0
+GDA;RELEASE;;2012/12/27 11:46:49.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;20920.0
+GDA;CODE OK;;2012/12/29 04:35:26.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;C;146917.0
+JDA;NEW;ResA;2012/12/27 19:44:52.000;Variant 3;3;;;False;A;;AH;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+KDA;NEW;ResA;2012/12/21 19:58:37.000;Variant 3;3;;;False;A;;AH;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+MDA;NEW;ResA;2012/12/24 19:59:34.000;Variant 21;21;;;False;A;;AH;False;False;;True;False;False;complete;;;;A;In progress;;0.0
+PDA;NEW;ResA;2012/12/22 20:58:00.000;Variant 3;3;;;False;A;;OA;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+QDA;NEW;ResA;2012/12/26 20:58:29.000;Variant 3;3;;;False;A;;R;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+SDA;NEW;ResA;2012/12/20 20:59:01.000;Variant 4;4;;;False;A;;R;False;False;;True;False;False;complete;;;;B;In progress;;0.0
+TDA;NEW;ResA;2012/12/24 20:59:09.000;Variant 3;3;;;False;A;;D;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+UDA;NEW;ResA;2012/12/24 21:00:20.000;Variant 3;3;;;False;A;;QK;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+ZDA;NEW;ResA;2012/12/21 22:31:14.000;Variant 3;3;;;False;A;;YB;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+BEA;NEW;ResJA;2012/12/21 22:59:57.000;Variant 12;12;;;False;F;;PD;False;False;;False;False;True;complete;;;;L;In progress;;0.0
+BEA;FIN;ResNC;2012/12/22 22:58:00.000;Variant 12;12;;;;;M;;;;;;;;complete;;;;;Closed;;86283.0
+BEA;RELEASE;;2012/12/22 22:58:24.000;Variant 12;12;;;;;;;;;;;;;complete;;;;;Released;;24.0
+DEA;NEW;ResJA;2012/12/22 22:59:57.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EEA;NEW;ResJA;2012/12/27 22:59:57.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IEA;NEW;ResJA;2012/12/26 22:57:47.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NEA;NEW;ResA;2012/12/25 01:09:42.000;Variant 3;3;;;False;A;;T;False;False;;True;False;True;complete;;;;I;In progress;;0.0
+VEA;NEW;ResA;2012/12/23 04:11:34.000;Variant 3;3;;;False;A;;AB;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+WEA;NEW;ResA;2012/12/28 04:13:54.000;Variant 3;3;;;False;A;;YA;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+XEA;NEW;ResA;2012/12/29 04:24:42.000;Variant 3;3;;;False;A;;VF;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+YEA;NEW;ResA;2012/12/24 04:24:50.000;Variant 14;14;;;False;A;;TK;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+ZEA;NEW;ResA;2012/12/29 04:25:54.000;Variant 3;3;;;False;A;;DB;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+HFA;NEW;ResA;2012/12/21 19:53:01.000;Variant 3;3;;;False;A;;EE;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+MFA;NEW;ResLH;2012/12/27 12:21:54.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+MFA;CHANGE DIAGN;;2012/12/27 12:22:29.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;35.0
+NFA;NEW;ResKE;2012/12/22 10:24:54.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+NFA;CHANGE DIAGN;;2012/12/22 10:25:08.000;Variant 1;1;;;;;;AG;;;;;;;complete;;;;;In progress;;14.0
+UFA;NEW;ResP;2012/12/21 11:00:53.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+UFA;CHANGE DIAGN;;2012/12/21 11:01:05.000;Variant 1;1;;;;;;AI;;;;;;;complete;;;;;In progress;;12.0
+UFA;FIN;ResA;2012/12/23 08:12:31.000;Variant 1;1;;;;;C;;;;;;;;complete;;;;;Closed;;162686.0
+UFA;RELEASE;;2012/12/23 11:48:43.000;Variant 1;1;;;;;;;;;;;;;complete;;;;;Released;;12972.0
+UFA;CODE OK;;2012/12/23 14:18:57.000;Variant 1;1;False;False;;;;;;;False;;;;complete;;0.0;;;;C;9014.0
+WFA;NEW;ResDD;2012/12/30 11:41:40.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;R;In progress;;0.0
+WFA;CHANGE DIAGN;;2012/12/30 11:41:55.000;Variant 9;9;;;;;;KJ;;;;;;;complete;;;;;In progress;;15.0
+XFA;NEW;ResXG;2012/12/23 11:37:14.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+CGA;NEW;ResNJ;2012/12/29 11:42:05.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;S;In progress;;0.0
+CGA;CHANGE DIAGN;ResIH;2012/12/30 11:20:57.000;Variant 1;1;;;;;;DI;;;;;;;complete;;;;;In progress;;85132.0
+DGA;NEW;ResDI;2012/12/25 14:15:39.000;Variant 18;18;;;False;B;;;False;False;;True;False;False;complete;;;;C;In progress;;0.0
+DGA;CHANGE DIAGN;;2012/12/25 14:16:03.000;Variant 18;18;;;;D;;RC;;;;;;;complete;;;;;In progress;;24.0
+FGA;NEW;ResZD;2012/12/22 11:51:45.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+FGA;CHANGE DIAGN;;2012/12/22 11:51:59.000;Variant 9;9;;;;;;LE;;;;;;;complete;;;;;In progress;;14.0
+IGA;NEW;ResGA;2012/12/28 13:24:42.000;Variant 3;3;;;False;A;;AK;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+JGA;NEW;ResKC;2012/12/31 12:35:06.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+JGA;CHANGE DIAGN;;2012/12/31 12:35:21.000;Variant 6;6;;;;;;UC;;;;;;;complete;;;;;In progress;;15.0
+KGA;NEW;ResKC;2012/12/21 12:35:37.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+KGA;CHANGE DIAGN;;2012/12/21 12:35:50.000;Variant 6;6;;;;;;TC;;;;;;;complete;;;;;In progress;;13.0
+MGA;NEW;ResSG;2012/12/26 14:43:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+MGA;CHANGE DIAGN;;2012/12/26 14:44:02.000;Variant 1;1;;;;;;DL;;;;;;;complete;;;;;In progress;;15.0
+OGA;NEW;ResSG;2012/12/31 15:40:04.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+OGA;CHANGE DIAGN;;2012/12/31 15:40:29.000;Variant 1;1;;;;;;H;;;;;;;complete;;;;;In progress;;25.0
+PGA;NEW;ResPJ;2012/12/23 16:26:21.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+PGA;CHANGE DIAGN;;2012/12/23 16:26:34.000;Variant 1;1;;;;;;VE;;;;;;;complete;;;;;In progress;;13.0
+SGA;NEW;ResIB;2012/12/26 14:12:51.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+SGA;CHANGE DIAGN;;2012/12/26 14:13:08.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;17.0
+UGA;NEW;ResP;2012/12/31 15:34:03.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+UGA;CHANGE DIAGN;;2012/12/31 15:34:14.000;Variant 1;1;;;;;;O;;;;;;;complete;;;;;In progress;;11.0
+VGA;NEW;ResQA;2012/12/31 08:07:02.000;Variant 3;3;;;False;A;;EL;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+WGA;NEW;ResKH;2012/12/30 14:07:26.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+WGA;CHANGE DIAGN;;2012/12/30 14:12:26.000;Variant 9;9;;;;;;Z;;;;;;;complete;;;;;In progress;;300.0
+WGA;FIN;ResQJ;2012/12/30 15:27:25.000;Variant 9;9;;;;;D;;;;;;;;complete;;;;;Closed;;4499.0
+YGA;NEW;ResDA;2012/12/31 13:46:58.000;Variant 3;3;;;False;A;;Z;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+ZGA;NEW;ResRB;2012/12/31 15:17:44.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ZGA;CHANGE DIAGN;;2012/12/31 15:17:56.000;Variant 1;1;;;;;;FI;;;;;;;complete;;;;;In progress;;12.0
+AHA;NEW;ResRB;2012/12/25 15:20:07.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+AHA;CHANGE DIAGN;;2012/12/25 15:20:20.000;Variant 1;1;;;;;;FL;;;;;;;complete;;;;;In progress;;13.0
+EHA;NEW;ResDG;2012/12/27 15:45:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+EHA;CHANGE DIAGN;;2012/12/27 15:45:33.000;Variant 1;1;;;;;;N;;;;;;;complete;;;;;In progress;;15.0
+JHA;NEW;ResCE;2012/12/27 17:15:13.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+JHA;CHANGE DIAGN;;2012/12/27 17:15:34.000;Variant 1;1;;;;;;AK;;;;;;;complete;;;;;In progress;;21.0
+OHA;NEW;ResVB;2012/12/27 15:57:19.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+OHA;CHANGE DIAGN;ResBH;2012/12/27 16:28:01.000;Variant 1;1;;;;;;JL;;;;;;;complete;;;;;In progress;;1842.0
+PHA;NEW;ResVB;2012/12/24 17:38:08.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+PHA;CHANGE DIAGN;ResZB;2012/12/25 13:00:31.000;Variant 1;1;;;;;;ID;;;;;;;complete;;;;;In progress;;69743.0
+THA;NEW;ResUJ;2012/12/23 10:02:09.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;D;In progress;;0.0
+THA;CHANGE DIAGN;;2012/12/23 10:02:22.000;Variant 7;7;;;;;;LL;;;;;;;complete;;;;;In progress;;13.0
+UHA;NEW;ResAB;2012/12/22 10:12:29.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+UHA;CHANGE DIAGN;;2012/12/22 10:13:05.000;Variant 1;1;;;;;;ML;;;;;;;complete;;;;;In progress;;36.0
+VHA;NEW;ResWJ;2012/12/25 08:49:56.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+VHA;CHANGE DIAGN;;2012/12/25 09:17:50.000;Variant 1;1;;;;;;SB;;;;;;;complete;;;;;In progress;;1674.0
+XHA;NEW;ResWJ;2012/12/30 09:47:06.000;Variant 3;3;;;False;A;;LL;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+YHA;NEW;ResWJ;2012/12/31 12:01:30.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+YHA;CHANGE DIAGN;;2012/12/31 12:01:44.000;Variant 1;1;;;;;;WI;;;;;;;complete;;;;;In progress;;14.0
+ZHA;NEW;ResAD;2012/12/24 12:59:45.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ZHA;CHANGE DIAGN;;2012/12/24 13:00:05.000;Variant 1;1;;;;;;NL;;;;;;;complete;;;;;In progress;;20.0
+BIA;NEW;ResI;2012/12/21 16:09:52.000;Variant 3;3;;;False;A;;HB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+DIA;NEW;ResMI;2012/12/25 06:46:52.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+DIA;CHANGE DIAGN;ResZB;2012/12/25 09:08:38.000;Variant 1;1;;;;;;OL;;;;;;;complete;;;;;In progress;;8506.0
+HIA;NEW;ResXF;2012/12/23 11:09:01.000;Variant 3;3;;;False;A;;UB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+KIA;NEW;ResOE;2012/12/27 14:04:13.000;Variant 109;109;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+KIA;CHANGE DIAGN;;2012/12/27 14:04:20.000;Variant 109;109;;;;;;AI;;;;;;;complete;;;;;In progress;;7.0
+LIA;NEW;ResUA;2012/12/27 12:30:49.000;Variant 4;4;;;False;A;;YI;False;False;;True;False;False;complete;;;;E;In progress;;0.0
+MIA;NEW;ResYJ;2012/12/28 15:39:12.000;Variant 7;7;;;False;B;;;False;False;;True;False;False;complete;;;;D;In progress;;0.0
+MIA;CHANGE DIAGN;;2012/12/28 15:39:29.000;Variant 7;7;;;;;;LL;;;;;;;complete;;;;;In progress;;17.0
+RIA;NEW;ResAK;2012/12/29 08:12:31.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+RIA;CHANGE DIAGN;;2012/12/29 08:13:09.000;Variant 6;6;;;;;;SL;;;;;;;complete;;;;;In progress;;38.0
+SIA;NEW;ResA;2012/12/30 23:21:55.000;Variant 6;6;;;False;A;;XC;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+TIA;NEW;ResA;2012/12/30 23:23:57.000;Variant 3;3;;;False;A;;N;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+XIA;NEW;ResJA;2012/12/31 22:57:47.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YIA;NEW;ResJA;2012/12/24 22:57:49.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZIA;NEW;ResJA;2012/12/23 22:57:49.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EJA;NEW;ResJA;2012/12/23 22:57:51.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FJA;NEW;ResJA;2012/12/30 22:57:51.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+HJA;NEW;ResJA;2012/12/28 22:57:52.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OJA;NEW;ResA;2012/12/29 19:00:37.000;Variant 3;3;;;False;A;;ZG;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+QJA;NEW;ResCK;2012/12/26 11:21:23.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+QJA;CHANGE DIAGN;;2012/12/26 11:21:46.000;Variant 9;9;;;;;;AI;;;;;;;complete;;;;;In progress;;23.0
+TJA;NEW;ResJJ;2012/12/28 14:11:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+WJA;NEW;ResTH;2012/12/23 15:53:21.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+WJA;CHANGE DIAGN;;2012/12/23 15:53:54.000;Variant 1;1;;;;;;UL;;;;;;;complete;;;;;In progress;;33.0
+XJA;NEW;ResSD;2012/12/31 12:37:10.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+XJA;CHANGE DIAGN;ResEK;2012/12/31 15:36:14.000;Variant 1;1;;;;;;VL;;;;;;;complete;;;;;In progress;;10744.0
+YJA;NEW;ResMB;2012/12/23 13:25:30.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+YJA;CHANGE DIAGN;;2012/12/23 13:25:47.000;Variant 1;1;;;;;;EB;;;;;;;complete;;;;;In progress;;17.0
+AKA;NEW;ResFK;2012/12/29 12:06:25.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+AKA;CHANGE DIAGN;ResWF;2012/12/29 15:49:55.000;Variant 1;1;;;;;;PG;;;;;;;complete;;;;;In progress;;13410.0
+BKA;NEW;ResF;2012/12/30 09:03:58.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+BKA;CHANGE DIAGN;ResGK;2012/12/30 17:02:14.000;Variant 1;1;;;;;;QC;;;;;;;complete;;;;;In progress;;28696.0
+DKA;NEW;ResAD;2012/12/29 13:39:11.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+DKA;CHANGE DIAGN;;2012/12/29 14:03:25.000;Variant 1;1;;;;;;XL;;;;;;;complete;;;;;In progress;;1454.0
+GKA;NEW;ResAK;2012/12/24 16:58:52.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+GKA;CHANGE DIAGN;;2012/12/24 16:59:17.000;Variant 1;1;;;;;;YL;;;;;;;complete;;;;;In progress;;25.0
+HKA;NEW;ResID;2012/12/22 14:28:24.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+HKA;CHANGE DIAGN;;2012/12/22 14:28:44.000;Variant 1;1;;;;;;ZB;;;;;;;complete;;;;;In progress;;20.0
+IKA;NEW;ResWJ;2012/12/31 14:44:48.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+JKA;NEW;ResTE;2012/12/30 16:37:20.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+JKA;CHANGE DIAGN;ResYI;2012/12/30 22:57:05.000;Variant 1;1;;;;;;XG;;;;;;;complete;;;;;In progress;;22785.0
+MKA;NEW;ResS;2012/12/26 15:38:22.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+MKA;CHANGE DIAGN;;2012/12/26 15:38:42.000;Variant 1;1;;;;;;R;;;;;;;complete;;;;;In progress;;20.0
+OKA;NEW;ResXG;2012/12/26 08:28:35.000;Variant 88;88;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+OKA;CHANGE DIAGN;ResSA;2012/12/26 10:05:27.000;Variant 88;88;;;;;;ZL;;;;;;;complete;;;;;In progress;;5812.0
+OKA;CHANGE DIAGN;;2012/12/26 16:02:40.000;Variant 88;88;;;;;;AM;;;;;;;complete;;;;;In progress;;21433.0
+OKA;CHANGE DIAGN;ResTJ;2012/12/29 10:38:14.000;Variant 88;88;;;;;;ZL;;;;;;;complete;;;;;In progress;;239734.0
+OKA;CHANGE DIAGN;ResR;2012/12/29 10:43:00.000;Variant 88;88;;;;;;AM;;;;;;;complete;;;;;In progress;;286.0
+QKA;NEW;ResHE;2012/12/24 15:21:38.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+QKA;CHANGE DIAGN;;2012/12/24 15:22:06.000;Variant 1;1;;;;;;HF;;;;;;;complete;;;;;In progress;;28.0
+RKA;NEW;ResLA;2012/12/23 20:39:50.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+RKA;CHANGE DIAGN;ResJF;2012/12/25 08:12:17.000;Variant 1;1;;;;;;BA;;;;;;;complete;;;;;In progress;;127947.0
+SKA;NEW;ResQH;2012/12/26 09:51:11.000;Variant 3;3;;;False;A;;YB;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+BLA;NEW;ResTE;2012/12/23 18:44:44.000;Variant 13;13;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+BLA;CHANGE DIAGN;ResEF;2012/12/24 10:38:42.000;Variant 13;13;;;;;;QD;;;;;;;complete;;;;;In progress;;57238.0
+CLA;NEW;ResTE;2012/12/26 22:46:46.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+FLA;NEW;ResTI;2012/12/31 03:09:15.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+FLA;CHANGE DIAGN;;2012/12/31 03:09:30.000;Variant 1;1;;;;;;XG;;;;;;;complete;;;;;In progress;;15.0
+KLA;NEW;ResA;2012/12/28 00:59:40.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+TLA;NEW;ResJA;2012/12/27 22:53:13.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ULA;NEW;ResJA;2012/12/30 22:53:13.000;Variant 4;4;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XLA;NEW;ResJA;2012/12/31 22:53:14.000;Variant 29;29;;;False;F;;PD;False;False;;False;False;True;complete;;;;L;In progress;;0.0
+ZLA;NEW;ResJA;2012/12/22 22:53:14.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EMA;NEW;ResJA;2012/12/27 22:53:15.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FMA;NEW;ResJA;2012/12/28 22:53:15.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+NMA;NEW;ResA;2012/12/28 03:21:41.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+QMA;NEW;ResA;2012/12/28 04:11:33.000;Variant 5;5;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+RMA;NEW;ResA;2012/12/25 04:22:06.000;Variant 42;42;;;False;A;;BG;False;False;;True;False;False;complete;;;;D;In progress;;0.0
+VMA;NEW;ResA;2012/12/24 06:01:44.000;Variant 3;3;;;False;A;;IC;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+XMA;NEW;ResA;2012/12/25 06:40:21.000;Variant 190;190;;;False;A;;WE;False;False;;False;False;False;complete;;;;F;In progress;;0.0
+XMA;DELETE;ResDB;2012/12/28 14:05:17.000;Variant 190;190;;;;;;;;;;;True;;complete;;;;;In progress;;285896.0
+ANA;NEW;ResA;2012/12/25 08:14:31.000;Variant 3;3;;;False;A;;DM;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+CNA;NEW;ResA;2012/12/31 10:40:45.000;Variant 17;17;;;False;A;;J;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+JNA;NEW;ResA;2012/12/27 19:54:31.000;Variant 3;3;;;False;A;;PG;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+TNA;NEW;ResJA;2012/12/24 22:53:15.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UNA;NEW;ResJA;2012/12/30 22:53:15.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+ZNA;NEW;ResA;2012/12/29 03:44:25.000;Variant 3;3;;;False;A;;AH;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+GOA;NEW;ResOK;2012/12/28 09:17:33.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+GOA;CHANGE DIAGN;;2012/12/28 09:18:06.000;Variant 6;6;;;;;;O;;;;;;;complete;;;;;In progress;;33.0
+JOA;NEW;ResOB;2012/12/25 10:44:20.000;Variant 17;17;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+JOA;FIN;;2012/12/25 10:44:39.000;Variant 17;17;;;;;D;T;;;;;;;complete;;;;;Closed;;19.0
+JOA;RELEASE;ResA;2012/12/26 05:01:15.000;Variant 17;17;;;;;;;;;;;;;complete;;;;;Released;;65796.0
+UOA;NEW;ResA;2012/12/31 21:44:54.000;Variant 3;3;;;False;A;;SA;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+XOA;NEW;ResA;2012/12/30 22:01:22.000;Variant 5;5;;;False;A;;LD;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ZOA;NEW;ResA;2012/12/29 22:26:44.000;Variant 3;3;;;False;A;;JE;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+MPA;NEW;ResLF;2012/12/31 09:16:17.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+MPA;CHANGE DIAGN;;2012/12/31 09:16:33.000;Variant 1;1;;;;;;WJ;;;;;;;complete;;;;;In progress;;16.0
+NPA;NEW;ResQK;2012/12/31 10:01:37.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+NPA;CHANGE DIAGN;ResRK;2012/12/31 10:27:02.000;Variant 1;1;;;;;;PM;;;;;;;complete;;;;;In progress;;1525.0
+OPA;NEW;ResRH;2012/12/31 10:49:32.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+OPA;CHANGE DIAGN;;2012/12/31 10:49:43.000;Variant 1;1;;;;;;KD;;;;;;;complete;;;;;In progress;;11.0
+UPA;NEW;ResUK;2012/12/25 11:58:32.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+UPA;CHANGE DIAGN;;2012/12/25 11:59:56.000;Variant 1;1;;;;;;RM;;;;;;;complete;;;;;In progress;;84.0
+YPA;NEW;ResXK;2012/12/30 12:20:52.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+YPA;CHANGE DIAGN;;2012/12/30 12:21:22.000;Variant 1;1;;;;;;SM;;;;;;;complete;;;;;In progress;;30.0
+AQA;NEW;ResYK;2012/12/26 11:16:57.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+AQA;CHANGE DIAGN;;2012/12/26 11:18:12.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;75.0
+CQA;NEW;ResK;2012/12/25 14:39:03.000;Variant 3;3;;;False;A;;TJ;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+DQA;NEW;ResSA;2012/12/25 16:28:16.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+DQA;CHANGE DIAGN;;2012/12/25 16:28:33.000;Variant 1;1;;;;;;UM;;;;;;;complete;;;;;In progress;;17.0
+EQA;NEW;ResZK;2012/12/29 17:33:55.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+EQA;CHANGE DIAGN;ResWC;2012/12/29 17:36:59.000;Variant 1;1;;;;;;UI;;;;;;;complete;;;;;In progress;;184.0
+HQA;NEW;ResDJ;2012/12/31 12:48:17.000;Variant 20;20;;;False;A;;VB;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+HQA;CHANGE DIAGN;;2012/12/31 12:50:23.000;Variant 20;20;;;;;;M;;;;;;;complete;;;;;In progress;;126.0
+LQA;NEW;ResNA;2012/12/28 10:37:11.000;Variant 16;16;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+LQA;CHANGE DIAGN;ResDG;2012/12/29 09:21:33.000;Variant 16;16;;;;;;VM;;;;;;;complete;;;;;In progress;;81862.0
+NQA;NEW;ResPG;2012/12/30 11:19:53.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+NQA;CHANGE DIAGN;;2012/12/30 11:20:09.000;Variant 1;1;;;;;;L;;;;;;;complete;;;;;In progress;;16.0
+WQA;NEW;ResDA;2012/12/30 13:34:31.000;Variant 3;3;;;False;A;;UB;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+CRA;NEW;ResBL;2012/12/26 16:06:20.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+CRA;CHANGE DIAGN;;2012/12/26 16:06:50.000;Variant 1;1;;;;;;R;;;;;;;complete;;;;;In progress;;30.0
+FRA;NEW;ResXF;2012/12/26 14:27:06.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+FRA;CHANGE DIAGN;;2012/12/26 14:27:17.000;Variant 9;9;;;;;;Z;;;;;;;complete;;;;;In progress;;11.0
+GRA;NEW;ResCL;2012/12/28 14:57:32.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+GRA;CHANGE DIAGN;;2012/12/28 14:57:59.000;Variant 1;1;;;;;;OE;;;;;;;complete;;;;;In progress;;27.0
+IRA;NEW;ResXG;2012/12/31 22:20:33.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+MRA;NEW;ResRH;2012/12/27 08:57:14.000;Variant 18;18;;;False;B;;;False;False;;True;False;False;complete;;;;B;In progress;;0.0
+MRA;CHANGE DIAGN;;2012/12/27 08:57:49.000;Variant 18;18;;;;;;SB;;;;;;;complete;;;;;In progress;;35.0
+ORA;NEW;ResAD;2012/12/26 15:02:07.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ORA;CHANGE DIAGN;;2012/12/26 15:02:31.000;Variant 1;1;;;;;;SA;;;;;;;complete;;;;;In progress;;24.0
+ZRA;NEW;ResRA;2012/12/29 09:03:54.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;N;In progress;;0.0
+ZRA;CHANGE DIAGN;;2012/12/29 09:04:19.000;Variant 1;1;;;;;;ZA;;;;;;;complete;;;;;In progress;;25.0
+BSA;NEW;ResJE;2012/12/31 08:38:21.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+BSA;CHANGE DIAGN;;2012/12/31 10:05:22.000;Variant 1;1;;;;;;QH;;;;;;;complete;;;;;In progress;;5221.0
+KSA;NEW;ResLD;2012/12/29 10:43:03.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+LSA;NEW;ResYH;2012/12/26 10:51:47.000;Variant 3;3;;;False;A;;IN;False;False;;True;False;True;complete;;;;J;In progress;;0.0
+RSA;NEW;ResA;2012/12/25 19:00:25.000;Variant 17;17;;;False;A;;LH;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+TSA;NEW;ResA;2012/12/27 20:30:49.000;Variant 3;3;;;False;A;;FC;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+XSA;NEW;ResJA;2012/12/25 22:54:25.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+DTA;NEW;ResJA;2012/12/26 22:54:27.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OTA;NEW;ResJA;2012/12/30 22:54:28.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+UTA;NEW;ResJA;2012/12/29 22:54:30.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+XTA;NEW;ResJA;2012/12/26 22:54:30.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BUA;NEW;ResJA;2012/12/31 22:54:31.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EUA;NEW;ResJA;2012/12/27 22:54:32.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+FUA;NEW;ResJA;2012/12/29 22:54:32.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GUA;NEW;ResJA;2012/12/29 22:54:32.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IUA;NEW;ResJA;2012/12/28 22:54:32.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MUA;NEW;ResA;2012/12/27 23:14:32.000;Variant 1;1;;;False;A;;XC;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+OUA;NEW;ResA;2012/12/26 01:47:23.000;Variant 4;4;;;False;A;;MA;False;False;;False;False;False;complete;;;;J;In progress;;0.0
+ZUA;NEW;ResS;2012/12/26 11:21:47.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+ZUA;CHANGE DIAGN;;2012/12/26 11:22:02.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;15.0
+DVA;NEW;ResYC;2012/12/27 12:51:32.000;Variant 3;3;;;False;A;;G;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+HVA;NEW;ResSK;2012/12/28 18:07:08.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+HVA;CHANGE DIAGN;ResJF;2012/12/29 11:30:49.000;Variant 9;9;;;;;;NN;;;;;;;complete;;;;;In progress;;62621.0
+JVA;NEW;ResWJ;2012/12/27 10:49:26.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+JVA;CHANGE DIAGN;;2012/12/27 10:49:44.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;18.0
+KVA;NEW;ResVC;2012/12/30 11:15:42.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+KVA;CHANGE DIAGN;ResJD;2012/12/30 12:32:14.000;Variant 1;1;;;;;;XB;;;;;;;complete;;;;;In progress;;4592.0
+UVA;NEW;ResQH;2012/12/31 12:14:23.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ZVA;NEW;ResK;2012/12/26 14:40:01.000;Variant 3;3;;;False;A;;Z;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+BWA;NEW;ResPL;2012/12/29 15:31:14.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+BWA;CHANGE DIAGN;;2012/12/29 15:31:25.000;Variant 1;1;;;;;;SA;;;;;;;complete;;;;;In progress;;11.0
+DWA;NEW;ResEF;2012/12/28 13:44:39.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+EWA;NEW;ResLD;2012/12/30 13:44:46.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+EWA;CHANGE DIAGN;;2012/12/30 13:45:13.000;Variant 9;9;;;;;;NF;;;;;;;complete;;;;;In progress;;27.0
+NWA;NEW;ResKJ;2012/12/26 14:52:33.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+NWA;CHANGE DIAGN;;2012/12/26 14:53:31.000;Variant 1;1;;;;;;SN;;;;;;;complete;;;;;In progress;;58.0
+OWA;NEW;ResRG;2012/12/30 13:18:54.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+OWA;CHANGE DIAGN;;2012/12/30 13:19:13.000;Variant 1;1;;;;;;GJ;;;;;;;complete;;;;;In progress;;19.0
+PWA;NEW;ResHE;2012/12/28 13:46:29.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+PWA;CHANGE DIAGN;;2012/12/28 13:46:48.000;Variant 1;1;;;;;;G;;;;;;;complete;;;;;In progress;;19.0
+ZWA;NEW;ResAI;2012/12/27 16:28:04.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+ZWA;CHANGE DIAGN;;2012/12/27 16:28:19.000;Variant 9;9;;;;;;Z;;;;;;;complete;;;;;In progress;;15.0
+BXA;NEW;ResSL;2012/12/27 15:43:21.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+DXA;NEW;ResSL;2012/12/30 15:46:29.000;Variant 4;4;;;False;B;;;False;False;;False;False;False;complete;;;;P;In progress;;0.0
+LXA;NEW;ResKJ;2012/12/31 15:44:07.000;Variant 85;85;;;False;B;;;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+LXA;CHANGE DIAGN;;2012/12/31 15:44:22.000;Variant 85;85;;;;;;AO;;;;;;;complete;;;;;In progress;;15.0
+OXA;NEW;ResQ;2012/12/31 16:34:46.000;Variant 3;3;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+OXA;FIN;;2012/12/31 16:35:05.000;Variant 3;3;;;;;D;P;;;;;;;complete;;;;;Closed;;19.0
+QXA;NEW;ResYE;2012/12/27 16:45:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+WXA;NEW;ResHC;2012/12/29 09:31:40.000;Variant 9;9;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+WXA;CHANGE DIAGN;;2012/12/29 09:31:55.000;Variant 9;9;;;;;;Z;;;;;;;complete;;;;;In progress;;15.0
+DYA;NEW;ResRB;2012/12/29 12:34:01.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+DYA;CHANGE DIAGN;;2012/12/29 12:34:19.000;Variant 1;1;;;;;;DO;;;;;;;complete;;;;;In progress;;18.0
+FYA;NEW;ResA;2012/12/31 19:29:31.000;Variant 3;3;;;False;A;;ZN;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+IYA;NEW;ResA;2012/12/28 21:36:30.000;Variant 3;3;;;False;A;;ZG;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+LYA;NEW;ResJA;2012/12/26 22:55:34.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+OYA;NEW;ResJA;2012/12/31 22:55:34.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+AZA;NEW;ResJA;2012/12/29 22:55:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+BZA;NEW;ResJA;2012/12/29 22:55:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+EZA;NEW;ResJA;2012/12/31 22:55:36.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IZA;NEW;ResJA;2012/12/28 22:55:37.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+LZA;NEW;ResJA;2012/12/28 22:55:37.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+MZA;NEW;ResJA;2012/12/28 22:55:37.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+GAB;NEW;ResA;2012/12/28 01:33:03.000;Variant 4;4;;;False;A;;SB;False;False;;False;False;False;complete;;;;D;In progress;;0.0
+LAB;NEW;ResA;2012/12/28 02:42:36.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+XAB;NEW;ResA;2012/12/30 03:16:28.000;Variant 3;3;;;False;A;;SB;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+RBB;NEW;ResA;2012/12/27 05:46:08.000;Variant 3;3;;;False;A;;NF;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+SBB;NEW;ResA;2012/12/30 05:46:49.000;Variant 3;3;;;False;A;;VB;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+YBB;NEW;ResA;2012/12/27 06:22:38.000;Variant 4;4;;;False;A;;AI;False;False;;False;False;False;complete;;;;F;In progress;;0.0
+ACB;NEW;ResA;2012/12/28 19:04:49.000;Variant 3;3;;;False;A;;DI;False;False;;True;False;True;complete;;;;S;In progress;;0.0
+KCB;NEW;ResHA;2012/12/30 10:42:07.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+KCB;CHANGE DIAGN;;2012/12/30 10:42:30.000;Variant 1;1;;;;;;GB;;;;;;;complete;;;;;In progress;;23.0
+VCB;NEW;ResAK;2012/12/28 10:02:04.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+VCB;CHANGE DIAGN;;2012/12/28 10:02:23.000;Variant 1;1;;;;;;CF;;;;;;;complete;;;;;In progress;;19.0
+JDB;NEW;ResFC;2012/12/28 14:26:08.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+JDB;CHANGE DIAGN;;2012/12/28 14:26:26.000;Variant 1;1;;;;;;E;;;;;;;complete;;;;;In progress;;18.0
+ODB;NEW;ResXL;2012/12/29 13:33:54.000;Variant 6;6;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+ODB;CHANGE DIAGN;;2012/12/29 13:34:39.000;Variant 6;6;;;;;;IJ;;;;;;;complete;;;;;In progress;;45.0
+PDB;NEW;ResME;2012/12/27 13:58:41.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+PDB;CHANGE DIAGN;;2012/12/27 13:59:02.000;Variant 1;1;;;;;;W;;;;;;;complete;;;;;In progress;;21.0
+RDB;NEW;ResGG;2012/12/31 15:14:01.000;Variant 149;149;;;False;B;;;False;False;;True;False;True;complete;;;;O;In progress;;0.0
+RDB;CHANGE DIAGN;;2012/12/31 15:14:22.000;Variant 149;149;;;;;;LO;;;;;;;complete;;;;;In progress;;21.0
+XDB;NEW;ResEM;2012/12/31 13:09:27.000;Variant 26;26;;;False;B;;;False;False;;True;False;True;complete;;;;Q;In progress;;0.0
+AEB;NEW;ResOD;2012/12/27 13:08:44.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+AEB;CHANGE DIAGN;;2012/12/27 13:08:53.000;Variant 1;1;;;;D;;BC;;;;;;;complete;;;;;In progress;;9.0
+AEB;FIN;ResA;2012/12/31 19:52:59.000;Variant 1;1;;;;;K;;;;;;;;complete;;;;;Closed;;369846.0
+SFB;NEW;ResHM;2012/12/29 10:04:53.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+SFB;CHANGE DIAGN;;2012/12/29 10:05:09.000;Variant 1;1;;;;;;TO;;;;;;;complete;;;;;In progress;;16.0
+HGB;NEW;ResJA;2012/12/27 22:56:12.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+KGB;NEW;ResJA;2012/12/28 22:56:19.000;Variant 4;4;;;False;F;;ZC;False;False;;False;False;False;complete;;;;J;In progress;;0.0
+KGB;DELETE;ResJM;2012/12/29 08:14:04.000;Variant 4;4;;;;;;;;;;;True;;complete;;;;;In progress;;33465.0
+PGB;NEW;ResJA;2012/12/27 22:56:21.000;Variant 2;2;;;False;C;;;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+YGB;NEW;ResA;2012/12/29 02:26:43.000;Variant 14;14;;;False;A;;VO;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+AHB;NEW;ResA;2012/12/31 02:40:53.000;Variant 3;3;;;False;A;;HE;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+CHB;NEW;ResA;2012/12/28 04:19:38.000;Variant 3;3;;;False;A;;DA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+DHB;NEW;ResA;2012/12/28 04:23:04.000;Variant 4;4;;;False;A;;FA;False;False;;True;False;False;complete;;;;M;In progress;;0.0
+FHB;NEW;ResA;2012/12/29 04:35:16.000;Variant 3;3;;;False;A;;FA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+OHB;NEW;ResRH;2012/12/31 11:27:04.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+OHB;CHANGE DIAGN;;2012/12/31 11:27:17.000;Variant 1;1;;;;;;YF;;;;;;;complete;;;;;In progress;;13.0
+THB;NEW;ResUC;2012/12/29 12:17:43.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+THB;CHANGE DIAGN;ResPD;2012/12/29 14:03:15.000;Variant 1;1;;;;;;FE;;;;;;;complete;;;;;In progress;;6332.0
+MIB;NEW;ResXE;2012/12/31 10:16:33.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+MIB;CHANGE DIAGN;;2012/12/31 10:45:10.000;Variant 1;1;;;;;;YC;;;;;;;complete;;;;;In progress;;1717.0
+QIB;NEW;ResKM;2012/12/30 13:04:40.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+QIB;CHANGE DIAGN;;2012/12/30 13:18:23.000;Variant 1;1;;;;;;DE;;;;;;;complete;;;;;In progress;;823.0
+UIB;NEW;ResRG;2012/12/28 15:53:26.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;A;In progress;;0.0
+UIB;CHANGE DIAGN;;2012/12/28 15:55:48.000;Variant 1;1;;;;;;DP;;;;;;;complete;;;;;In progress;;142.0
+YIB;NEW;ResFC;2012/12/28 15:19:13.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;B;In progress;;0.0
+YIB;CHANGE DIAGN;;2012/12/28 15:19:30.000;Variant 1;1;;;;;;SB;;;;;;;complete;;;;;In progress;;17.0
+CJB;NEW;ResUB;2012/12/30 15:18:02.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+CJB;CHANGE DIAGN;;2012/12/30 15:18:18.000;Variant 1;1;;;;;;EI;;;;;;;complete;;;;;In progress;;16.0
+MJB;NEW;ResGJ;2012/12/31 16:16:28.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;D;In progress;;0.0
+MJB;CHANGE DIAGN;;2012/12/31 16:16:42.000;Variant 1;1;;;;;;MC;;;;;;;complete;;;;;In progress;;14.0
+UJB;NEW;ResEJ;2012/12/29 15:51:26.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+UJB;CHANGE DIAGN;;2012/12/29 15:52:02.000;Variant 1;1;;;;;;BC;;;;;;;complete;;;;;In progress;;36.0
+EKB;NEW;ResMB;2012/12/31 17:06:18.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+EKB;CHANGE DIAGN;;2012/12/31 17:06:42.000;Variant 1;1;;;;;;Q;;;;;;;complete;;;;;In progress;;24.0
+HLB;NEW;ResA;2012/12/29 23:06:55.000;Variant 3;3;;;False;A;;AG;False;False;;True;False;True;complete;;;;H;In progress;;0.0
+JMB;NEW;ResYM;2012/12/31 11:52:44.000;Variant 26;26;;;False;B;;;False;False;;True;False;True;complete;;;;F;In progress;;0.0
+JMB;CHANGE DIAGN;;2012/12/31 11:53:01.000;Variant 26;26;;;;;;GC;;;;;;;complete;;;;;In progress;;17.0
+JMB;CHANGE DIAGN;ResJG;2012/12/31 12:03:20.000;Variant 26;26;;;;;;W;;;;;;;complete;;;;;In progress;;619.0
+SMB;NEW;ResLF;2012/12/31 13:25:12.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;C;In progress;;0.0
+SMB;CHANGE DIAGN;;2012/12/31 14:29:54.000;Variant 1;1;;;;;;WC;;;;;;;complete;;;;;In progress;;3882.0
+TMB;NEW;ResFD;2012/12/29 14:13:13.000;Variant 1;1;;;False;B;;;False;False;;True;False;True;complete;;;;M;In progress;;0.0
+YNB;NEW;ResA;2012/12/29 19:00:50.000;Variant 3;3;;;False;A;;LH;False;False;;True;False;True;complete;;;;P;In progress;;0.0
+HOB;NEW;ResA;2012/12/30 20:28:25.000;Variant 3;3;;;False;A;;Q;False;False;;True;False;True;complete;;;;G;In progress;;0.0
+LOB;NEW;ResJA;2012/12/31 22:53:52.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+IQB;NEW;ResA;2012/12/31 21:22:40.000;Variant 3;3;;;False;A;;HC;False;False;;True;False;True;complete;;;;L;In progress;;0.0
+MQB;NEW;ResJA;2012/12/30 22:54:02.000;Variant 2;2;;;False;C;;ZC;False;False;;False;False;True;complete;;;;K;In progress;;0.0
+PQB;NEW;ResVC;2012/12/30 23:22:16.000;Variant 3;3;;;False;B;;;False;False;;True;False;True;complete;;;;E;In progress;;0.0
+PQB;FIN;ResKH;2012/12/31 14:49:23.000;Variant 3;3;;;;;D;Z;;;;;;;complete;;;;;Closed;;55627.0
+IRB;NEW;ResA;2012/12/31 19:42:18.000;Variant 3;3;;;False;A;;IA;False;False;;True;False;True;complete;;;;M;In progress;;0.0
