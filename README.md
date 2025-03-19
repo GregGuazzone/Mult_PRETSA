@@ -1,126 +1,33 @@
-# PRETSA-Algorithm Family
-In this repository we provide the implementations for the PRETSA-algorithm-family. They provide algorithms to generate privatizied event logs that comply with k-anonymity and t-closeness. These event logs can be used for Process Mining. We provide an implementation of PRETSA in Python 3. Our code is available under the MIT license. Note, the MIT license is just for the source-code and not for the datasets in baselog.zip. If you use it for academic purposes please cite our paper:
-```
-@article{DBLP:journals/dke/FahrenkrogPetersenAW23,
-  author       = {Stephan A. Fahrenkrog{-}Petersen and
-                  Han van der Aa and
-                  Matthias Weidlich},
-  title        = {Optimal event log sanitization for privacy-preserving process mining},
-  journal      = {Data Knowl. Eng.},
-  volume       = {145},
-  pages        = {102175},
-  year         = {2023},
-  url          = {https://doi.org/10.1016/j.datak.2023.102175},
-  doi          = {10.1016/J.DATAK.2023.102175},
-  timestamp    = {Sun, 25 Jun 2023 22:03:53 +0200},
-  biburl       = {https://dblp.org/rec/journals/dke/FahrenkrogPetersenAW23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-}
-```
-You can access the corresponding research paper here:
-https://doi.org/10.1016/j.datak.2023.102175
+## Features added:
+- Differential Privacy:
+- Multi-Party Computation:
 
-## Requirements
-To run our algorithm you need the following Python packages:
-- Pandas (https://pandas.pydata.org/index.html)
-- SciPy (https://www.scipy.org)
-- NumPy (http://www.numpy.org)
-- AnyNode (https://anytree.readthedocs.io/en/latest/)
+### Differential Privacy:
+A type of attack that was not accounted for was the temporal aggregation of event logs by an attacker, who can then use background information like employee presence information to infer certain traces to particular employees. The authors failed to account for the temporal dimension of the event logs, which can be used to infer certain traces to particular employees.
+Suppose there is a very simplified example where there is a sequence A, B, and C in time t and attacker has background information that employees X, Y, and Z were employed in this time period. Now suppose that is only sequence A and B in time t+1 and the attacker knows that employee Z was no longer employed. The attacker can infer that employee Z was responsible for event C. The defense also has a lower privacy guarantee for employees X and Y as the attacker can infer that they were not responsible for event C.
+Differential privacy protects against temporal correlation attacks by introducing uncertainty in the presence or absence of specific activity sequences. When an attacker observes changes between temporal releases (e.g., an activity sequence present in time t but absent in t+1), they cannot confidently attribute this to actual employee changes.
 
-We did run our algorithm only with Python 3, so we can not guarantee that it works with Python 2.
+* Modified PRETSA:
+  1. If `previous_logs` are provided, `__extract_previous_traces(self)` is called to extract the traces from the previous logs.
+  2. After the original PRETSA is ran, `__apply_differential_privacy(self)` is called to add noise to the traces.
 
-## How to run PRETSA
+The modified algorithm now:
+- Takes in a event logs that were previously released
+- The differential privacy implementation utilizes the Laplace mechanism to add controlled noise to sequence counts, protecting against temporal correlation attacks. Trace matching between current and previous logs is performed by extracting activity sequences and applying noise `(np.random.laplace(0, 1/epsilon))`
 
-The algorithm PRETSA itself is implemented in the file *pretsa.py*. To run the algorithm you first have to initiate the *Pretsa* class and hand over an event log represented as a pandas dataframe:
-```
-eventLog = pd.read_csv(filePath, delimiter=";")
-pretsa = Pretsa(eventLog)
-```
-As a next step you run the PRETSA algorithm with your choosen k-anonymity(an integer) and t-closesness(a float) parameter. The algorithm then returns the cases that have been modified:
-```
-cutOutCases = pretsa.runPretsa(k,t)
-```
-Note that the privacy constraint k-anonymity gets stronger with a higher value, while t-closeness can have values between 1.0 and 0.0 with the lowest value giving the strongest privacy guarantee.
+> Note: I split up the provided dataframe by year to simulate temporal releases.
 
-Finally we can return our privatizied event log as a pandas dataframe:
-```
-privateEventLog = pretsa.getPrivatisedEventLog()
-```
+- To run:
+  - `python runDiffPretsa.py <current_log_path> [k] [t] --prev_logs_dir <previous_logs_dir> --epsilon [epsilon]`
+  - example: `python runDiffPretsa.py yearly_logs/bpic2013/bpic2013_dataset_2012.csv 4 0.5 --prev_logs_dir yearly_logs/bpic2013/released --epsilon 0.1`
 
-Please consider that your original event log must contain at least the following attributes(column names), so that PRETSA can process it:
-- Case Id
-- Activity
-- Duration
+- Add `--compare` to run a comparison between the original and the differentially private
+  - example: `python runDiffPretsa.py yearly_logs/bpic2013/bpic2013_dataset_2012.csv 4 0.5 --prev_logs_dir yearly_logs/bpic2013/released --epsilon 0.1 --compare`
 
-If you want to use different attribute column names you can change the following variables in *pretsa.py*:
-- caseIDColName
-- activityColName
-- annotationColName
+### Multi-Party Computation:
+Suppose different parts of a business hold different parts of the whole business' event log. Some employees might work in multiple departments and affect different department's event logs, so privacy guarantee must be cross-departmental and be ensured for the whole business. This feature allows a central coordinator to compute the overrall pretsa event log and then splits it back up to the different departments.
+The MPC implementation uses the Fernet symmetric encryption scheme to protect data in transit between participants and coordinator. Each participant generates a unique key `(Fernet.generate_key())`, encrypts their log `(cipher.encrypt(pickle.dumps(self.event_log)))`, and only receives their portion of the sanitized result.
 
-## How to repeat our experiments
-
-We will describe in this section how we conducted our experiments for our ICPM 2019 submission:
-
-First we generated the duration annotation with the following script:
-```
-python add_annotation_duration.py <fileName> <dataset>
-```
-
-Next by running the script *runPretsa.py* we generated the event log's generated by PRETSA with choosen parameters for *k* and *t*:
-```
-python runPretsa.py <fileName> <k> <t>
-```
-To generate privatizied event logs with our baseline approach we run the script *generate_baseline_log.py*:
-```
-python generate_baseline_log.py <fileName> <k> <t>
-```
-
-To compare the fitness and precision of the event logs we used ProM. The calculate the statistcs of event logs( e.g. number of variants in the log) we run the script *calculateDatasetStatistics.py*. Alternatively we can run the script *calculateBaselineStatistics.py* and *calculatePRETSAEventLogStatistics.py* to save the number of variants in the PRETSA/baseline event logs into a csv-file:
-```
-python calculateDatasetStatustics.py <fileName>
-python calculatBaselineEventLogStatistics.py <dictName>
-python calculatePRETSAEventLogStatistics.py <dictName>
-```
-
-To calculate the annotation error we did the scripts *calculateAnnotationsEventLog_baseline.py* and *calculateAnnotationsEventLog_pretsa.py* to calculate the average annotation for the privatizied event logs:
-```
-python calculateAnnotationsEventLog_baseline.py <dictName>
-python calculateAnnotationsEventLog_pretsa.py <dictName>
-```
-
-With *generateAnnotationOriginalDataset.py* we generate the statistics of the original event logs:
-```
-python generateAnnotationOriginalDataset.py <dictName>
-```
-
-Finally we run *calculateAnnotationError.py* to calculate the relative error of the annotations for each activity:
-```
-python calculateAnnotationError.py <dictName>
-```
-# PRETSA*/BF-PRETSA
-Furthermore this repository contains the implementation of improved versions of the PRETSA-algorithm currently under reviews as a journal extension. These algorithms are namely:
-- PRETSA* -> An algorithm that guarantees optimal event log sanitazation through application of A*-search
-- BF-PRETSA -> An algorithm using best-first search
-
-## How to repeat our experiments
-
-We will describe in this section how we conducted our experiments for our journal extension:
-```
-python startExperimentsForJournalExtension_<algorithmName>.py <filePath>
-```
-That the parallel execution of all anonymization settings for the algorithm specified in <algorithmName>. Please note, that this starts 25 processes at the same time. All of them potentially need intensive computional resources. Therefore, we recommend only executing these scripts on a powerful server.
- 
-The evaluation metrics can be derived by running the the following scripts:
-```
-python getResultsJournalExtension_<evaluation_metric>.py <dirPath> <dataset> 
-```
-## How to repeat our experiments
-Baselogs.zip contains the dataset we used for our experiment. These logs do not fall under the MIT Licence (since we did not have ownership of the original data) and are still under there previously used license.
-  
-## How to contact us
-PRETSA was developed at the Process-driven Architecture group of Humboldt-Universität zu Berlin. If you want to contact us, just send us a mail at: fahrenks || hu-berlin.de
-  
-## Find out more about our research
-If you wamt find out more about our research, you can visit the following website: 
-https://sites.google.com/view/sfahrenkrog-petersen/home
+- To run:
+  - As coordinator: `python run_mpc_coordinator.py`, wait for participants and input `c` to start the computation (when restarting, the port needs to clear ~10 seconds)
+  - As a participant: `python run_mpc_participant.py <participant_id> <log_file>`
